@@ -6,11 +6,11 @@ The list of tools, programming libraries and APIs used in web-scraping.
 
 * [Python](http://github.com/lorien/web-scraping/blob/master/python.md)
 
-## Other
+## Other stuff
 
 * [Web Services](http://github.com/lorien/web-scraping/blob/master/web_service.md)
 
 
-## [Contributing](https://github.com/lorien/web-scraping/blob/master/CONTRIBUTING.md)
+## Contributing
 
-Make this list better! Your contributions are always welcome!
+Make this list better! Your contributions are always welcome! See [contributing how-to](https://github.com/lorien/web-scraping/blob/master/CONTRIBUTING.md)
