@@ -3,34 +3,34 @@
 ## Network Request
 * [urllib](https://docs.python.org/3.4/library/urllib.html?highlight=urllib#module-urllib) - standard python network library
 * [requests](http://www.python-requests.org/) - network library
-* [grab](http://github.com/lorien/grab) - network library (pycurl based)
+* [grab](http://docs.grablib.org/en/latest/) - network library (pycurl based)
 * [pycurl](http://pycurl.sourceforge.net/) - network library (binding to [libcurl](http://curl.haxx.se/libcurl/))
 * [urllib3](https://github.com/shazow/urllib3) - network library
 
 ## Web-Scraping Frameworks
-* [grab](http://github.com/lorien/grab) - web-scraping framework (pycurl/multicurl based)
-* [scrapy](http://scrapy.org/) - web-scraping framework (twisted based)
+* [grab](http://docs.grablib.org/en/latest/#grab-spider-user-manual) - web-scraping framework (pycurl/multicurl based)
+* [scrapy](http://scrapy.org/) - web-scraping framework (twisted based). Does not support Python3.
 
 ## HTML/XML Parsing
-* [lxml](http://lxml.de) - effective HTML/XML processing library. Supports XPATH.
-* [cssselect](https://pythonhosted.org/cssselect) - quering DOM tree with CSS expressions
-* [pyquery](http://pythonhosted.org//pyquery/) - парсинг XML/HTML с помощью jquery-запросов (требует lxml)
-* [BeautifulSoup](http://www.crummy.com/software/BeautifulSoup/bs4/doc/) - глючная тормозная библиотека для парсинга XML/HTML, не поддерживающая xpath запросы, плюсом является то, что она написана на чистом питоне.
-* [WHATWG](http://html5lib.readthedocs.org/en/latest/]html5lib[/url] - парсинг и сериализация HTML по спецификации [url=http://www.whatwg.org/) (на неё ориентируются современные веб-браузеры). Возможно выбрать для построения DOM-дерева, как встроенные средства питона, так и библиотеки lxml или BeautifulSoup.
-* [feedparser](http://pythonhosted.org/feedparser/) - парсинг RSS и ATOM фидов.
-* [Bleach](http://bleach.readthedocs.org/en/latest/) - библиотека для очистки HTML (требует html5lib)
+* [lxml](http://lxml.de) - effective HTML/XML processing library. Supports XPATH. Written in C.
+* [cssselect](https://pythonhosted.org/cssselect) - working with DOM tree with CSS selectors
+* [pyquery](http://pythonhosted.org//pyquery/) - working with DOM tree with jQuery-like selectors
+* [BeautifulSoup](http://www.crummy.com/software/BeautifulSoup/bs4/doc/) - slow HTML/XMl processing library, written in pure python
+* [html5lib](http://html5lib.readthedocs.org/en/latest/) - building DOM of HTML/XML парсинг according to [WHATWG spec](url=http://www.whatwg.org/). That spec is used in all modern browsers.
+* [feedparser](http://pythonhosted.org/feedparser/) - parsing of RSS/ATOM feeds.
+* [Bleach](http://bleach.readthedocs.org/en/latest/) - cleaning of HTML (requires html5lib)
 
-## Эмуляторы браузеров
-* [selenium](http://selenium.googlecode.com/git/docs/api/py/api.html) - средство для тестирования веб-интерфейсов с помощью реальных браузеров: google chrome, opera, firefox, IE. Можно и сайты через него парсить. Есть некоторые неудобства, связанные с идеологией инструмента - он позволяет эмулировать внешние действия пользователя. Например, задать свой собственный Referer - это уже проблема. Не требует дополнительных зависимостей.
-* [Ghost.py](http://carrerasrodrigo.github.io/Ghost.py/) - обёртка над QtWebKit (требует PyQt или PySide)
-* [Spynner](https://github.com/makinacorpus/spynner) - ещё одна обёртка над QtWebKit, более ничего не знаю про эту либу :)
+## Browser automation and emulation
+* [selenium](http://selenium.googlecode.com/git/docs/api/py/api.html) - automating real browsers (Chrome, Firefox, Opera, IE)
+* [Ghost.py](http://carrerasrodrigo.github.io/Ghost.py/) - wrapper of QtWebKit (requires PyQT)
+* [Spynner](https://github.com/makinacorpus/spynner) - wrapper of QtWebKit QtWebKit (requires PyQT)
 
-## Параллельная многозадачность
-* [threading](http://docs.python.org/2.7/library/threading.html) - встроенный в python модуль для реализации многозадачности с помощью тредов (объекты языка, выполняющиеся в одном процессе). Минусы подхода в том, что вы не можете загрузить вычислениями более одного ядра.
-* [multiprocessing](http://docs.python.org/2.7/library/multiprocessing.html) - встроенный в python модуль для реализации многозадачности с помощью процессов
-* [celery](http://celery.readthedocs.org/en/latest/index.html) - навороченная реализация очереди задач, поддерживающая различные бэкенды для хранения этой самой очереди задач.
-* [RQ](http://python-rq.org/docs/) - легковесная очередь задач, использующая redis
+## Multiprocessing
+* [threading](http://docs.python.org/2.7/library/threading.html) - standard python library to run threads. Effective for I/O-bound tasks. Useless for CPU-bound tasks because of python GIL.
+* [multiprocessing](http://docs.python.org/2.7/library/multiprocessing.html) - standard python library to run processes.
+* [celery](http://celery.readthedocs.org/en/latest/index.html) - task queue manager
+* [RQ](http://python-rq.org/docs/) - lightweight task queue manager based on redis
 
-## Облачные вычислениях
-* [picloud](http://docs.picloud.com/) - выполнение python-кода в облаке
-* [dominoup.com](http://www.dominoup.com/) - выполнение R, Python и matlab кода в облаке
+## Cloud Computing
+* [picloud](http://docs.picloud.com/) - executing python-code in cloud
+* [dominoup.com](http://www.dominoup.com/) - executing R, Python и matlab code in cloud
