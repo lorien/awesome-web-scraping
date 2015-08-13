@@ -50,6 +50,29 @@
     * [python-nameparser](https://github.com/derek73/python-nameparser) - Parsing human names into their individual components.
     * [pyparsing](http://pyparsing.wikispaces.com/) - A general purpose framework for generating parsers.
 
+## Specific Formats Processing
+
+*Libraries for parsing and manipulating specific text formats.*
+
+* General
+    * [tablib](https://github.com/kennethreitz/tablib) - A module for Tabular Datasets in XLS, CSV, JSON, YAML.
+* Office
+    * [python-docx](https://github.com/python-openxml/python-docx) - Reads, queries and modifies Microsoft Word 2007/2008 docx files.
+    * [xlwt](https://github.com/python-excel/xlwt) / [xlrd](https://github.com/python-excel/xlrd) - Writing and reading data and formatting information from Excel files.
+    * [XlsxWriter](https://xlsxwriter.readthedocs.org/) - A Python module for creating Excel .xlsx files.
+    * [xlwings](http://xlwings.org/) - A BSD-licensed library that makes it easy to call Python from Excel and vice versa.
+    * [openpyxl](https://openpyxl.readthedocs.org/en/latest/) - A library for reading and writing Excel 2010 xlsx/xlsm/xltx/xltm files.
+    * [Marmir](https://github.com/brianray/mm) - Takes Python data structures and turns them into spreadsheets.
+* PDF
+    * [PDFMiner](https://github.com/euske/pdfminer) - A tool for extracting information from PDF documents.
+    * [PyPDF2](https://github.com/mstamy2/PyPDF2) - A library capable of splitting, merging and transforming PDF pages.
+    * [ReportLab](http://www.reportlab.com/opensource/) - Allowing Rapid creation of rich PDF documents.
+* Markdown
+    * [Python-Markdown](https://github.com/waylan/Python-Markdown) - A Python implementation of John Gruber’s Markdown.
+    * [Mistune](https://github.com/lepture/mistune) - Fastest and full featured pure Python parsers of Markdown.
+* YAML
+    * [PyYAML](http://pyyaml.org/) - YAML implementations for Python.
+
 ## Browser automation and emulation
 * [selenium](http://selenium.googlecode.com/git/docs/api/py/api.html) - automating real browsers (Chrome, Firefox, Opera, IE)
 * [Ghost.py](http://carrerasrodrigo.github.io/Ghost.py/) - wrapper of QtWebKit (requires PyQT)
