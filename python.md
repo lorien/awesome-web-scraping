@@ -189,3 +189,11 @@
 * [Crossbar](https://github.com/crossbario/crossbar/) - Open-source Unified Application Router (Websocket & WAMP for Python on Autobahn).
 * [AutobahnPython](https://github.com/tavendo/AutobahnPython) - WebSocket & WAMP for Python on Twisted and [asyncio](https://docs.python.org/3/library/asyncio.html).
 * [WebSocket-for-Python](https://github.com/Lawouach/WebSocket-for-Python) - WebSocket client and server library for Python 2 and 3 as well as PyPy.
+
+## Other python lists
+
+ * [awesome-python](https://github.com/vinta/awesome-python)
+ * [pycrumbs](https://github.com/kirang89/pycrumbs/blob/master/pycrumbs.md)
+ * [python-github-projects](https://github.com/checkcheckzz/python-github-projects)
+ * [python_reference](https://github.com/rasbt/python_reference)
+ * [pythonidae](https://github.com/svaksha/pythonidae)
