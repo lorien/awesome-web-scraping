@@ -6,6 +6,7 @@
 * [grab](http://docs.grablib.org/en/latest/) - network library (pycurl based)
 * [pycurl](http://pycurl.sourceforge.net/) - network library (binding to [libcurl](http://curl.haxx.se/libcurl/))
 * [urllib3](https://github.com/shazow/urllib3) - network library
+* [httplib2](https://github.com/jcgregorio/httplib2) - network library
 
 ## Web-Scraping Frameworks
 * [grab](http://docs.grablib.org/en/latest/#grab-spider-user-manual) - web-scraping framework (pycurl/multicurl based)
