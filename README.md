@@ -15,6 +15,10 @@ The list of tools, programming libraries and APIs used in web-scraping.
 
 Make this list better! Your contributions are always welcome! See [contributing how-to](https://github.com/lorien/web-scraping/blob/master/CONTRIBUTING.md)
 
+## List of lists
+* [lists](https://github.com/jnv/lists) - List of useful, silly and awesome lists curated on GitHub
+
 ## Credits
 This list partially contains data from these sources:
 * [awesome-python](https://github.com/vinta/awesome-python) by [vinta](https://github.com/vinta) / [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/)
+
