@@ -1,5 +1,7 @@
 # Python Web Scraping Libraries
 
+This list contains python libraries and tools related to web scraping and data processing
+
 ## Network Request
 * [urllib](https://docs.python.org/3.4/library/urllib.html?highlight=urllib#module-urllib) - standard python network library
 * [requests](http://www.python-requests.org/) - network library
