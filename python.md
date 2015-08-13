@@ -21,6 +21,35 @@
 * [feedparser](http://pythonhosted.org/feedparser/) - parsing of RSS/ATOM feeds.
 * [Bleach](http://bleach.readthedocs.org/en/latest/) - cleaning of HTML (requires html5lib)
 
+## Text Processing
+
+*Libraries for parsing and manipulating plain texts.*
+
+* General
+    * [difflib](https://docs.python.org/2/library/difflib.html) - (Python standard library) Helpers for computing deltas.
+    * [Levenshtein](https://github.com/ztane/python-Levenshtein/) - Fast computation of Levenshtein distance and string similarity.
+    * [fuzzywuzzy](https://github.com/seatgeek/fuzzywuzzy) - Fuzzy String Matching.
+    * [esmre](https://code.google.com/p/esmre/) - Regular expression accelerator.
+    * [shortuuid](https://github.com/stochastic-technologies/shortuuid) - A generator library for concise, unambiguous and URL-safe UUIDs.
+    * [ftfy](https://github.com/LuminosoInsight/python-ftfy) - Makes Unicode text less broken and more consistent automagically.
+    * [unidecode](https://pypi.python.org/pypi/Unidecode) - ASCII transliterations of Unicode text.
+    * [chardet](https://github.com/chardet/chardet) - Python 2/3 compatible character encoding detector.
+    * [xpinyin](https://github.com/lxneng/xpinyin) - A library to translate Chinese hanzi (漢字) to pinyin (拼音).
+    * [pangu.py](https://github.com/vinta/pangu.py) - Spacing texts for CJK and alphanumerics.
+    * [pyfiglet](https://github.com/pwaller/pyfiglet) - An implementation of figlet written in Python.
+    * [uniout](https://github.com/moskytw/uniout) - Print readable chars instead of the escaped string.
+* Slugify
+    * [awesome-slugify](https://github.com/dimka665/awesome-slugify) - A Python slugify library that can preserve unicode.
+    * [python-slugify](https://github.com/un33k/python-slugify) - A Python slugify library that translates unicode to ASCII.
+    * [unicode-slugify](https://github.com/mozilla/unicode-slugify) - A slugifier that generates unicode slugs with Django as a dependency.
+* Parser
+    * [PLY](http://www.dabeaz.com/ply/) - Implementation of lex and yacc parsing tools for Python
+    * [phonenumbers](https://github.com/daviddrysdale/python-phonenumbers) - Parsing, formatting, storing and validating international phone numbers.
+    * [python-user-agents](https://github.com/selwin/python-user-agents) - Browser user agent parser.
+    * [sqlparse](https://sqlparse.readthedocs.org/) - A non-validating SQL parser.
+    * [python-nameparser](https://github.com/derek73/python-nameparser) - Parsing human names into their individual components.
+    * [pyparsing](http://pyparsing.wikispaces.com/) - A general purpose framework for generating parsers.
+
 ## Browser automation and emulation
 * [selenium](http://selenium.googlecode.com/git/docs/api/py/api.html) - automating real browsers (Chrome, Firefox, Opera, IE)
 * [Ghost.py](http://carrerasrodrigo.github.io/Ghost.py/) - wrapper of QtWebKit (requires PyQT)
