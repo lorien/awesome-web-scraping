@@ -8,8 +8,8 @@ The list of tools, programming libraries and APIs used in web-scraping.
 
 ## Other stuff
 
-* [Web Services](http://github.com/lorien/web-scraping/blob/master/web_service.md)
-
+* [Web Services](http://github.com/lorien/web-scraping/blob/master/web_services.md)
+* [Console tools](http://github.com/lorien/web-scraping/blob/master/console_tools.md)
 
 ## Contributing
 
