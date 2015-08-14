@@ -33,6 +33,7 @@ This list contains python libraries and tools related to web scraping and data p
 * [MechanicalSoup](https://github.com/hickford/MechanicalSoup) - A Python library for automating interaction with websites.
 * [mechanize](https://github.com/jjlee/mechanize) - Stateful programmatic web browsing.
 * [socket](https://docs.python.org/3/library/socket.html) low-level networking interface (stdlib)
+* [grequests](https://github.com/kennethreitz/grequests) - GRequests allows you to use Requests with Gevent to make asynchronous HTTP Requests easily.
 
 ## Web-Scraping Frameworks
 * [grab](http://docs.grablib.org/en/latest/#grab-spider-user-manual) - web-scraping framework (pycurl/multicurl based)
@@ -221,3 +222,6 @@ This list contains python libraries and tools related to web scraping and data p
  * [python-github-projects](https://github.com/checkcheckzz/python-github-projects)
  * [python_reference](https://github.com/rasbt/python_reference)
  * [pythonidae](https://github.com/svaksha/pythonidae)
+
+## DNS Resolving
+  * [dnsyo](https://github.com/samarudge/dnsyo) - Check your DNS against over 1500 global DNS servers.
