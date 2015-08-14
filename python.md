@@ -10,6 +10,7 @@ This list contains python libraries and tools related to web scraping and data p
 * [urllib3](https://github.com/shazow/urllib3) - network library
 * [httplib2](https://github.com/jcgregorio/httplib2) - network library
 * [treq](https://github.com/dreid/treq) - requests like API (twisted based)
+* [mechanize](https://pypi.python.org/pypi/mechanize) - stateful programmatic web browsing
 
 ## Stateful HTTP clients
 * [grab](http://docs.grablib.org/en/latest/) - network library (pycurl based)
