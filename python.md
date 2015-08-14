@@ -224,6 +224,7 @@ This list contains python libraries and tools related to web scraping and data p
 ## Computer Vision
   * [OpenCV](https://github.com/Itseez/opencv) - Open Source Computer Vision Library.
   * [SimpleCV](https://github.com/sightmachine/SimpleCV) - Concise, readable interface for cameras, image manipulation, feature extraction, and format conversion (based on OpenCV).
+  * [mahotas](https://github.com/luispedro/mahotas) - fast computer vision algorithms (all implemented in C++) operating over numpy arrays.
 
 ## Other python lists
 
