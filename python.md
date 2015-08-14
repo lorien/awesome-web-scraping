@@ -1,6 +1,26 @@
-# Python Web Scraping Libraries
+# Python Web Scraping
 
 This list contains python libraries and tools related to web scraping and data processing
+
+* [python libraries](#python-web-scraping)
+   * [Network Request](#network-request)
+   * [Stateful HTTP Clients](#stateful-http-clients)
+   * [Web-scraping Frameworks](#web-scraping-frameworks)
+   * [HTML/XML Parsing](#htmlxml-parsing)
+   * [Text processing](#text-processing)
+   * [Specific Formats Processing](#specific-formats-processing)
+   * [Natural Language Processing](#natural-language-processing)
+   * [Downloader](#downloader)
+   * [Browser automation and emulation](#browser-automation-and-emulation)
+   * [Multiprocessing](#multiprocessing)
+   * [Queue](#queue)
+   * [Cloud Computing](#cloud-computing)
+   * [Email](#email)
+   * [URL Manipulation](#url-manipulation)
+   * [Web Content Extracting](#web-content-extracting)
+   * [Asynchronous](#asynchronous)
+   * [WebSocket](#websocket)
+   * [Other Python Lists](#other-python-lists)
 
 ## Network Request
 * [urllib](https://docs.python.org/3.4/library/urllib.html?highlight=urllib#module-urllib) - standard python network library
