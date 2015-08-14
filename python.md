@@ -19,6 +19,8 @@ This list contains python libraries and tools related to web scraping and data p
    * [Web Content Extracting](#web-content-extracting)
    * [Asynchronous](#asynchronous)
    * [WebSocket](#websocket)
+   * [DNS Resolving](#dns-resolving)
+   * [Computer Vision](#computer-vision)
    * [Other Python Lists](#other-python-lists)
 
 ## Network
@@ -216,6 +218,13 @@ This list contains python libraries and tools related to web scraping and data p
 * [AutobahnPython](https://github.com/tavendo/AutobahnPython) - WebSocket & WAMP for Python on Twisted and [asyncio](https://docs.python.org/3/library/asyncio.html).
 * [WebSocket-for-Python](https://github.com/Lawouach/WebSocket-for-Python) - WebSocket client and server library for Python 2 and 3 as well as PyPy.
 
+## DNS Resolving
+  * [dnsyo](https://github.com/samarudge/dnsyo) - Check your DNS against over 1500 global DNS servers.
+
+## Computer Vision
+  * [OpenCV](https://github.com/Itseez/opencv) - Open Source Computer Vision Library.
+  * [SimpleCV](https://github.com/sightmachine/SimpleCV) - Concise, readable interface for cameras, image manipulation, feature extraction, and format conversion (based on OpenCV).
+
 ## Other python lists
 
  * [awesome-python](https://github.com/vinta/awesome-python)
@@ -223,6 +232,3 @@ This list contains python libraries and tools related to web scraping and data p
  * [python-github-projects](https://github.com/checkcheckzz/python-github-projects)
  * [python_reference](https://github.com/rasbt/python_reference)
  * [pythonidae](https://github.com/svaksha/pythonidae)
-
-## DNS Resolving
-  * [dnsyo](https://github.com/samarudge/dnsyo) - Check your DNS against over 1500 global DNS servers.
