@@ -2,9 +2,8 @@
 
 This list contains python libraries and tools related to web scraping and data processing
 
-* [python libraries](#python-web-scraping)
-   * [Network Request](#network-request)
-   * [Stateful HTTP Clients](#stateful-http-clients)
+* [Python Web Scraping](#python-web-scraping)
+   * [Network](#network)
    * [Web-scraping Frameworks](#web-scraping-frameworks)
    * [HTML/XML Parsing](#htmlxml-parsing)
    * [Text processing](#text-processing)
@@ -22,28 +21,25 @@ This list contains python libraries and tools related to web scraping and data p
    * [WebSocket](#websocket)
    * [Other Python Lists](#other-python-lists)
 
-## Network Request
-* [urllib](https://docs.python.org/3.4/library/urllib.html?highlight=urllib#module-urllib) - standard python network library
-* [requests](http://www.python-requests.org/) - network library
-* [grab](http://docs.grablib.org/en/latest/) - network library (pycurl based)
-* [pycurl](http://pycurl.sourceforge.net/) - network library (binding to [libcurl](http://curl.haxx.se/libcurl/))
+## Network
+* [urllib](https://docs.python.org/3.4/library/urllib.html?highlight=urllib#module-urllib) - network library (stdlib)
+* [requests](https://github.com/kennethreitz/requests) - network library
+* [grab](https://github.com/lorien/grab) - network library (pycurl based)
+* [pycurl](https://github.com/pycurl/pycurl) - network library (binding to [libcurl](http://curl.haxx.se/libcurl/))
 * [urllib3](https://github.com/shazow/urllib3) - network library
 * [httplib2](https://github.com/jcgregorio/httplib2) - network library
 * [treq](https://github.com/dreid/treq) - requests like API (twisted based)
-
-## Stateful HTTP clients
-* [grab](http://docs.grablib.org/en/latest/) - network library (pycurl based)
-* [requests](http://www.python-requests.org/) - network library
 * [RoboBrowser](https://github.com/jmcarp/robobrowser) - A simple, Pythonic library for browsing the web without a standalone web browser.
 * [MechanicalSoup](https://github.com/hickford/MechanicalSoup) - A Python library for automating interaction with websites.
-* [mechanize](http://wwwsearch.sourceforge.net/mechanize/) - Stateful programmatic web browsing.
-* [cola](https://github.com/chineking/cola) - A distributed crawling framework.
-* [pyspider](https://github.com/binux/pyspider) - A powerful spider system.
+* [mechanize](https://github.com/jjlee/mechanize) - Stateful programmatic web browsing.
+* [socket](https://docs.python.org/3/library/socket.html) low-level networking interface (stdlib)
 
 ## Web-Scraping Frameworks
 * [grab](http://docs.grablib.org/en/latest/#grab-spider-user-manual) - web-scraping framework (pycurl/multicurl based)
 * [scrapy](http://scrapy.org/) - web-scraping framework (twisted based). Does not support Python3.
 * [portia](https://github.com/scrapinghub/portia) - Visual scraping for Scrapy.
+* [pyspider](https://github.com/binux/pyspider) - A powerful spider system.
+* [cola](https://github.com/chineking/cola) - A distributed crawling framework.
 
 ## HTML/XML Parsing
 * [lxml](http://lxml.de) - effective HTML/XML processing library. Supports XPATH. Written in C.
@@ -67,29 +63,27 @@ This list contains python libraries and tools related to web scraping and data p
     * [Levenshtein](https://github.com/ztane/python-Levenshtein/) - Fast computation of Levenshtein distance and string similarity.
     * [fuzzywuzzy](https://github.com/seatgeek/fuzzywuzzy) - Fuzzy String Matching.
     * [esmre](https://code.google.com/p/esmre/) - Regular expression accelerator.
-    * [shortuuid](https://github.com/stochastic-technologies/shortuuid) - A generator library for concise, unambiguous and URL-safe UUIDs.
     * [ftfy](https://github.com/LuminosoInsight/python-ftfy) - Makes Unicode text less broken and more consistent automagically.
-    * [unidecode](https://pypi.python.org/pypi/Unidecode) - ASCII transliterations of Unicode text.
-    * [chardet](https://github.com/chardet/chardet) - Python 2/3 compatible character encoding detector.
-    * [xpinyin](https://github.com/lxneng/xpinyin) - A library to translate Chinese hanzi (漢字) to pinyin (拼音).
-    * [pangu.py](https://github.com/vinta/pangu.py) - Spacing texts for CJK and alphanumerics.
-    * [pyfiglet](https://github.com/pwaller/pyfiglet) - An implementation of figlet written in Python.
-    * [uniout](https://github.com/moskytw/uniout) - Print readable chars instead of the escaped string.
+* Transliteration
+  * [unidecode](https://pypi.python.org/pypi/Unidecode) - ASCII transliterations of Unicode text.
+* Character encoding
+  * [uniout](https://github.com/moskytw/uniout) - Print readable chars instead of the escaped string.
+  * [chardet](https://github.com/chardet/chardet) - Python 2/3 compatible character encoding detector.
+  * [xpinyin](https://github.com/lxneng/xpinyin) - A library to translate Chinese hanzi (漢字) to pinyin (拼音).
+  * [pangu.py](https://github.com/vinta/pangu.py) - Spacing texts for CJK and alphanumerics.
 * Slugify
     * [awesome-slugify](https://github.com/dimka665/awesome-slugify) - A Python slugify library that can preserve unicode.
     * [python-slugify](https://github.com/un33k/python-slugify) - A Python slugify library that translates unicode to ASCII.
-    * [unicode-slugify](https://github.com/mozilla/unicode-slugify) - A slugifier that generates unicode slugs with Django as a dependency.
-* Parser
+    * [unicode-slugify](https://github.com/mozilla/unicode-slugify) - A slugifier that generates unicode slugs.
+* General Parser
     * [PLY](http://www.dabeaz.com/ply/) - Implementation of lex and yacc parsing tools for Python
-    * [phonenumbers](https://github.com/daviddrysdale/python-phonenumbers) - Parsing, formatting, storing and validating international phone numbers.
-    * [python-user-agents](https://github.com/selwin/python-user-agents) - Browser user agent parser.
-    * [sqlparse](https://sqlparse.readthedocs.org/) - A non-validating SQL parser.
-    * [python-nameparser](https://github.com/derek73/python-nameparser) - Parsing human names into their individual components.
     * [pyparsing](http://pyparsing.wikispaces.com/) - A general purpose framework for generating parsers.
-* CSS
-    * [cssutils](https://pypi.python.org/pypi/cssutils/) - A CSS library for Python.
-* ATOM/RSS
-    * [feedparser](http://pythonhosted.org/feedparser/) - Universal feed parser.
+* Human names
+  * [python-nameparser](https://github.com/derek73/python-nameparser) - Parsing human names into their individual components.
+* Phone Number
+    * [phonenumbers](https://github.com/daviddrysdale/python-phonenumbers) - Parsing, formatting, storing and validating international phone numbers.
+* User-agent string
+    * [python-user-agents](https://github.com/selwin/python-user-agents) - Browser user agent parser.
 
 ## Specific Formats Processing
 
@@ -113,6 +107,12 @@ This list contains python libraries and tools related to web scraping and data p
     * [Mistune](https://github.com/lepture/mistune) - Fastest and full featured pure Python parsers of Markdown.
 * YAML
     * [PyYAML](http://pyyaml.org/) - YAML implementations for Python.
+* CSS
+    * [cssutils](https://pypi.python.org/pypi/cssutils/) - A CSS library for Python.
+* ATOM/RSS
+    * [feedparser](http://pythonhosted.org/feedparser/) - Universal feed parser.
+* SQL
+  * [sqlparse](https://sqlparse.readthedocs.org/) - A non-validating SQL parser.
 
 ## Natural Language Processing
 
@@ -136,7 +136,6 @@ This list contains python libraries and tools related to web scraping and data p
 * [s4cmd](https://github.com/bloomreach/s4cmd) - Super S3 command line tool, good for higher performance.
 * [youtube-dl](http://rg3.github.io/youtube-dl/) - A small command-line program to download videos from YouTube.
 * [you-get](http://www.soimort.org/you-get/) - A YouTube/Youku/Niconico video downloader written in Python 3.
-* [coursera](https://github.com/coursera-dl/coursera) - Script for downloading Coursera.org videos and naming them.
 * [WikiTeam](https://github.com/WikiTeam/wikiteam) - Tools for downloading and preserving wikis.
 * [subliminal](https://github.com/Diaoul/subliminal) - Library and command line tool to search and download subtitles.
 
@@ -148,6 +147,18 @@ This list contains python libraries and tools related to web scraping and data p
 ## Multiprocessing
 * [threading](http://docs.python.org/2.7/library/threading.html) - standard python library to run threads. Effective for I/O-bound tasks. Useless for CPU-bound tasks because of python GIL.
 * [multiprocessing](http://docs.python.org/2.7/library/multiprocessing.html) - standard python library to run processes.
+* [celery](http://www.celeryproject.org/) - An asynchronous task queue/job queue based on distributed message passing.
+* [concurrent-futures](https://docs.python.org/3/library/concurrent.futures.html) - The concurrent.futures module provides a high-level interface for asynchronously executing callables.
+
+## Asynchronous
+
+*Libraries for asynchronous networking programming.*
+
+* [asyncio](https://docs.python.org/3/library/asyncio.html) - (Python standard library in Python 3.4+) Asynchronous I/O, event loop, coroutines and tasks.
+* [Twisted](https://twistedmatrix.com/trac/) - An event-driven networking engine.
+* [Tornado](http://www.tornadoweb.org/) - A Web framework and asynchronous networking library.
+* [pulsar](https://github.com/quantmind/pulsar) - Event-driven concurrent framework for Python.
+* [diesel](https://github.com/jamwt/diesel) - Greenlet-based event I/O Framework for Python.
 * [gevent](http://www.gevent.org/) - A coroutine-based Python networking library that uses [greenlet](https://github.com/python-greenlet/greenlet).
 * [eventlet](http://eventlet.net/) - Asynchronous framework with WSGI support.
 * [Tomorrow](https://github.com/madisonmay/Tomorrow) - Magic decorator syntax for asynchronous code.
@@ -194,15 +205,6 @@ This list contains python libraries and tools related to web scraping and data p
 * [textract](https://github.com/deanmalmgren/textract) - Extract text from any document, Word, PowerPoint, PDFs, etc.
 * [sanitize](https://github.com/Alir3z4/sanitize) - Bringing sanity to world of messed-up data.
 
-## Asynchronous
-
-*Libraries for asynchronous networking programming.*
-
-* [asyncio](https://docs.python.org/3/library/asyncio.html) - (Python standard library in Python 3.4+) Asynchronous I/O, event loop, coroutines and tasks.
-* [Twisted](https://twistedmatrix.com/trac/) - An event-driven networking engine.
-* [Tornado](http://www.tornadoweb.org/) - A Web framework and asynchronous networking library.
-* [pulsar](https://github.com/quantmind/pulsar) - Event-driven concurrent framework for Python.
-* [diesel](https://github.com/jamwt/diesel) - Greenlet-based event I/O Framework for Python.
 
 ## WebSocket
 
