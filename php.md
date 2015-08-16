@@ -2,7 +2,7 @@
 
 This list contains PHP libraries related to web scraping and data processing
 
-* [Python Web Scraping](#python-web-scraping)
+* [PHP Web Scraping](#php-web-scraping)
    * [Network](#network)
    * [Web-scraping Frameworks](#web-scraping-frameworks)
    * [HTML/XML Parsing](#htmlxml-parsing)
@@ -21,7 +21,7 @@ This list contains PHP libraries related to web scraping and data processing
    * [WebSocket](#websocket)
    * [DNS Resolving](#dns-resolving)
    * [Computer Vision](#computer-vision)
-   * [Other Python Lists](#other-python-lists)
+   * [Other PHP Lists](#other-php-lists)
 
 ## Network
 * [Guzzle]( https://github.com/guzzle/guzzle) - A comprehensive HTTP client.
@@ -186,6 +186,6 @@ This list contains PHP libraries related to web scraping and data processing
 * [PHPGeo](https://github.com/mjaschen/phpgeo) - A simple geo library.
 * [GeoJSON](https://github.com/jmikola/geojson) - A GeoJSON implementation.
 
-## Other python lists
+## Other PHP lists
 
  * [awesome-php](https://github.com/ziadoz/awesome-php)
