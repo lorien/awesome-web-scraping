@@ -101,6 +101,8 @@ This list contains PHP libraries related to web scraping and data processing
 
 ## Browser automation and emulation
 * [php-webdriver](https://github.com/facebook/php-webdriver) - A php client for webdriver.
+* [PHP PhantomJS](https://github.com/jonnnnyw/php-phantomjs) - Execute PhantomJS commands through PHP
+* [Mink](https://github.com/minkphp/Mink) - universal API for multiple browser emulators (selenium, zombie.js, goutte)
 
 ## Multiprocessing
   * [Spork](https://github.com/kriswallsmith/spork) - A process forking library.
