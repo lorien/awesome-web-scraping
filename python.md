@@ -1,6 +1,6 @@
 # Python Web Scraping
 
-This list contains python libraries and tools related to web scraping and data processing
+This list contains python libraries related to web scraping and data processing
 
 * [Python Web Scraping](#python-web-scraping)
    * [Network](#network)
