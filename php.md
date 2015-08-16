@@ -108,7 +108,12 @@ This list contains PHP libraries related to web scraping and data processing
 
 *Libraries for asynchronous networking programming.*
 
-* TODO
+* [React](https://github.com/reactphp/react) - An event driven non-blocking I/O library.
+* [Rx.PHP](https://github.com/asm89/Rx.PHP) - A reactive extension library.
+* [Hoa EventSource](https://github.com/hoaproject/Eventsource) - An event source library.
+* [Evenement](https://github.com/igorw/evenement) - An event dispatcher library.
+* [Event](https://github.com/thephpleague/event) - An event library with a focus on domain events.
+* [Broadway](https://github.com/qandidate-labs/broadway) - An event source and CQRS library.
 
 ## Queue
 * [Pheanstalk](https://github.com/pda/pheanstalk) - A Beanstalkd client library.
@@ -146,13 +151,15 @@ This list contains PHP libraries related to web scraping and data processing
 
 *Libraries for working with WebSocket.*
 
-* TODO
+* [Ratchet](https://github.com/cboden/Ratchet) - A web socket library.
+* [Hoa WebSocket](https://github.com/hoaproject/Websocket) - Another web socket library.
+* [Elephant.io](https://github.com/Wisembly/Elephant.io) - Yet another web socket library.
 
 ## DNS Resolving
-  * TODO
+  * [Net_DNS2](https://github.com/mikepultz/netdns2) - Native PHP DNS Resolver and Updater
 
 ## Computer Vision
-  * TODO
+  * [OpenCV-for-PHP](https://github.com/mgdm/OpenCV-for-PHP) - An OpenCV binding for PHP
 
 ## Files (TODO: refactor this section)
 *Libraries for file manipulation and MIME type detection.*
@@ -175,19 +182,6 @@ This list contains PHP libraries related to web scraping and data processing
 * [GeoTools](https://github.com/php-loep/Geotools) - A library of geo-related tools.
 * [PHPGeo](https://github.com/mjaschen/phpgeo) - A simple geo library.
 * [GeoJSON](https://github.com/jmikola/geojson) - A GeoJSON implementation.
-
-## Event (TODO: refactor this list)
-*Libraries that are event-driven or implement non-blocking event loops.*
-
-* [React](https://github.com/reactphp/react) - An event driven non-blocking I/O library.
-* [Rx.PHP](https://github.com/asm89/Rx.PHP) - A reactive extension library.
-* [Ratchet](https://github.com/cboden/Ratchet) - A web socket library.
-* [Hoa WebSocket](https://github.com/hoaproject/Websocket) - Another web socket library.
-* [Elephant.io](https://github.com/Wisembly/Elephant.io) - Yet another web socket library.
-* [Hoa EventSource](https://github.com/hoaproject/Eventsource) - An event source library.
-* [Evenement](https://github.com/igorw/evenement) - An event dispatcher library.
-* [Event](https://github.com/thephpleague/event) - An event library with a focus on domain events.
-* [Broadway](https://github.com/qandidate-labs/broadway) - An event source and CQRS library.
 
 ## Other python lists
 
