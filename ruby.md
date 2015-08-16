@@ -86,30 +86,42 @@ This list contains ruby libraries related to web scraping and data processing
 
 *Libraries for parsing and manipulating specific text formats.*
 
-  * Office
-    * [Yomu](https://github.com/Erol) - Read text and metadata from files and documents (.doc, .docx, .pages, .odt, .rtf, .pdf)
-    * [spreadsheet](https://github.com/zdavatz/spreadsheet) - The Spreadsheet Library is designed to read and write Spreadsheet Documents.
-    * [roo](https://github.com/Empact/roo) - Roo implements read access for all spreadsheet types and read/write access for Google spreadsheets.
-    * [google-spreadsheet-ruby](https://github.com/gimite/google-spreadsheet-ruby) - This is a library to read/write Google Spreadsheet.
-    * [rubyXL](https://github.com/weshatheleopard/rubyXL) - rubyXL is a gem which allows the parsing, creation, and manipulation of Microsoft Excel (.xlsx/.xlsm) Documents
-    * [remote_table](https://github.com/seamusabshere/remote_table) - Open local or remote XLSX, XLS, ODS, CSV (comma separated), TSV (tab separated), other delimited, fixed-width files, and Google Docs.
-    * [sheets](https://github.com/bspaulding/Sheets) - Work with spreadsheets easily in a native ruby format.
-    * [workbook](https://github.com/murb/workbook) - Workbook contains workbooks, as in a table, contains rows, contains cells, reads/writes excel, ods and csv and tab separated files...
-    * [oxcelix](https://github.com/gbiczo/oxcelix) - A fast Excel 2007/2010 (.xlsx) file parser that returns a collection of Matrix objects
-    * [wrap_excel](https://github.com/tomiacannondale/wrap_excel) - WrapExcel is to wrap the win32ole, and easy to use Excel operations with ruby. Detailed description please see the README.
-  * libpcap
-    [PacketFul](https://github.com/packetfu/packetfu) - A library for reading and writing packets to an interface or to a libpcap-formatted file.
-  * JSON
-    * [JsonCompare](https://github.com/a2design-company/json-compare) - Returns the difference between two JSON files
-  * Markdown
-    * [kramdown](https://github.com/gettalong/kramdown) - Kramdown is yet-another-markdown-parser but fast, pure Ruby, using a strict syntax definition and supporting several common extensions.
-    * [Maruku](https://github.com/bhollis/maruku) - A pure-Ruby Markdown-superset interpreter.
-    * [Redcarpet](https://github.com/vmg/redcarpet) - A fast, safe and extensible Markdown to (X)HTML parser.
-  * ATOM/RSS
-    * [Feed normalizer](https://github.com/aasmith/feed-normalizer) - Extensible Ruby wrapper for Atom and RSS parsers.
-    * [Feedjira](https://github.com/feedjira/feedjira) - A feed fetching and parsing library.
-    * [Ratom](https://github.com/seangeo/ratom) - A fast, libxml based, Ruby Atom library.
-    * [Simple rss](https://github.com/cardmagic/simple-rss) - A simple, flexible, extensible, and liberal RSS and Atom reader.
+* General
+  * [markup](https://github.com/github/markup) — GitHub library to convert mardown, rst, creole, etc into HTML
+* Office
+  * [Yomu](https://github.com/Erol) - Read text and metadata from files and documents (.doc, .docx, .pages, .odt, .rtf, .pdf)
+  * [spreadsheet](https://github.com/zdavatz/spreadsheet) - The Spreadsheet Library is designed to read and write Spreadsheet Documents.
+  * [roo](https://github.com/Empact/roo) - Roo implements read access for all spreadsheet types and read/write access for Google spreadsheets.
+  * [google-spreadsheet-ruby](https://github.com/gimite/google-spreadsheet-ruby) - This is a library to read/write Google Spreadsheet.
+  * [rubyXL](https://github.com/weshatheleopard/rubyXL) - rubyXL is a gem which allows the parsing, creation, and manipulation of Microsoft Excel (.xlsx/.xlsm) Documents
+  * [remote_table](https://github.com/seamusabshere/remote_table) - Open local or remote XLSX, XLS, ODS, CSV (comma separated), TSV (tab separated), other delimited, fixed-width files, and Google Docs.
+  * [sheets](https://github.com/bspaulding/Sheets) - Work with spreadsheets easily in a native ruby format.
+  * [workbook](https://github.com/murb/workbook) - Workbook contains workbooks, as in a table, contains rows, contains cells, reads/writes excel, ods and csv and tab separated files...
+  * [oxcelix](https://github.com/gbiczo/oxcelix) - A fast Excel 2007/2010 (.xlsx) file parser that returns a collection of Matrix objects
+  * [wrap_excel](https://github.com/tomiacannondale/wrap_excel) - WrapExcel is to wrap the win32ole, and easy to use Excel operations with ruby. Detailed description please see the README.
+* libpcap
+  [PacketFul](https://github.com/packetfu/packetfu) - A library for reading and writing packets to an interface or to a libpcap-formatted file.
+* JSON
+  * [JsonCompare](https://github.com/a2design-company/json-compare) - Returns the difference between two JSON files
+  * [JSON](https://github.com/flori/json) — includes pure Ruby and C implementation for JSON.
+  * [JSON::Stream](https://github.com/dgraham/json-stream) — a streaming JSON parser that generates SAX-like events.
+  * [YAJL](https://github.com/brianmario/yajl-ruby) — a streaming JSON parsing and encoding library for Ruby (C bindings to YAJL).
+  * [OJ](https://github.com/ohler55/oj) — Optimized JSON, as the name implies, was written to provide speed optimized JSON handling. So far it has achieved that, and is about 2 times faster than any other Ruby JSON parser, and 3 or more times faster at serializing JSON.
+* Markdown
+  * [kramdown](https://github.com/gettalong/kramdown) - Kramdown is yet-another-markdown-parser but fast, pure Ruby, using a strict syntax definition and supporting several common extensions.
+  * [Maruku](https://github.com/bhollis/maruku) - A pure-Ruby Markdown-superset interpreter.
+  * [Redcarpet](https://github.com/vmg/redcarpet) - A fast, safe and extensible Markdown to (X)HTML parser.
+* ATOM/RSS
+  * [Feed normalizer](https://github.com/aasmith/feed-normalizer) - Extensible Ruby wrapper for Atom and RSS parsers.
+  * [Feedjira](https://github.com/feedjira/feedjira) - A feed fetching and parsing library.
+  * [Ratom](https://github.com/seangeo/ratom) - A fast, libxml based, Ruby Atom library.
+  * [Simple rss](https://github.com/cardmagic/simple-rss) - A simple, flexible, extensible, and liberal RSS and Atom reader.
+  * BSON
+    * [BSON](https://github.com/mongodb/bson-ruby) — Ruby implementation of the BSON Specification (2.0.0+), http://bsonspec.org
+  * MessagePack
+    * [MessagePack](https://github.com/msgpack/msgpack-ruby) — an efficient binary serialization format. It lets you exchange data among multiple languages like JSON but it's faster and smaller. For example, small integers (like flags or error code) are encoded into a single byte, and typical short strings only require an extra byte in addition to the strings themselves. See http://msgpack.org
+  * Protobuf
+    * [Protobuf](https://github.com/localshred/protobuf) — Ruby implementation for Protocol Buffers.
 
 ## Natural Language Processing
 
@@ -136,6 +148,8 @@ This list contains ruby libraries related to web scraping and data processing
 * [childprocess](https://github.com/jarib/childprocess) - Cross-platform ruby library for managing child processes.
 * [forkoff](https://github.com/ahoward/forkoff) - brain-dead simple parallel processing for ruby.
 * [posix-spawn](https://github.com/rtomayko/posix-spawn) - Fast Process::spawn for Rubys >= 1.8.7 based on the posix_spawn() system interfaces.
+* [thread](https://github.com/meh/ruby-thread) — extensions to the thread library (includes thread pool).
+* [Sprawling](https://github.com/dreikanter/ruby-bookmarks) — spawn gem for Rails to easily fork or thread long-running code blocks.
 
 
 ## Asynchronous
