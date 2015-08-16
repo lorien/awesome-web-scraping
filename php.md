@@ -90,16 +90,17 @@ This list contains PHP libraries related to web scraping and data processing
 
 *Libraries for working with human languages.*
 
-* TODO
+* [PHP NlpTools](https://github.com/angeloskath/php-nlp-tools) - Natural Language Processing Tools in PHP
+* [nlpTools](https://github.com/atrilla/nlptools) - Natural Language Processing Toolkit for PHP
 
 ## Downloader
 
 *Libraries for downloading.*
 
-* TODO
+* [Youtube-Downloader](https://github.com/jeckman/YouTube-Downloader) - PHP script for downloading videos from youtube; also parsing youtube feed into RSS enclosures for podcatchers
 
 ## Browser automation and emulation
-* TODO
+* [php-webdriver](https://github.com/facebook/php-webdriver) - A php client for webdriver.
 
 ## Multiprocessing
   * [Spork](https://github.com/kriswallsmith/spork) - A process forking library.
