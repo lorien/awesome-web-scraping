@@ -1,8 +1,8 @@
-# Python Web Scraping
+# Ruby Web Scraping
 
 This list contains ruby libraries related to web scraping and data processing
 
-* [Python Web Scraping](#python-web-scraping)
+* [Ruby Web Scraping](#ruby-web-scraping)
    * [Network](#network)
    * [Web-scraping Frameworks](#web-scraping-frameworks)
    * [HTML/XML Parsing](#htmlxml-parsing)
@@ -22,7 +22,7 @@ This list contains ruby libraries related to web scraping and data processing
    * [DNS Resolving](#dns-resolving)
    * [Computer Vision](#computer-vision)
    * [Geolocation](#geolocation)
-   * [Other Python Lists](#other-python-lists)
+   * [Other Ruby Lists](#other-Ruby-lists)
 
 ## Network
 
@@ -201,7 +201,7 @@ This list contains ruby libraries related to web scraping and data processing
   * [Geokit](https://github.com/geokit/geokit) - Geokit gem provides geocoding and distance/heading calculations.
   * [geoip](https://github.com/cjheath/geoip) - Searches a GeoIP database for a given host or IP address, and returns information about the country where the IP address is allocated, and the city, ISP and other information.
   
-## Other ruby lists
+## Other Ruby Lists
 
 * [awesome-ruby](https://github.com/markets/awesome-ruby/blob/master/README.md) by markets
 * [awesome-ruby](https://github.com/Sdogruyol/awesome-ruby) by Sdogruyol
