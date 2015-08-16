@@ -205,3 +205,4 @@ This list contains ruby libraries related to web scraping and data processing
 
 * [awesome-ruby](https://github.com/markets/awesome-ruby/blob/master/README.md) by markets
 * [awesome-ruby](https://github.com/Sdogruyol/awesome-ruby) by Sdogruyol
+* [ruby-nlp](https://github.com/diasks2/ruby-nlp) - a collection of Natural Language Processing (NLP) Ruby libraries, tools and software
