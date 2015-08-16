@@ -47,6 +47,7 @@ This list contains PHP libraries related to web scraping and data processing
   * [Stringy](https://github.com/danielstjules/Stringy) - A string manipulation library with multibyte support.
   * [Color Jizz](https://github.com/mikeemoo/ColorJizz-PHP) - A library for manipulating and converting colours.
   * [Text](https://github.com/kzykhys/Text) - A text manipulation library.
+  * [Flux](https://github.com/selvinortiz/flux) - A regular expression building library.
 * Transliteration
   * [Urlify](https://github.com/jbroadway/urlify) - A PHP port of Django's URLify.js.
   * [Slugify](https://github.com/cocur/slugify) - A library to convert strings to slugs.
@@ -82,6 +83,8 @@ This list contains PHP libraries related to web scraping and data processing
   * [Decoda](https://github.com/milesj/decoda) - A lightweight lexical string parser for BBCode styled markup.
 * JSON
   * [JsonMapper](https://github.com/netresearch/jsonmapper) - A library that maps nested JSON structures onto PHP classes.
+* vCard
+  * [vobject](https://github.com/fruux/sabre-vobject) - The VObject library allows you to easily parse and manipulate iCalendar and vCard objects.
   
 ## Natural Language Processing
 
@@ -99,7 +102,7 @@ This list contains PHP libraries related to web scraping and data processing
 * TODO
 
 ## Multiprocessing
-* TODO
+  * [Spork](https://github.com/kriswallsmith/spork) - A process forking library.
 
 ## Asynchronous
 
@@ -136,8 +139,8 @@ This list contains PHP libraries related to web scraping and data processing
 
 *Libraries for extracting web contents.*
 
-* TODO
-
+* [Essence](https://github.com/felixgirault/essence) - A library for extracting web media.
+* [Embera](https://github.com/mpratt/Embera) - An Oembed consumer library.
 
 ## WebSocket
 
@@ -188,4 +191,4 @@ This list contains PHP libraries related to web scraping and data processing
 
 ## Other python lists
 
- * TODO
+ * [awesome-php](https://github.com/ziadoz/awesome-php)
