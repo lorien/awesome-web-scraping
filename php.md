@@ -66,8 +66,8 @@ This list contains PHP libraries related to web scraping and data processing
 
 *Libraries for parsing and manipulating specific text formats.*
 
-* General
-    * TODO
+* CSV
+  * [CSV](https://github.com/thephpleague/csv) - A CSV data manipulation library.
 * Office
   * [PHPWord](https://github.com/PHPOffice/PHPWord) - A library for working with Microsoft Word documents.
   * [PHPExcel](https://github.com/PHPOffice/PHPExcel) - A library for working with Microsoft Excel documents.
@@ -85,7 +85,13 @@ This list contains PHP libraries related to web scraping and data processing
   * [JsonMapper](https://github.com/netresearch/jsonmapper) - A library that maps nested JSON structures onto PHP classes.
 * vCard
   * [vobject](https://github.com/fruux/sabre-vobject) - The VObject library allows you to easily parse and manipulate iCalendar and vCard objects.
-  
+* File Type Detection
+  * [Hoa Mime](https://github.com/hoaproject/Mime) - Another MIME detection library.
+  * [Canal](https://github.com/dflydev/dflydev-canal) - A library to determine internet media types.
+  * [Apache MIME Types](https://github.com/dflydev/dflydev-apache-mime-types) - A library that parses Apache MIME types.
+* GeoJSON
+  * [GeoJSON](https://github.com/jmikola/geojson) - A GeoJSON implementation.
+
 ## Natural Language Processing
 
 *Libraries for working with human languages.*
@@ -164,27 +170,9 @@ This list contains PHP libraries related to web scraping and data processing
 ## Computer Vision
   * [OpenCV-for-PHP](https://github.com/mgdm/OpenCV-for-PHP) - An OpenCV binding for PHP
 
-## Files (TODO: refactor this section)
-*Libraries for file manipulation and MIME type detection.*
-
-* [Gaufrette](https://github.com/KnpLabs/Gaufrette) - A filesystem abstraction layer.
-* [Flysystem](https://github.com/FrenkyNet/Flysystem) - Another filesystem abstraction layer.
-* [Canal](https://github.com/dflydev/dflydev-canal) - A library to determine internet media types.
-* [Apache MIME Types](https://github.com/dflydev/dflydev-apache-mime-types) - A library that parses Apache MIME types.
-* [Ferret](https://github.com/versionable/Ferret) - A MIME detection library.
-* [Hoa Mime](https://github.com/hoaproject/Mime) - Another MIME detection library.
-* [Lurker](https://github.com/henrikbjorn/Lurker) - A resource tracking library.
-* [PHP File Locator](https://github.com/herrera-io/php-file-locator) - A library for locating files in large projects.
-* [PHP FFmpeg](https://github.com/alchemy-fr/PHP-FFmpeg/) - A wrapper for the [FFmpeg](http://www.ffmpeg.org/) video library.
-* [CSV](https://github.com/thephpleague/csv) - A CSV data manipulation library.
-
-## Geolocation (TODO: refactor this section)
-*Libraries for geocoding addresses and working with latitudes and longitudes.*
-
+## Geocoding
 * [GeoCoder](http://geocoder-php.org/) - A geocoding library.
 * [GeoTools](https://github.com/php-loep/Geotools) - A library of geo-related tools.
-* [PHPGeo](https://github.com/mjaschen/phpgeo) - A simple geo library.
-* [GeoJSON](https://github.com/jmikola/geojson) - A GeoJSON implementation.
 
 ## Other PHP lists
 
