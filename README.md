@@ -23,4 +23,4 @@ Make this list better! Your contributions are always welcome! See [contributing 
 ## Credits
 This list partially contains data from these sources:
 * [awesome-python](https://github.com/vinta/awesome-python) by [vinta](https://github.com/vinta) / [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/)
-
+* [awesome-php](https://github.com/ziadoz/awesome-php) by [ziadoz](https://github.com/ziadoz)
