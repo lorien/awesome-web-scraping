@@ -69,19 +69,42 @@ This list contains ruby libraries related to web scraping and data processing
 * General
   * [Kiba](https://github.com/thbar/kiba) - library for writing reliable, concise, well-tested & maintainable data-processing code
   * [diffy](https://github.com/samg/diffy) - a convenient way to generate a diff from two strings or files
+  * [CommonRegexRuby](https://github.com/talyssonoc/CommonRegexRuby) - find a lot of kinds of common information in a string
 * Phone number
   * [GlobalPhone](https://github.com/sstephenson/global_phone) - Parse, validate, and format phone numbers in Ruby using Google's libphonenumber database.
 * Country names
   * [i18n_data](https://github.com/grosser/i18n_data) - country/language names and 2-letter-code pairs, in 85 languages, for country/language i18n.
   * [normalize_country](https://github.com/sshaw/normalize_country) - Convert country names and codes to a standard, includes a conversion program for XMLs, CSVs and DBs.
-* Date & time
-  * [Chronic](https://github.com/mojombo/chronic) - A natural language date/time parser written in pure Ruby.
-  * [yymmdd](https://github.com/sshaw/yymmdd) - Tiny DSL for idiomatic date parsing and formatting.
 * User agent
   * [Device Detector](https://github.com/podigee/device_detector) - A precise and fast user agent parser and device detector, backed by the largest and most up-to-date user agent database.
 * General parser
   * [Parslet](http://kschiess.github.io/parslet/) - A small Ruby library for constructing parsers in the PEG (Parsing Expression Grammar) fashion.
   * [Treetop](https://github.com/cjheath/treetop) - PEG (Parsing Expression Grammar) parser.
+  * [rley](https://github.com/famished-tiger/Rley) - Ruby gem implementing a general context-free grammar parser based on Earley's algorithm
+* Date & time
+  * [Chronic](https://github.com/mojombo/chronic) - A natural language date/time parser written in pure Ruby.
+  * [yymmdd](https://github.com/sshaw/yymmdd) - Tiny DSL for idiomatic date parsing and formatting.
+  * [Chronic Between](https://github.com/jrobertson/chronic_between) - a simple Ruby natural language parser for date and time ranges
+  * [Chronic Duration](https://github.com/hpoydar/chronic_duration) - a simple Ruby natural language parser for elapsed time
+  * [Kronic](https://github.com/xaviershay/kronic) - a dirt simple library for parsing and formatting human readable dates
+  * [Nickel](https://github.com/iainbeeston/nickel) - extracts date, time, and message information from naturally worded text
+  * [Tickle](https://github.com/yb66/tickle) - a natural language parser for recurring events
+* Human Names
+  * [nameable](https://github.com/chorn/nameable) - A Ruby gem that provides parsing and output of person names, as well as Gender & Ethnicity matching
+* N-grams
+  * [N-Gram](https://github.com/reddavis/N-Gram) - N-Gram generator in Ruby
+  * [ngram](https://github.com/tkellen/ruby-ngram) - break words and phrases into ngrams
+  * [raingrams](https://github.com/postmodern/raingrams) - a flexible and general-purpose ngrams library written in Ruby
+* Text Similarity
+  * [FuzzyMatch](https://github.com/seamusabshere/fuzzy_match) - find a needle in a haystack based on string similarity and regular expression rules
+  * [fuzzy-string-match](https://github.com/kiyoka/fuzzy-string-match) - fuzzy string matching library for ruby
+  * [FuzzyTools](https://github.com/brianhempel/fuzzy_tools) - In-memory TF-IDF fuzzy document finding with a fancy default tokenizer tuned on diverse record linkage datasets for easy out-of-the-box use
+  * [Going the Distance](https://github.com/schneems/going_the_distance) - contains scripts that do various distance calculations
+  * [hotwater](https://github.com/colinsurprenant/hotwater) - Fast Ruby FFI string edit distance algorithms
+  * [levenshtein-ffi](https://github.com/dbalatero/levenshtein-ffi) - fast string edit distance computation, using the Damerau-Levenshtein algorithm
+  * [TF-IDF](https://github.com/reddavis/TF-IDF) - Term Frequency - Inverse Document Frequency in Ruby
+  * [tf-idf-similarity](https://github.com/jpmckinney/tf-idf-similarity) - calculate the similarity between texts using tf*idf
+
 ## Specific Formats Processing
 
 *Libraries for parsing and manipulating specific text formats.*
@@ -127,9 +150,52 @@ This list contains ruby libraries related to web scraping and data processing
 
 *Libraries for working with human languages.*
 
-* [Treat](https://github.com/louismullie/treat) - Treat is a toolkit for natural language processing and computational linguistics in Ruby
-* [Pragmatic Segmenter](https://github.com/diasks2/pragmatic_segmenter) - Pragmatic Segmenter is a rule-based sentence boundary detection gem that works out-of-the-box across many languages.
-* [Text](https://github.com/threedaymonk/text) - A collection of text algorithms including Levenshtein distance, Metaphone, Soundex 2, Porter stemming & White similarity.
+* General
+  * [Treat](https://github.com/louismullie/treat) - Treat is a toolkit for natural language processing and computational linguistics in Ruby
+  * [Pragmatic Segmenter](https://github.com/diasks2/pragmatic_segmenter) - Pragmatic Segmenter is a rule-based sentence boundary detection gem that works out-of-the-box across many languages.
+  * [Text](https://github.com/threedaymonk/text) - A collection of text algorithms including Levenshtein distance, Metaphone, Soundex 2, Porter stemming & White similarity.
+  * [whatlanguage](https://github.com/peterc/whatlanguage) - a language detection library for Ruby that uses bloom filters for speed
+  * [nlp](https://github.com/knife/nlp) - NLP tools for the Polish language
+  * [NlpToolz](https://github.com/LeFnord/nlp_toolz) - Basic NLP tools, mostly based on OpenNLP, at this time sentence finder, tokenizer and POS tagger implemented, plus Berkeley Parser
+  * [Open NLP (Ruby bindings)](https://github.com/louismullie/open-nlp)
+  * [Stanford Core NLP (Ruby bindings)](https://github.com/louismullie/stanford-core-nlp)
+  * [ve](https://github.com/Kimtaro/ve) - a linguistic framework that's easy to use
+  * [zipf](https://github.com/pks/zipf) - a collection of various NLP tools and libraries
+  * [ruby-ner](https://github.com/mblongii/ruby-ner) - named entity recognition with Stanford NER and Ruby
+  * [ruby-nlp](https://github.com/tiendung/ruby-nlp) - Ruby Binding for Stanford Pos-Tagger and Name Entity Recognizer
+  * [linkparser](https://github.com/ged/linkparser) - a Ruby binding for the Abiword version of CMU's Link Grammar, a syntactic parser of English
+* Part-of-Speech Tagger
+  * [engtagger](https://github.com/yohasebe/engtagger) - English Part-of-Speech Tagger Library; a Ruby port of Lingua::EN::Tagger
+  * [rbtagger](http://rbtagger.rubyforge.org/) - a simple ruby rule-based part of speech tagger
+  * [TreeTagger for Ruby](https://github.com/LeFnord/rstt) - Ruby based wrapper for the TreeTagger by Helmut Schmid
+* Sentence segmentation
+  * [Pragmatic Segmenter](https://github.com/diasks2/pragmatic_segmenter)
+  * [Punkt Segmenter](https://github.com/lfcipriani/punkt-segmenter)
+  * [TactfulTokenizer](https://github.com/zencephalon/Tactful_Tokenizer)
+  * [Scapel](https://github.com/louismullie/scalpel)
+  * [SRX English](https://github.com/apohllo/srx-english)
+* Stemmers
+  * [Greek stemmer](https://github.com/skroutz/greek_stemmer) - a Greek stemmer
+  * [Ruby-Stemmer](https://github.com/aurelian/ruby-stemmer) - Ruby-Stemmer exposes the SnowBall API to Ruby
+  * [Turkish stemmer](https://github.com/skroutz/turkish_stemmer) - a Turkish stemmer
+  * [uea-stemmer](https://github.com/ealdent/uea-stemmer) - a conservative stemmer for search and indexing
+* Summarization
+  * [Epitome](https://github.com/McFreely/epitome) - A small gem to make your text shorter; an implementation of the Lexrank algorithm
+  * [ots](https://github.com/deepfryed/ots) - Ruby bindings to open text summarizer
+  * [summarize](https://github.com/ssoper/summarize) - Ruby C wrapper for Open Text Summarizer
+* Tokenizers
+  * [Jieba](https://github.com/mimosa/jieba-jruby) - Chinese tokenizer and segmenter (jRuby)
+  * [MeCab](https://github.com/markburns/mecab) - Japanese morphological analyzer [[MeCab Heroku buildpack](https://github.com/diasks2/heroku-buildpack-mecab)]
+  * [NLP Pure](https://github.com/parhamr/nlp-pure) - natural language processing algorithms implemented in pure Ruby with minimal dependencies
+  * [rseg](https://github.com/yzhang/rseg) - a Chinese Word Segmentation (中文分词) routine in pure Ruby
+  * [thailang4r](https://github.com/veer66/thailang4r) - Thai tokenizer
+  * [tiny_segmenter](https://github.com/6/tiny_segmenter) - Ruby port of TinySegmenter.js for tokenizing Japanese text
+  * [tokenizer](https://github.com/arbox/tokenizer) - a simple multilingual tokenizer
+* Word Count
+  * [wc](https://github.com/thesp0nge/wc) - a rubygem to count word occurrences in a given text
+  * [word_count](https://github.com/AtelierConvivialite/word_count) - a word counter for String and Hash in Ruby
+  * [Word Count Analyzer](https://github.com/diasks2/word_count_analyzer) - analyzes a string for potential areas of the text that might cause word count discrepancies depending on the tool used
+  * [WordsCounted](https://github.com/abitdodgy/words_counted) - a highly customisable Ruby text analyser
 
 ## Downloader
 
@@ -192,6 +258,8 @@ This list contains ruby libraries related to web scraping and data processing
 
 * [Metainspector](https://github.com/jaimeiniesta/metainspector) - scrapes a given URL, and returns its title, meta description, meta keywords, an array with all the links, all the images in it, etc
 * [LinkThumbnailer](https://github.com/gottfrois/link_thumbnailer) - Ruby gem that generates thumbnail images and videos from a given URL. Much like popular social website with link preview.
+* [docsplit](http://documentcloud.github.io/docsplit/) - Docsplit is a command-line utility and Ruby library for splitting apart documents into their component parts
+* [Ruby Readability](https://github.com/cantino/ruby-readability) - a tool for extracting the primary readable content of a webpage
 
 ## WebSocket
 
