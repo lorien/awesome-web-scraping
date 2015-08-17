@@ -55,7 +55,7 @@ This list contains python libraries related to web scraping and data processing
 * [cssselect](https://pythonhosted.org/cssselect) - working with DOM tree with CSS selectors
 * [pyquery](http://pythonhosted.org//pyquery/) - working with DOM tree with jQuery-like selectors
 * [BeautifulSoup](http://www.crummy.com/software/BeautifulSoup/bs4/doc/) - slow HTML/XMl processing library, written in pure python
-* [html5lib](http://html5lib.readthedocs.org/en/latest/) - building DOM of HTML/XML parsing according to [WHATWG spec](url=http://www.whatwg.org/). That spec is used in all modern browsers.
+* [html5lib](http://html5lib.readthedocs.org/en/latest/) - builds DOM of HTML/XML document according to [WHATWG spec](url=http://www.whatwg.org/). That spec is used in all modern browsers.
 * [feedparser](http://pythonhosted.org/feedparser/) - parsing of RSS/ATOM feeds.
 * [Bleach](http://bleach.readthedocs.org/en/latest/) - cleaning of HTML (requires html5lib)
 * [MarkupSafe](https://github.com/mitsuhiko/markupsafe) - Implements a XML/HTML/XHTML Markup safe string for Python.
