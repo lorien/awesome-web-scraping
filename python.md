@@ -15,7 +15,7 @@ This list contains python libraries related to web scraping and data processing
    * [Queue](#queue)
    * [Cloud Computing](#cloud-computing)
    * [Email](#email)
-   * [URL Manipulation](#url-manipulation)
+   * [URL and Network Address Manipulation](#url-and-network-address-manipulation)
    * [Web Content Extracting](#web-content-extracting)
    * [Asynchronous](#asynchronous)
    * [WebSocket](#websocket)
@@ -36,6 +36,7 @@ This list contains python libraries related to web scraping and data processing
   * [mechanize](https://github.com/jjlee/mechanize) - Stateful programmatic web browsing.
   * [socket](https://docs.python.org/3/library/socket.html) low-level networking interface (stdlib)
   * [Unirest for Python](https://github.com/Mashape/unirest-python) - Unirest is a set of lightweight HTTP libraries available in multiple languages
+  * [hyper](https://github.com/Lukasa/hyper) - HTTP/2 Client for Python
 * Asynchronous
   * [grequests](https://github.com/kennethreitz/grequests) - GRequests allows you to use Requests with Gevent to make asynchronous HTTP Requests easily.
   * [treq](https://github.com/dreid/treq) - requests like API (twisted based)
@@ -47,6 +48,7 @@ This list contains python libraries related to web scraping and data processing
 * [portia](https://github.com/scrapinghub/portia) - Visual scraping for Scrapy.
 * [pyspider](https://github.com/binux/pyspider) - A powerful spider system.
 * [cola](https://github.com/chineking/cola) - A distributed crawling framework.
+* [restkit](https://github.com/benoitc/restkit) - HTTP resource kit for Python. It allows you to easily access to HTTP resource and build objects around it. 
 
 ## HTML/XML Parsing
 * [lxml](http://lxml.de) - effective HTML/XML processing library. Supports XPATH. Written in C.
@@ -91,6 +93,7 @@ This list contains python libraries related to web scraping and data processing
     * [phonenumbers](https://github.com/daviddrysdale/python-phonenumbers) - Parsing, formatting, storing and validating international phone numbers.
 * User-agent string
     * [python-user-agents](https://github.com/selwin/python-user-agents) - Browser user agent parser.
+    * [HTTP Agent Parser](https://github.com/shon/httpagentparser) - Python HTTP Agent Parser
 
 ## Specific Formats Processing
 
@@ -98,6 +101,7 @@ This list contains python libraries related to web scraping and data processing
 
 * General
     * [tablib](https://github.com/kennethreitz/tablib) - A module for Tabular Datasets in XLS, CSV, JSON, YAML.
+
 * Office
     * [python-docx](https://github.com/python-openxml/python-docx) - Reads, queries and modifies Microsoft Word 2007/2008 docx files.
     * [xlwt](https://github.com/python-excel/xlwt) / [xlrd](https://github.com/python-excel/xlrd) - Writing and reading data and formatting information from Excel files.
@@ -105,21 +109,30 @@ This list contains python libraries related to web scraping and data processing
     * [xlwings](http://xlwings.org/) - A BSD-licensed library that makes it easy to call Python from Excel and vice versa.
     * [openpyxl](https://openpyxl.readthedocs.org/en/latest/) - A library for reading and writing Excel 2010 xlsx/xlsm/xltx/xltm files.
     * [Marmir](https://github.com/brianray/mm) - Takes Python data structures and turns them into spreadsheets.
+
 * PDF
     * [PDFMiner](https://github.com/euske/pdfminer) - A tool for extracting information from PDF documents.
     * [PyPDF2](https://github.com/mstamy2/PyPDF2) - A library capable of splitting, merging and transforming PDF pages.
     * [ReportLab](http://www.reportlab.com/opensource/) - Allowing Rapid creation of rich PDF documents.
+
 * Markdown
     * [Python-Markdown](https://github.com/waylan/Python-Markdown) - A Python implementation of John Gruber’s Markdown.
     * [Mistune](https://github.com/lepture/mistune) - Fastest and full featured pure Python parsers of Markdown.
+
 * YAML
     * [PyYAML](http://pyyaml.org/) - YAML implementations for Python.
+
 * CSS
     * [cssutils](https://pypi.python.org/pypi/cssutils/) - A CSS library for Python.
+
 * ATOM/RSS
     * [feedparser](http://pythonhosted.org/feedparser/) - Universal feed parser.
+
 * SQL
   * [sqlparse](https://sqlparse.readthedocs.org/) - A non-validating SQL parser.
+
+* HTTP
+  * [http-parser](https://github.com/benoitc/http-parser) - HTTP request/response parser for python in C
 
 ## Natural Language Processing
 
@@ -190,15 +203,17 @@ This list contains python libraries related to web scraping and data processing
 * [flanker](https://github.com/mailgun/flanker) - A email address and Mime parsing library.
 * [Talon](https://github.com/mailgun/talon) - Mailgun library to extract message quotations and signatures.
 
-## URL Manipulation
+## URL and Network Address Manipulation
 
-*Libraries for parsing URLs.*
+*Libraries for parsing/modifying URLs and network addresses.*
 
-* [furl](https://github.com/gruns/furl) - A small Python library that makes manipulating URLs simple.
-* [purl](https://github.com/codeinthehole/purl) - A simple, immutable URL class with a clean API for interrogation and manipulation.
-* [urllib.parse](https://docs.python.org/3/library/urllib.parse.html) - interface to break Uniform Resource Locator (URL) strings up in components (addressing scheme, network location, path etc.), to combine the components back into a URL string, and to convert a “relative URL” to an absolute URL given a “base URL.” (stdlib)
-* [tldextract](https://github.com/john-kurkowski/tldextract) - Accurately separate the TLD from the registered domain and subdomains of a URL, using the Public Suffix List.
-
+* URL
+  * [furl](https://github.com/gruns/furl) - A small Python library that makes manipulating URLs simple.
+  * [purl](https://github.com/codeinthehole/purl) - A simple, immutable URL class with a clean API for interrogation and manipulation.
+  * [urllib.parse](https://docs.python.org/3/library/urllib.parse.html) - interface to break Uniform Resource Locator (URL) strings up in components (addressing scheme, network location, path etc.), to combine the components back into a URL string, and to convert a “relative URL” to an absolute URL given a “base URL.” (stdlib)
+  * [tldextract](https://github.com/john-kurkowski/tldextract) - Accurately separate the TLD from the registered domain and subdomains of a URL, using the Public Suffix List.
+* Network Address
+  [netaddr](https://github.com/drkjam/netaddr) - A Python library for representing and manipulating network addresses.
 ## Web Content Extracting
 
 *Libraries for extracting web contents.*
