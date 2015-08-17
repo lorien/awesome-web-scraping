@@ -24,18 +24,22 @@ This list contains python libraries related to web scraping and data processing
    * [Other Python Lists](#other-python-lists)
 
 ## Network
-* [urllib](https://docs.python.org/3.4/library/urllib.html?highlight=urllib#module-urllib) - network library (stdlib)
-* [requests](https://github.com/kennethreitz/requests) - network library
-* [grab](https://github.com/lorien/grab) - network library (pycurl based)
-* [pycurl](https://github.com/pycurl/pycurl) - network library (binding to [libcurl](http://curl.haxx.se/libcurl/))
-* [urllib3](https://github.com/shazow/urllib3) - network library
-* [httplib2](https://github.com/jcgregorio/httplib2) - network library
-* [treq](https://github.com/dreid/treq) - requests like API (twisted based)
-* [RoboBrowser](https://github.com/jmcarp/robobrowser) - A simple, Pythonic library for browsing the web without a standalone web browser.
-* [MechanicalSoup](https://github.com/hickford/MechanicalSoup) - A Python library for automating interaction with websites.
-* [mechanize](https://github.com/jjlee/mechanize) - Stateful programmatic web browsing.
-* [socket](https://docs.python.org/3/library/socket.html) low-level networking interface (stdlib)
-* [grequests](https://github.com/kennethreitz/grequests) - GRequests allows you to use Requests with Gevent to make asynchronous HTTP Requests easily.
+* General
+  * [urllib](https://docs.python.org/3.4/library/urllib.html?highlight=urllib#module-urllib) - network library (stdlib)
+  * [requests](https://github.com/kennethreitz/requests) - network library
+  * [grab](https://github.com/lorien/grab) - network library (pycurl based)
+  * [pycurl](https://github.com/pycurl/pycurl) - network library (binding to [libcurl](http://curl.haxx.se/libcurl/))
+  * [urllib3](https://github.com/shazow/urllib3) - Python HTTP library with thread-safe connection pooling, file post support, sanity friendly, and more.
+  * [httplib2](https://github.com/jcgregorio/httplib2) - network library
+  * [RoboBrowser](https://github.com/jmcarp/robobrowser) - A simple, Pythonic library for browsing the web without a standalone web browser.
+  * [MechanicalSoup](https://github.com/hickford/MechanicalSoup) - A Python library for automating interaction with websites.
+  * [mechanize](https://github.com/jjlee/mechanize) - Stateful programmatic web browsing.
+  * [socket](https://docs.python.org/3/library/socket.html) low-level networking interface (stdlib)
+  * [Unirest for Python](https://github.com/Mashape/unirest-python) - Unirest is a set of lightweight HTTP libraries available in multiple languages
+* Asynchronous
+  * [grequests](https://github.com/kennethreitz/grequests) - GRequests allows you to use Requests with Gevent to make asynchronous HTTP Requests easily.
+  * [treq](https://github.com/dreid/treq) - requests like API (twisted based)
+  * [aiohttp](https://github.com/KeepSafe/aiohttp) - http client/server for asyncio (PEP-3156)
 
 ## Web-Scraping Frameworks
 * [grab](http://docs.grablib.org/en/latest/#grab-spider-user-manual) - web-scraping framework (pycurl/multicurl based)
@@ -173,7 +177,7 @@ This list contains python libraries related to web scraping and data processing
 * [mrq](https://github.com/pricingassistant/mrq) - Mr. Queue - A distributed worker task queue in Python using Redis & gevent.
 * [RQ](http://python-rq.org/docs/) - lightweight task queue manager based on redis
 * [simpleq](https://github.com/rdegges/simpleq) - A simple, infinitely scalable, Amazon SQS based queue.
-
+* [python-gearman](https://github.com/Yelp/python-gearman) - python API for Gearman
 
 ## Cloud Computing
 * [picloud](http://docs.picloud.com/) - executing python-code in cloud
@@ -223,6 +227,7 @@ This list contains python libraries related to web scraping and data processing
 
 ## DNS Resolving
   * [dnsyo](https://github.com/samarudge/dnsyo) - Check your DNS against over 1500 global DNS servers.
+  * [pycares](https://github.com/saghul/pycares) -  interface to c-ares. c-ares is a C library that performs DNS requests and name resolutions asynchronously
 
 ## Computer Vision
   * [OpenCV](https://github.com/Itseez/opencv) - Open Source Computer Vision Library.
