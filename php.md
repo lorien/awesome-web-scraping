@@ -36,6 +36,7 @@ This list contains PHP libraries related to web scraping and data processing
 
 ## HTML/XML Parsing
 * [HTML5 PHP](https://github.com/Masterminds/html5-php) - An HTML5 parser and serializer library.
+* [QueryPath](https://github.com/technosophos/querypath) - a jQuery-like library for working with XML and HTML documents in PHP. It now contains support for HTML5 via the HTML5-PHP project.
 
 ## Text Processing
 
