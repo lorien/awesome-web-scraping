@@ -44,7 +44,7 @@ This list contains PHP libraries related to web scraping and data processing
 * General
   * [ANSI to HTML5](https://github.com/sensiolabs/ansi-to-html) - An ANSI to HTML5 converter library.
   * [Patchwork UTF-8](https://github.com/nicolas-grekas/Patchwork-UTF8) - A portable library for working with UTF-8 strings.
-  * [Hoa String](https://github.com/hoaproject/String) - Another UTF-8 string library.
+  * [Hoa String](https://github.com/hoaproject/Ustring) - Another UTF-8 string library.
   * [Stringy](https://github.com/danielstjules/Stringy) - A string manipulation library with multibyte support.
   * [Color Jizz](https://github.com/mikeemoo/ColorJizz-PHP) - A library for manipulating and converting colours.
   * [Text](https://github.com/kzykhys/Text) - A text manipulation library.
