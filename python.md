@@ -213,7 +213,7 @@ This list contains python libraries related to web scraping and data processing
   * [urllib.parse](https://docs.python.org/3/library/urllib.parse.html) - interface to break Uniform Resource Locator (URL) strings up in components (addressing scheme, network location, path etc.), to combine the components back into a URL string, and to convert a “relative URL” to an absolute URL given a “base URL.” (stdlib)
   * [tldextract](https://github.com/john-kurkowski/tldextract) - Accurately separate the TLD from the registered domain and subdomains of a URL, using the Public Suffix List.
 * Network Address
-  [netaddr](https://github.com/drkjam/netaddr) - A Python library for representing and manipulating network addresses.
+  * [netaddr](https://github.com/drkjam/netaddr) - A Python library for representing and manipulating network addresses.
 ## Web Content Extracting
 
 *Libraries for extracting web contents.*
