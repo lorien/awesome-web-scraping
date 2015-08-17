@@ -21,6 +21,7 @@ This list contains PHP libraries related to web scraping and data processing
    * [WebSocket](#websocket)
    * [DNS Resolving](#dns-resolving)
    * [Computer Vision](#computer-vision)
+   * [Geocoding](#geocoding)
    * [Other PHP Lists](#other-php-lists)
 
 ## Network
