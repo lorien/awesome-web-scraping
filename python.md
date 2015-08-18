@@ -51,17 +51,22 @@ This list contains python libraries related to web scraping and data processing
 * [restkit](https://github.com/benoitc/restkit) - HTTP resource kit for Python. It allows you to easily access to HTTP resource and build objects around it. 
 
 ## HTML/XML Parsing
-* [lxml](http://lxml.de) - effective HTML/XML processing library. Supports XPATH. Written in C.
-* [cssselect](https://pythonhosted.org/cssselect) - working with DOM tree with CSS selectors
-* [pyquery](http://pythonhosted.org//pyquery/) - working with DOM tree with jQuery-like selectors
-* [BeautifulSoup](http://www.crummy.com/software/BeautifulSoup/bs4/doc/) - slow HTML/XMl processing library, written in pure python
-* [html5lib](http://html5lib.readthedocs.org/en/latest/) - builds DOM of HTML/XML document according to [WHATWG spec](url=http://www.whatwg.org/). That spec is used in all modern browsers.
-* [feedparser](http://pythonhosted.org/feedparser/) - parsing of RSS/ATOM feeds.
-* [Bleach](http://bleach.readthedocs.org/en/latest/) - cleaning of HTML (requires html5lib)
-* [MarkupSafe](https://github.com/mitsuhiko/markupsafe) - Implements a XML/HTML/XHTML Markup safe string for Python.
-* [xmltodict](https://github.com/martinblech/xmltodict) - Working with XML feel like you are working with JSON.
-* [xhtml2pdf](https://github.com/chrisglass/xhtml2pdf) - HTML/CSS to PDF converter.
-* [untangle](https://github.com/stchris/untangle) - Converts XML documents to Python objects for easy access.
+
+* General
+  * [lxml](http://lxml.de) - effective HTML/XML processing library. Supports XPATH. Written in C.
+  * [cssselect](https://pythonhosted.org/cssselect) - working with DOM tree with CSS selectors
+  * [pyquery](http://pythonhosted.org//pyquery/) - working with DOM tree with jQuery-like selectors
+  * [BeautifulSoup](http://www.crummy.com/software/BeautifulSoup/bs4/doc/) - slow HTML/XMl processing library, written in pure python
+  * [html5lib](http://html5lib.readthedocs.org/en/latest/) - builds DOM of HTML/XML document according to [WHATWG spec](url=http://www.whatwg.org/). That spec is used in all modern browsers.
+  * [feedparser](http://pythonhosted.org/feedparser/) - parsing of RSS/ATOM feeds.
+  
+  * [MarkupSafe](https://github.com/mitsuhiko/markupsafe) - Implements a XML/HTML/XHTML Markup safe string for Python.
+  * [xmltodict](https://github.com/martinblech/xmltodict) - Working with XML feel like you are working with JSON.
+  * [xhtml2pdf](https://github.com/chrisglass/xhtml2pdf) - HTML/CSS to PDF converter.
+  * [untangle](https://github.com/stchris/untangle) - Converts XML documents to Python objects for easy access.
+* Sanitizing
+  * [Bleach](http://bleach.readthedocs.org/en/latest/) - cleaning of HTML (requires html5lib)
+  * [sanitize](https://github.com/Alir3z4/sanitize) - Bringing sanity to world of messed-up data.
 
 ## Text Processing
 
@@ -73,24 +78,31 @@ This list contains python libraries related to web scraping and data processing
     * [fuzzywuzzy](https://github.com/seatgeek/fuzzywuzzy) - Fuzzy String Matching.
     * [esmre](https://code.google.com/p/esmre/) - Regular expression accelerator.
     * [ftfy](https://github.com/LuminosoInsight/python-ftfy) - Makes Unicode text less broken and more consistent automagically.
+
 * Transliteration
   * [unidecode](https://pypi.python.org/pypi/Unidecode) - ASCII transliterations of Unicode text.
+
 * Character encoding
   * [uniout](https://github.com/moskytw/uniout) - Print readable chars instead of the escaped string.
   * [chardet](https://github.com/chardet/chardet) - Python 2/3 compatible character encoding detector.
   * [xpinyin](https://github.com/lxneng/xpinyin) - A library to translate Chinese hanzi (漢字) to pinyin (拼音).
   * [pangu.py](https://github.com/vinta/pangu.py) - Spacing texts for CJK and alphanumerics.
+
 * Slugify
     * [awesome-slugify](https://github.com/dimka665/awesome-slugify) - A Python slugify library that can preserve unicode.
     * [python-slugify](https://github.com/un33k/python-slugify) - A Python slugify library that translates unicode to ASCII.
     * [unicode-slugify](https://github.com/mozilla/unicode-slugify) - A slugifier that generates unicode slugs.
+
 * General Parser
     * [PLY](http://www.dabeaz.com/ply/) - Implementation of lex and yacc parsing tools for Python
     * [pyparsing](http://pyparsing.wikispaces.com/) - A general purpose framework for generating parsers.
+
 * Human names
   * [python-nameparser](https://github.com/derek73/python-nameparser) - Parsing human names into their individual components.
+
 * Phone Number
     * [phonenumbers](https://github.com/daviddrysdale/python-phonenumbers) - Parsing, formatting, storing and validating international phone numbers.
+
 * User-agent string
     * [python-user-agents](https://github.com/selwin/python-user-agents) - Browser user agent parser.
     * [HTTP Agent Parser](https://github.com/shon/httpagentparser) - Python HTTP Agent Parser
@@ -101,7 +113,7 @@ This list contains python libraries related to web scraping and data processing
 
 * General
     * [tablib](https://github.com/kennethreitz/tablib) - A module for Tabular Datasets in XLS, CSV, JSON, YAML.
-
+    * [textract](https://github.com/deanmalmgren/textract) - Extract text from any document, Word, PowerPoint, PDFs, etc.
 * Office
     * [python-docx](https://github.com/python-openxml/python-docx) - Reads, queries and modifies Microsoft Word 2007/2008 docx files.
     * [xlwt](https://github.com/python-excel/xlwt) / [xlrd](https://github.com/python-excel/xlrd) - Writing and reading data and formatting information from Excel files.
@@ -133,6 +145,9 @@ This list contains python libraries related to web scraping and data processing
 
 * HTTP
   * [http-parser](https://github.com/benoitc/http-parser) - HTTP request/response parser for python in C
+
+* Microformats
+  * [opengraph](https://github.com/erikriver/opengraph) - A Python module to parse the Open Graph Protocol tags
 
 ## Natural Language Processing
 
@@ -227,9 +242,6 @@ This list contains python libraries related to web scraping and data processing
 * [sumy](https://github.com/miso-belica/sumy) - A module for automatic summarization of text documents and HTML pages.
 * [Haul](https://github.com/vinta/Haul) - An Extensible Image Crawler.
 * [python-readability](https://github.com/buriy/python-readability) - Fast Python port of arc90's readability tool.
-* [opengraph](https://github.com/erikriver/opengraph) - A Python module to parse the Open Graph Protocol
-* [textract](https://github.com/deanmalmgren/textract) - Extract text from any document, Word, PowerPoint, PDFs, etc.
-* [sanitize](https://github.com/Alir3z4/sanitize) - Bringing sanity to world of messed-up data.
 * [scrapely](https://github.com/scrapy/scrapely) - Library for extracting structured data from HTML pages. Given some example web pages and the data to be extracted, scrapely constructs a parser for all similar pages.
 
 
