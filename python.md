@@ -167,12 +167,7 @@ This list contains python libraries related to web scraping and data processing
 
 *Libraries for downloading.*
 
-* [s3cmd](https://github.com/s3tools/s3cmd) - A command line tool for managing Amazon S3 and CloudFront.
-* [s4cmd](https://github.com/bloomreach/s4cmd) - Super S3 command line tool, good for higher performance.
-* [youtube-dl](http://rg3.github.io/youtube-dl/) - A small command-line program to download videos from YouTube.
-* [you-get](http://www.soimort.org/you-get/) - A YouTube/Youku/Niconico video downloader written in Python 3.
-* [WikiTeam](https://github.com/WikiTeam/wikiteam) - Tools for downloading and preserving wikis.
-* [subliminal](https://github.com/Diaoul/subliminal) - Library and command line tool to search and download subtitles.
+
 
 ## Browser automation and emulation
 * [selenium](http://selenium.googlecode.com/git/docs/api/py/api.html) - automating real browsers (Chrome, Firefox, Opera, IE)
@@ -234,16 +229,21 @@ This list contains python libraries related to web scraping and data processing
 
 *Libraries for extracting web contents.*
 
-* [newspaper](https://github.com/codelucas/newspaper) - News extraction, article extraction and content curation in Python.
-* [html2text](https://github.com/Alir3z4/html2text) - Convert HTML to Markdown-formatted text.
-* [python-goose](https://github.com/grangier/python-goose) - HTML Content/Article Extractor.
-* [lassie](https://github.com/michaelhelmick/lassie) - Web Content Retrieval for Humans.
-* [micawber](https://github.com/coleifer/micawber) - A small library for extracting rich content from URLs.
-* [sumy](https://github.com/miso-belica/sumy) - A module for automatic summarization of text documents and HTML pages.
-* [Haul](https://github.com/vinta/Haul) - An Extensible Image Crawler.
-* [python-readability](https://github.com/buriy/python-readability) - Fast Python port of arc90's readability tool.
-* [scrapely](https://github.com/scrapy/scrapely) - Library for extracting structured data from HTML pages. Given some example web pages and the data to be extracted, scrapely constructs a parser for all similar pages.
-
+* Text and Meta Data from HTML pages
+  * [newspaper](https://github.com/codelucas/newspaper) - News extraction, article extraction and content curation in Python.
+  * [html2text](https://github.com/Alir3z4/html2text) - Convert HTML to Markdown-formatted text.
+  * [python-goose](https://github.com/grangier/python-goose) - HTML Content/Article Extractor.
+  * [lassie](https://github.com/michaelhelmick/lassie) - Web Content Retrieval for Humans.
+  * [micawber](https://github.com/coleifer/micawber) - A small library for extracting rich content from URLs.
+  * [sumy](https://github.com/miso-belica/sumy) - A module for automatic summarization of text documents and HTML pages.
+  * [Haul](https://github.com/vinta/Haul) - An Extensible Image Crawler.
+  * [python-readability](https://github.com/buriy/python-readability) - Fast Python port of arc90's readability tool.
+  * [scrapely](https://github.com/scrapy/scrapely) - Library for extracting structured data from HTML pages. Given some example web pages and the data to be extracted, scrapely constructs a parser for all similar pages.
+* Video
+  * [youtube-dl](http://rg3.github.io/youtube-dl/) - A small command-line program to download videos from YouTube.
+  * [you-get](http://www.soimort.org/you-get/) - A YouTube/Youku/Niconico video downloader written in Python 3.
+* Wiki
+  * [WikiTeam](https://github.com/WikiTeam/wikiteam) - Tools for downloading and preserving wikis.
 
 ## WebSocket
 
