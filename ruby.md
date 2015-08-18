@@ -9,7 +9,6 @@ This list contains ruby libraries related to web scraping and data processing
    * [Text processing](#text-processing)
    * [Specific Formats Processing](#specific-formats-processing)
    * [Natural Language Processing](#natural-language-processing)
-   * [Downloader](#downloader)
    * [Browser automation and emulation](#browser-automation-and-emulation)
    * [Multiprocessing](#multiprocessing)
    * [Queue](#queue)
@@ -198,12 +197,6 @@ This list contains ruby libraries related to web scraping and data processing
   * [Word Count Analyzer](https://github.com/diasks2/word_count_analyzer) - analyzes a string for potential areas of the text that might cause word count discrepancies depending on the tool used
   * [WordsCounted](https://github.com/abitdodgy/words_counted) - a highly customisable Ruby text analyser
 
-## Downloader
-
-*Libraries for downloading.*
-
-* TODO
-
 ## Browser automation and emulation
 * [selenium](https://github.com/seleniumhq/selenium) - A browser automation framework and ecosystem
 * [watir-webdriver](https://github.com/watir/watir-webdriver) - Watir implementation built on WebDriver's Ruby bindings
@@ -272,7 +265,8 @@ This list contains ruby libraries related to web scraping and data processing
 * [Slanger](https://github.com/stevegraham/slanger) - Open Pusher implementation compatible with Pusher libraries.
 
 ## DNS Resolving
-* TODO
+* [em-resolve-replace](https://github.com/mperham/em-resolv-replace) - EventMachine-aware pure Ruby DNS resolution
+* [Celluloid::DNS](https://github.com/celluloid/celluloid-dns) - a high-performance DNS client resolver and server which can be easily integrated into other projects or used as a stand-alone daemon. It was forked from RubyDNS which is now implemented in terms of this library.
 
 ## Computer Vision
 
