@@ -13,7 +13,6 @@ This list contains ruby libraries related to web scraping and data processing
    * [Browser automation and emulation](#browser-automation-and-emulation)
    * [Multiprocessing](#multiprocessing)
    * [Queue](#queue)
-   * [Cloud Computing](#cloud-computing)
    * [Email](#email)
    * [URL Manipulation](#url-manipulation)
    * [Web Content Extracting](#web-content-extracting)
@@ -145,6 +144,8 @@ This list contains ruby libraries related to web scraping and data processing
     * [MessagePack](https://github.com/msgpack/msgpack-ruby) — an efficient binary serialization format. It lets you exchange data among multiple languages like JSON but it's faster and smaller. For example, small integers (like flags or error code) are encoded into a single byte, and typical short strings only require an extra byte in addition to the strings themselves. See http://msgpack.org
   * Protobuf
     * [Protobuf](https://github.com/localshred/protobuf) — Ruby implementation for Protocol Buffers.
+  * RDF
+    * [rdf](https://github.com/ruby-rdf/rdf) - pure-Ruby library for working with Resource Description Framework (RDF) data
 
 ## Natural Language Processing
 
@@ -204,7 +205,10 @@ This list contains ruby libraries related to web scraping and data processing
 * TODO
 
 ## Browser automation and emulation
-* TODO
+* [selenium](https://github.com/seleniumhq/selenium) - A browser automation framework and ecosystem
+* [watir-webdriver](https://github.com/watir/watir-webdriver) - Watir implementation built on WebDriver's Ruby bindings
+* [capybara-webkit](https://github.com/thoughtbot/capybara-webkit) - A Capybara driver for headless WebKit to test JavaScript web apps
+* [poltergeist](https://github.com/teampoltergeist/poltergeist) - A PhantomJS driver for Capybara
 
 ## Multiprocessing
 
@@ -237,9 +241,6 @@ This list contains ruby libraries related to web scraping and data processing
   * [Shoryuken](https://github.com/phstc/shoryuken) - A super efficient AWS SQS thread based message processor for Ruby.
   * [Sucker Punch](https://github.com/brandonhilkert/sucker_punch) - A single process background processing library using Celluloid. Aimed to be Sidekiq's little brother.
 
-## Cloud Computing
-* TODO
-
 ## Email
 
 *Libraries for parsing email.*
@@ -250,7 +251,7 @@ This list contains ruby libraries related to web scraping and data processing
 
 *Libraries for parsing URLs.*
 
-* TODO
+* [addressable](https://github.com/sporkmonger/addressable) - Addressable is a replacement for the URI implementation that is part of Ruby's standard library. It more closely conforms to RFC 3986, RFC 3987, and RFC 6570 (level 4), providing support for IRIs and URI templates.
 
 ## Web Content Extracting
 
