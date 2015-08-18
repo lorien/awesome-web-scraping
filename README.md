@@ -18,8 +18,9 @@ The list of tools, programming libraries and APIs used in web-scraping.
 
 Make this list better! Your contributions are always welcome! See [contributing how-to](https://github.com/lorien/web-scraping/blob/master/CONTRIBUTING.md)
 
-## List of lists
+## Other Awesome List Projects
 * [lists](https://github.com/jnv/lists) - List of useful, silly and awesome lists curated on GitHub
+* [HeadlessBrowsers](https://github.com/dhamaniasad/HeadlessBrowsers) - A list of (almost) all headless web browsers in existence
 
 ## Credits
 This list partially contains data from these sources:
