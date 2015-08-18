@@ -2,20 +2,16 @@
 
 The list of tools, programming libraries and APIs used in web-scraping.
 
-## Programming languages
-
 * [Python](http://github.com/lorien/web-scraping/blob/master/python.md)
 * [PHP](http://github.com/lorien/web-scraping/blob/master/php.md)
 * [Ruby](http://github.com/lorien/web-scraping/blob/master/ruby.md)
-* Feel free to add list for your favourite language. You can use already existing language as template.
-
-## Other stuff
-
+  * Feel free to add your favourite language. You can use already existing language as template.
 * [Web Services](http://github.com/lorien/web-scraping/blob/master/web_services.md)
 * [Console tools](http://github.com/lorien/web-scraping/blob/master/console_tools.md)
 
-## List of lists
+## Other Awesome List Projects
 * [lists](https://github.com/jnv/lists) - List of useful, silly and awesome lists curated on GitHub
+* [HeadlessBrowsers](https://github.com/dhamaniasad/HeadlessBrowsers) - a list of (almost) all headless web browsers in existence
 
 ## Contributing
 
