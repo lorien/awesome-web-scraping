@@ -9,7 +9,6 @@ This list contains PHP libraries related to web scraping and data processing
    * [Text processing](#text-processing)
    * [Specific Formats Processing](#specific-formats-processing)
    * [Natural Language Processing](#natural-language-processing)
-   * [Downloader](#downloader)
    * [Browser automation and emulation](#browser-automation-and-emulation)
    * [Multiprocessing](#multiprocessing)
    * [Queue](#queue)
@@ -102,12 +101,6 @@ This list contains PHP libraries related to web scraping and data processing
 * [PHP NlpTools](https://github.com/angeloskath/php-nlp-tools) - Natural Language Processing Tools in PHP
 * [nlpTools](https://github.com/atrilla/nlptools) - Natural Language Processing Toolkit for PHP
 
-## Downloader
-
-*Libraries for downloading.*
-
-* [Youtube-Downloader](https://github.com/jeckman/YouTube-Downloader) - PHP script for downloading videos from youtube; also parsing youtube feed into RSS enclosures for podcatchers
-
 ## Browser automation and emulation
 * [php-webdriver](https://github.com/facebook/php-webdriver) - A php client for webdriver.
 * [PHP PhantomJS](https://github.com/jonnnnyw/php-phantomjs) - Execute PhantomJS commands through PHP
@@ -154,10 +147,11 @@ This list contains PHP libraries related to web scraping and data processing
 
 ## Web Content Extracting
 
-*Libraries for extracting web contents.*
-
-* [Essence](https://github.com/felixgirault/essence) - A library for extracting web media.
-* [Embera](https://github.com/mpratt/Embera) - An Oembed consumer library.
+* Text and Meta Data from Web Documents
+  * [Essence](https://github.com/felixgirault/essence) - A library for extracting web media.
+  * [Embera](https://github.com/mpratt/Embera) - An Oembed consumer library.
+* Video
+  * [Youtube-Downloader](https://github.com/jeckman/YouTube-Downloader) - PHP script for downloading videos from youtube; also parsing youtube feed into RSS enclosures for podcatchers
 
 ## WebSocket
 
