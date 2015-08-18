@@ -214,6 +214,7 @@ This list contains python libraries related to web scraping and data processing
   * [tldextract](https://github.com/john-kurkowski/tldextract) - Accurately separate the TLD from the registered domain and subdomains of a URL, using the Public Suffix List.
 * Network Address
   * [netaddr](https://github.com/drkjam/netaddr) - A Python library for representing and manipulating network addresses.
+
 ## Web Content Extracting
 
 *Libraries for extracting web contents.*
