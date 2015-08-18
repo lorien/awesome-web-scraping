@@ -58,7 +58,7 @@ This list contains ruby libraries related to web scraping and data processing
 * [Oga](https://github.com/YorickPeterse/oga) - An XML/HTML parser written in Ruby. Oga does not require system libraries such as libxml, making it easier and faster to install on various platforms.
 * [Ox](https://github.com/ohler55/ox) - A fast XML parser and Object marshaller.
 * [ROXML](https://github.com/Empact/roxml) - Custom mapping and bidirectional marshalling between Ruby and XML using annotation-style class methods, via Nokogiri or LibXML.
-
+* [equivalent-xml](https://github.com/mbklein/equivalent-xml) - Easy tests of equivalency of XML documents for Nokogiri::XML
 
 ## Text Processing
 
