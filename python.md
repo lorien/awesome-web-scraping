@@ -9,7 +9,6 @@ This list contains python libraries related to web scraping and data processing
    * [Text processing](#text-processing)
    * [Specific Formats Processing](#specific-formats-processing)
    * [Natural Language Processing](#natural-language-processing)
-   * [Downloader](#downloader)
    * [Browser automation and emulation](#browser-automation-and-emulation)
    * [Multiprocessing](#multiprocessing)
    * [Queue](#queue)
@@ -162,12 +161,6 @@ This list contains python libraries related to web scraping and data processing
 * [genius](https://github.com/duanhongyi/genius) - A Chinese segment base on Conditional Random Field.
 * [langid.py](https://github.com/saffsd/langid.py) - Stand-alone language identification system.
 * [Korean](https://korean.readthedocs.org/) - A library for [Korean](http://en.wikipedia.org/wiki/Korean_language) morphology.
-
-## Downloader
-
-*Libraries for downloading.*
-
-
 
 ## Browser automation and emulation
 * [selenium](http://selenium.googlecode.com/git/docs/api/py/api.html) - automating real browsers (Chrome, Firefox, Opera, IE)
