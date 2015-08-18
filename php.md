@@ -22,6 +22,7 @@ This list contains PHP libraries related to web scraping and data processing
    * [DNS Resolving](#dns-resolving)
    * [Computer Vision](#computer-vision)
    * [Geocoding](#geocoding)
+   * [API Clients](#api-clients)
    * [Other PHP Lists](#other-php-lists)
 
 ## Network
@@ -175,6 +176,11 @@ This list contains PHP libraries related to web scraping and data processing
 ## Geocoding
 * [GeoCoder](http://geocoder-php.org/) - A geocoding library.
 * [GeoTools](https://github.com/php-loep/Geotools) - A library of geo-related tools.
+
+## API Clients
+*Libraries for working with remote web-scraping API*
+
+* [diffbot-php-client](https://github.com/Swader/diffbot-php-client/) - Diffbot API client
 
 ## Other PHP lists
 
