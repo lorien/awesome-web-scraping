@@ -73,7 +73,7 @@ This list contains PHP libraries related to web scraping and data processing
 * Office
   * [PHPWord](https://github.com/PHPOffice/PHPWord) - A library for working with Microsoft Word documents.
   * [PHPExcel](https://github.com/PHPOffice/PHPExcel) - A library for working with Microsoft Excel documents.
-  * [PHPPowerPoint](https://github.com/PHPOffice/PHPPowerPoint) - A library for working with Microsoft Word documents.
+  * [PHPPowerPoint](https://github.com/PHPOffice/PHPPowerPoint) - A library for working with Microsoft PowerPoint documents.
   * [ExcelAnt](https://github.com/Wisembly/ExcelAnt) - A library for manipulating Microsoft Excel documents.
 * Markdown
   * [PHP Markdown](https://github.com/michelf/php-markdown) - A Markdown parser.
