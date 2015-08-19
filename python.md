@@ -37,7 +37,6 @@ This list contains python libraries related to web scraping and data processing
   * [Unirest for Python](https://github.com/Mashape/unirest-python) - Unirest is a set of lightweight HTTP libraries available in multiple languages
   * [hyper](https://github.com/Lukasa/hyper) - HTTP/2 Client for Python
 * Asynchronous
-  * [grequests](https://github.com/kennethreitz/grequests) - GRequests allows you to use Requests with Gevent to make asynchronous HTTP Requests easily.
   * [treq](https://github.com/dreid/treq) - requests like API (twisted based)
   * [aiohttp](https://github.com/KeepSafe/aiohttp) - http client/server for asyncio (PEP-3156)
 
