@@ -147,6 +147,9 @@ This list contains python libraries related to web scraping and data processing
 * Microformats
   * [opengraph](https://github.com/erikriver/opengraph) - A Python module to parse the Open Graph Protocol tags
 
+*  Portable Executable
+  *  [pefile](https://github.com/erocarrera/pefile) - A multi-platform module to parse and work with Portable Executable (aka PE) files. 
+  
 ## Natural Language Processing
 
 *Libraries for working with human languages.*
