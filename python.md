@@ -94,7 +94,7 @@ This list contains python libraries related to web scraping and data processing
     * [awesome-slugify](https://github.com/dimka665/awesome-slugify) - A Python slugify library that can preserve unicode.
     * [python-slugify](https://github.com/un33k/python-slugify) - A Python slugify library that translates unicode to ASCII.
     * [unicode-slugify](https://github.com/mozilla/unicode-slugify) - A slugifier that generates unicode slugs.
-    * [pytils](https://pypi.python.org/pypi/pytils) - Simple tools for processing strings in russian (including pytils.translit.slugify)
+    * [pytils](https://github.com/j2a/pytils) - Simple tools for processing strings in russian (including pytils.translit.slugify)
 
 * General Parser
     * [PLY](http://www.dabeaz.com/ply/) - Implementation of lex and yacc parsing tools for Python
