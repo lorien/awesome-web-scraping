@@ -133,6 +133,7 @@ This list contains python libraries related to web scraping and data processing
 * Markdown
     * [Python-Markdown](https://github.com/waylan/Python-Markdown) - A Python implementation of John Gruber’s Markdown.
     * [Mistune](https://github.com/lepture/mistune) - Fastest and full featured pure Python parsers of Markdown.
+    * [markdown2](https://pypi.python.org/pypi/markdown2) - A fast and complete Python implementation of Markdown
 
 * YAML
     * [PyYAML](http://pyyaml.org/) - YAML implementations for Python.
