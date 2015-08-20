@@ -47,6 +47,7 @@ This list contains python libraries related to web scraping and data processing
 * [pyspider](https://github.com/binux/pyspider) - A powerful spider system.
 * [cola](https://github.com/chineking/cola) - A distributed crawling framework.
 * [restkit](https://github.com/benoitc/restkit) - HTTP resource kit for Python. It allows you to easily access to HTTP resource and build objects around it. 
+* [demiurge](https://github.com/matiasb/demiurge) - PyQuery-based scraping micro-framework.
 
 ## HTML/XML Parsing
 
