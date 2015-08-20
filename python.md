@@ -41,13 +41,16 @@ This list contains python libraries related to web scraping and data processing
   * [aiohttp](https://github.com/KeepSafe/aiohttp) - http client/server for asyncio (PEP-3156)
 
 ## Web-Scraping Frameworks
-* [grab](http://docs.grablib.org/en/latest/#grab-spider-user-manual) - web-scraping framework (pycurl/multicurl based)
-* [scrapy](http://scrapy.org/) - web-scraping framework (twisted based). Does not support Python3.
-* [portia](https://github.com/scrapinghub/portia) - Visual scraping for Scrapy.
-* [pyspider](https://github.com/binux/pyspider) - A powerful spider system.
-* [cola](https://github.com/chineking/cola) - A distributed crawling framework.
-* [restkit](https://github.com/benoitc/restkit) - HTTP resource kit for Python. It allows you to easily access to HTTP resource and build objects around it. 
-* [demiurge](https://github.com/matiasb/demiurge) - PyQuery-based scraping micro-framework.
+* Full Featured Crawlers
+  * [grab](http://docs.grablib.org/en/latest/#grab-spider-user-manual) - web-scraping framework (pycurl/multicurl based)
+  * [scrapy](http://scrapy.org/) - web-scraping framework (twisted based). Does not support Python3.
+
+  * [pyspider](https://github.com/binux/pyspider) - A powerful spider system.
+  * [cola](https://github.com/chineking/cola) - A distributed crawling framework.
+* Other
+  * [portia](https://github.com/scrapinghub/portia) - Visual scraping for Scrapy.
+  * [restkit](https://github.com/benoitc/restkit) - HTTP resource kit for Python. It allows you to easily access to HTTP resource and build objects around it. 
+  * [demiurge](https://github.com/matiasb/demiurge) - PyQuery-based scraping micro-framework.
 
 ## HTML/XML Parsing
 
