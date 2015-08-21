@@ -20,6 +20,7 @@ This list contains python libraries related to web scraping and data processing
    * [WebSocket](#websocket)
    * [DNS Resolving](#dns-resolving)
    * [Computer Vision](#computer-vision)
+   * [Proxy Server](#proxy-server)
    * [Other Python Lists](#other-python-lists)
 
 ## Network
@@ -262,6 +263,9 @@ This list contains python libraries related to web scraping and data processing
   * [OpenCV](https://github.com/Itseez/opencv) - Open Source Computer Vision Library.
   * [SimpleCV](https://github.com/sightmachine/SimpleCV) - Concise, readable interface for cameras, image manipulation, feature extraction, and format conversion (based on OpenCV).
   * [mahotas](https://github.com/luispedro/mahotas) - fast computer vision algorithms (all implemented in C++) operating over numpy arrays.
+
+## Proxy Server
+  * [shadowsocks](https://github.com/shadowsocks/shadowsocks) - A fast tunnel proxy that helps you bypass firewalls (TCP & UDP support, User management API, TCP Fast Open, Workers and graceful restart, Destination IP blacklist)
 
 ## Other python lists
 
