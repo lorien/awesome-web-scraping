@@ -4,7 +4,6 @@ This list contains JavaScript libraries related to web scraping and data process
 
 * [JavaScript Web Scraping](#javascript-web-scraping)
    * [Network](#network)
-   * [Data Processing][#data-processing]
    * [Web-scraping Frameworks](#web-scraping-frameworks)
    * [HTML/XML Parsing](#htmlxml-parsing)
    * [Text processing](#text-processing)
@@ -23,6 +22,7 @@ This list contains JavaScript libraries related to web scraping and data process
    * [Computer Vision](#computer-vision)
    * [Proxy Server](#proxy-server)
    * [Other JavaScript Lists](#other-javascript-lists)
+   * [Data Structure][#data-structure]
 
 ## Network
 * [node-http2](https://github.com/molnarg/node-http2) - An HTTP/2 client and server implementation for node.js
@@ -31,10 +31,6 @@ This list contains JavaScript libraries related to web scraping and data process
 * [socks5-http-client](https://github.com/mattcg/socks5-http-client) - SOCKS v5 HTTP client implementation in JavaScript for Node.js
 * [rest](https://github.com/cujojs/rest) - RESTful HTTP client for JavaScript
 * [wreck](https://github.com/hapijs/wreck) - HTTP Client Utilities
-
-## Data Processing
-* [lodash](https://github.com/lodash/lodash) - A JavaScript utility library delivering consistency, modularity, performance, & extras.
-* [immutable](https://github.com/facebook/immutable-js) - Immutable persistent data collections for Javascript which increase efficiency and simplicity.
 
 ## Web-Scraping Frameworks
 * Full Featured Crawlers
@@ -145,6 +141,9 @@ This list contains JavaScript libraries related to web scraping and data process
 
 ## Proxy Server
   * TODO
+
+## Data Structure
+* [immutable](https://github.com/facebook/immutable-js) - Immutable persistent data collections for Javascript which increase efficiency and simplicity.
 
 ## Other JavaScript lists
 
