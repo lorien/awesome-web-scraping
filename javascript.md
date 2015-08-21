@@ -4,6 +4,7 @@ This list contains JavaScript libraries related to web scraping and data process
 
 * [JavaScript Web Scraping](#javascript-web-scraping)
    * [Network](#network)
+   * [Data Processing][#data-processing]
    * [Web-scraping Frameworks](#web-scraping-frameworks)
    * [HTML/XML Parsing](#htmlxml-parsing)
    * [Text processing](#text-processing)
@@ -28,6 +29,10 @@ This list contains JavaScript libraries related to web scraping and data process
   * TODO
 * Asynchronous
   * TODO
+
+## Data Processing
+* [lodash](https://github.com/lodash/lodash) - A JavaScript utility library delivering consistency, modularity, performance, & extras.
+* [immutable](https://github.com/facebook/immutable-js) - Immutable persistent data collections for Javascript which increase efficiency and simplicity.
 
 ## Web-Scraping Frameworks
 * Full Featured Crawlers
