@@ -79,7 +79,19 @@ This list contains JavaScript libraries related to web scraping and data process
 
 *Libraries for working with human languages.*
 
-  * TODO
+* General
+  * [natural](https://github.com/NaturalNode/natural) - general natural language facilities for node
+  * [nlp_compromise](https://github.com/spencermountain/nlp_compromise) - natural language processing
+  * [Hanzi](https://github.com/nieldlr/Hanzi) - HanziJS is a Chinese character and NLP module for Chinese language processing for Node.js
+  * [salient](https://github.com/nyxtom/salient) - Machine Learning, Natural Language Processing and Sentiment Analysis Toolkit for Node.js
+* Stemmer
+  * [snowball-js](https://github.com/fortnightlabs/snowball-js) - javascript implementation of the popular snowball word stemming nlp algorithm
+  * [porter-stemmer](https://github.com/jedp/porter-stemmer) - Martin Porter's stemmer for node.js
+  * [Porter-Stemmer](https://github.com/kristopolous/Porter-Stemmer) - A Javascript Implementation of the Porter Stemmer
+  * [lunr-languages](https://github.com/MihaiValentin/lunr-languages) - a collection of languages stemmers and stopwords for Lunr Javascript library
+* Language detection
+  * [franc](https://github.com/wooorm/franc) - Natural language detection
+  * [guessLanguage.js](https://github.com/richtr/guessLanguage.js) - A natural language detection library based on trigram statistical analysis for Node.js
 
 ## Browser automation and emulation
 * [phantomjs](https://github.com/ariya/phantomjs) - Scriptable Headless WebKit.
