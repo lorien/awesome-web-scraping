@@ -24,10 +24,12 @@ This list contains JavaScript libraries related to web scraping and data process
    * [Other JavaScript Lists](#other-javascript-lists)
 
 ## Network
-* General
-  * TODO
-* Asynchronous
-  * TODO
+* [node-http2](https://github.com/molnarg/node-http2) - An HTTP/2 client and server implementation for node.js
+* [httpinvoke](https://github.com/jakutis/httpinvoke) - A no-dependencies HTTP client library for browsers and Node.js with a promise-based or Node.js-style callback-based API to progress events, text and binary file upload and download, partial response body, request and response headers, status code. 
+* [request](https://github.com/request/request) - Simplified HTTP request client.
+* [socks5-http-client](https://github.com/mattcg/socks5-http-client) - SOCKS v5 HTTP client implementation in JavaScript for Node.js
+* [rest](https://github.com/cujojs/rest) - RESTful HTTP client for JavaScript
+* [wreck](https://github.com/hapijs/wreck) - HTTP Client Utilities
 
 ## Web-Scraping Frameworks
 * Full Featured Crawlers
