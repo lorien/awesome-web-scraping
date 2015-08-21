@@ -77,7 +77,7 @@ This list contains PHP libraries related to web scraping and data processing
   * [ExcelAnt](https://github.com/Wisembly/ExcelAnt) - A library for manipulating Microsoft Excel documents.
 * Markdown
   * [PHP Markdown](https://github.com/michelf/php-markdown) - A Markdown parser.
-  * [CommonMark PHP](https://github.com/thephpleague/commonmark) - A Markdown parser which supports the full [CommonMark spec](https://jgm.github.io/stmd/spec.html).
+  * [CommonMark PHP](https://github.com/thephpleague/commonmark) - A Markdown parser which supports the full [CommonMark spec](http://spec.commonmark.org/).
   * [Parsedown](https://github.com/erusev/parsedown) - Another Markdown parser.
   * [Ciconia](https://github.com/kzykhys/Ciconia) - Another Markdown parser that supports Github flavoured Markdown.
   * [Cebe Markdown](https://github.com/cebe/markdown) - An fast and extensible Markdown parser.
