@@ -1,6 +1,6 @@
 # JavaScript Web Scraping
 
-This list contains JavaScript libraries related to web scraping and data processing
+This list contains JavaScript libraries related to web scraping and data processing. The content of that list is focused on libs that could be run in nodejs (without real web-browser).
 
 * [JavaScript Web Scraping](#javascript-web-scraping)
    * [Network](#network)
