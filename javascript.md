@@ -12,7 +12,6 @@ This list contains JavaScript libraries related to web scraping and data process
    * [Browser automation and emulation](#browser-automation-and-emulation)
    * [Multiprocessing](#multiprocessing)
    * [Queue](#queue)
-   * [Cloud Computing](#cloud-computing)
    * [Email](#email)
    * [URL and Network Address Manipulation](#url-and-network-address-manipulation)
    * [Web Content Extracting](#web-content-extracting)
@@ -101,7 +100,8 @@ This list contains JavaScript libraries related to web scraping and data process
 * [nightmare](https://github.com/segmentio/nightmare) - Nightmare is a high level wrapper for PhantomJS that lets you automate browser tasks
 
 ## Multiprocessing
-  * TODO
+  * [nexpect](https://github.com/nodejitsu/nexpect) - spawn and control child processes in node.js with ease
+  * [respawn](https://github.com/mafintosh/respawn) - Spawn a process and restart it if it crashes
 
 ## Asynchronous
 
