@@ -85,6 +85,7 @@ This list contains JavaScript libraries related to web scraping and data process
 * [slimerjs](https://github.com/laurentj/slimerjs) - A PhantomJS-like tool running Gecko.
 * [casperjs](https://github.com/n1k0/casperjs) - Navigation scripting & testing utility for PhantomJS and SlimerJS.
 * [zombie](https://github.com/assaf/zombie) - Insanely fast, full-stack, headless browser testing using node.js.
+* [nightmare](https://github.com/segmentio/nightmare) - Nightmare is a high level wrapper for PhantomJS that lets you automate browser tasks
 
 ## Multiprocessing
   * TODO
