@@ -37,7 +37,9 @@ This list contains JavaScript libraries related to web scraping and data process
 
 ## HTML/XML Parsing
   * General
-    * [parse5](https://github.com/inikulin/parse5) - WHATWG HTML5 specification-compliant, fast and ready for production HTML parsing/serialization toolset for Node and io.js.
+    * [parse5](https://github.com/inikulin/parse5) - WHATWG HTML5 specification-compliant, fast and ready for production HTML parsing/serialization toolset for Node and io.js
+    * [htmlparser2](https://github.com/fb55/htmlparser2) - forgiving html and xml parser
+    * [sax-js](https://github.com/isaacs/sax-js) - A sax style parser for JS
   * Sanitizing
     * [js-xss](https://github.com/leizongmin/js-xss) - Sanitize untrusted HTML (to prevent XSS) with a configuration specified by a Whitelist.
 
@@ -64,6 +66,8 @@ This list contains JavaScript libraries related to web scraping and data process
   * [TinyColor](https://github.com/bgrins/TinyColor) - Fast, small color manipulation and conversion for JavaScript.
 * User Agent
   * [UAParser.js](https://github.com/faisalman/ua-parser-js) - Lightweight JavaScript-based User-Agent string parser. Supports browser & node.js environment. 
+* Semantic Version
+  * [node-semver](https://github.com/npm/node-semver) - The semver parser for node
 
 ## Specific Formats Processing
 
@@ -71,6 +75,8 @@ This list contains JavaScript libraries related to web scraping and data process
 
 * General
   * [jBinary](https://github.com/jDataView/jBinary) - High-level I/O (loading, parsing, manipulating, serializing, saving) for binary files with declarative syntax for describing file types and data structures.
+* Office
+  * [js-xlsx](https://github.com/SheetJS/js-xlsx) - XLSX / XLSM / XLSB / XLS / SpreadsheetML (Excel Spreadsheet) / ODS parser and writer
 * CSV
   * [BabyParse](https://github.com/Rich-Harris/BabyParse) - Fast and reliable CSV parser based on Papa Parse. Papa Parse is for the browser, Baby Parse is for Node.js.
   * [CSV](https://github.com/knrz/CSV.js) - A simple, blazing-fast CSV parser and encoder. Full RFC 4180 compliance.
@@ -87,6 +93,10 @@ This list contains JavaScript libraries related to web scraping and data process
   * [SQL Parser](https://github.com/forward/sql-parser) - SQL Parser is a lexer, grammar and parser for SQL written in JS. Currently it is only capable of parsing fairly basic SELECT queries.
 * YAML
   [JS-YAML](https://github.com/nodeca/js-yaml) - JavaScript YAML parser and dumper. Very fast.
+* Markdown
+  * [markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
+* Atom/RSS
+  * [node-feedparser]9https://github.com/danmactough/node-feedparser) - Robust RSS, Atom, and RDF feed parsing in Node.js
 
 ## Natural Language Processing
 
@@ -128,7 +138,8 @@ This list contains JavaScript libraries related to web scraping and data process
   * [async](https://github.com/caolan/async) - Async utilities for node and the browser
 
 ## Queue
-  * TODO
+  * [kue](https://github.com/Automattic/kue) - Kue is a priority job queue backed by redis, built for node.js
+  * [bull](https://github.com/OptimalBits/bull) - A lightweight, robust and fast job processing queue. Carefully written for rock solid stability and atomicity.
 
 ## Email
 
@@ -144,6 +155,7 @@ This list contains JavaScript libraries related to web scraping and data process
   * [query-string](https://github.com/sindresorhus/query-string) - Parse and stringify URL query strings.
   * [URI.js](https://github.com/medialize/URI.js/) - Javascript URL mutation library.
   * [jsurl](https://github.com/Mikhus/jsurl) - Lightweight URL manipulation with JavaScript.
+  * [arg.js](https://github.com/stretchr/arg.js) - Lightweight URL argument and parameter parser
 * Network Address
   * [node-ip]](https://github.com/indutny/node-ip) - IP address tools for node.js
   * [ip-address](https://github.com/beaugunderson/ip-address) - A library for parsing and manipulating IPv6 (and v4) addresses in JavaScript
