@@ -108,7 +108,9 @@ This list contains JavaScript libraries related to web scraping and data process
 
 *Libraries for asynchronous networking programming.*
 
-  * TODO
+  * [socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
+  * [engine.io](https://github.com/socketio/engine.io) - Engine.IO is the implementation of transport-based cross-browser/cross-device bi-directional communication layer for Socket.IO
+  * [async](https://github.com/caolan/async) - Async utilities for node and the browser
 
 ## Queue
   * TODO
@@ -117,7 +119,7 @@ This list contains JavaScript libraries related to web scraping and data process
 
 *Libraries for parsing email.*
 
-  * TODO
+  * [mailparser](https://github.com/andris9/mailparser) - Decode mime formatted e-mails
 
 ## URL and Network Address Manipulation
 
@@ -128,7 +130,8 @@ This list contains JavaScript libraries related to web scraping and data process
   * [URI.js](https://github.com/medialize/URI.js/) - Javascript URL mutation library.
   * [jsurl](https://github.com/Mikhus/jsurl) - Lightweight URL manipulation with JavaScript.
 * Network Address
-  * TODO
+  * [node-ip]](https://github.com/indutny/node-ip) - IP address tools for node.js
+  * [ip-address](https://github.com/beaugunderson/ip-address) - A library for parsing and manipulating IPv6 (and v4) addresses in JavaScript
 
 ## Web Content Extracting
 
@@ -141,10 +144,12 @@ This list contains JavaScript libraries related to web scraping and data process
 
 *Libraries for working with WebSocket.*
 
-  * TODO
+  * [websocket.io](https://github.com/LearnBoost/websocket.io) - WebSocket.IO is an abstraction of the websocket server previously used by Socket.IO. It has the broadest support for websocket protocol/specifications and an API that allows for interoperability with higher-level frameworks such as Engine, Socket.IO's realtime core.
+  * [WebScoket-Node](https://github.com/theturtle32/WebSocket-Node) - A WebSocket Implementation for Node.JS (Draft -08 through the final RFC 6455)
 
 ## DNS Resolving
-  * TODO
+  * [multicast-dns](https://github.com/mafintosh/multicast-dns) - Low level multicast-dns implementation in pure javascript
+  * [node-dns](https://github.com/tjfontaine/node-dns) - Replacement dns module in pure javascript for node.js
 
 ## Computer Vision
 * [tracking.js](https://github.com/eduardolundgren/tracking.js) - A modern approach for Computer Vision on the web.
