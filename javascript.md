@@ -102,6 +102,7 @@ This list contains JavaScript libraries related to web scraping and data process
 ## Multiprocessing
   * [nexpect](https://github.com/nodejitsu/nexpect) - spawn and control child processes in node.js with ease
   * [respawn](https://github.com/mafintosh/respawn) - Spawn a process and restart it if it crashes
+  * [node-webworker](https://github.com/pgriess/node-webworker) - A WebWorkers implementation for NodeJS
 
 ## Asynchronous
 
