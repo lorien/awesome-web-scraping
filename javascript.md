@@ -39,7 +39,7 @@ This list contains JavaScript libraries related to web scraping and data process
   * General
     * TODO
   * Sanitizing
-  * [js-xss](https://github.com/leizongmin/js-xss) - Sanitize untrusted HTML (to prevent XSS) with a configuration specified by a Whitelist.
+    * [js-xss](https://github.com/leizongmin/js-xss) - Sanitize untrusted HTML (to prevent XSS) with a configuration specified by a Whitelist.
 
 ## Text Processing
 
