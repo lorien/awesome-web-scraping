@@ -40,6 +40,7 @@ This list contains JavaScript libraries related to web scraping and data process
     * [parse5](https://github.com/inikulin/parse5) - WHATWG HTML5 specification-compliant, fast and ready for production HTML parsing/serialization toolset for Node and io.js
     * [htmlparser2](https://github.com/fb55/htmlparser2) - forgiving html and xml parser
     * [sax-js](https://github.com/isaacs/sax-js) - A sax style parser for JS
+    * [cheerio](https://github.com/cheeriojs/cheerio) - Fast, flexible, and lean implementation of core jQuery designed specifically for the server
   * Sanitizing
     * [js-xss](https://github.com/leizongmin/js-xss) - Sanitize untrusted HTML (to prevent XSS) with a configuration specified by a Whitelist.
 
@@ -164,8 +165,8 @@ This list contains JavaScript libraries related to web scraping and data process
 
 *Libraries for extracting web contents.*
 
-* Text and Meta Data from HTML pages
-  * TODO
+* [node-read](https://github.com/bndr/node-read) - Get Readable Content from any page. Based on Arc90's readability project using cheerio engine.
+* [node-ytdl-core](https://github.com/fent/node-ytdl-core) - Youtube video downloader in javascript
 
 ## WebSocket
 
