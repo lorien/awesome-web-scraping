@@ -25,3 +25,4 @@ This list partially contains data from these sources:
 * [awesome-php](https://github.com/ziadoz/awesome-php) by [ziadoz](https://github.com/ziadoz)
 * [awesome-ruby](https://github.com/markets/awesome-ruby) by [markets](https://github.com/markets)
 * [ruby-nlp](https://github.com/diasks2/ruby-nlp) by [diasks2](https://github.com/diasks2)
+* [awesome-javascript](https://github.com/sorrycc/awesome-javascript) by [sorrycc](https://github.com/sorrycc)
