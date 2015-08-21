@@ -33,10 +33,8 @@ This list contains JavaScript libraries related to web scraping and data process
 * [wreck](https://github.com/hapijs/wreck) - HTTP Client Utilities
 
 ## Web-Scraping Frameworks
-* Full Featured Crawlers
-  * TODO
-* Other
-  * TODO
+* [node-crawler](https://github.com/sylvinus/node-crawler) - Web Crawler/Spider for NodeJS + server-side jQuery
+* [node-simplecrawler](https://github.com/cgiffard/node-simplecrawler) - Flexible event driven crawler for node
 
 ## HTML/XML Parsing
   * General
