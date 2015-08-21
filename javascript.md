@@ -22,7 +22,7 @@ This list contains JavaScript libraries related to web scraping and data process
    * [Computer Vision](#computer-vision)
    * [Proxy Server](#proxy-server)
    * [Other JavaScript Lists](#other-javascript-lists)
-   * [Data Structure][#data-structure]
+   * [Data Structure](#data-structure)
 
 ## Network
 * [node-http2](https://github.com/molnarg/node-http2) - An HTTP/2 client and server implementation for node.js
