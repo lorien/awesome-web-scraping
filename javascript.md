@@ -144,6 +144,7 @@ This list contains JavaScript libraries related to web scraping and data process
 
 ## Data Structure
 * [immutable](https://github.com/facebook/immutable-js) - Immutable persistent data collections for Javascript which increase efficiency and simplicity.
+* [lodash](https://github.com/lodash/lodash) - More consistent cross-environment iteration support for arrays, strings, objects, and arguments objects
 
 ## Other JavaScript lists
 
