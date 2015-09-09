@@ -50,7 +50,7 @@ This list contains python libraries related to web scraping and data processing
   * [cola](https://github.com/chineking/cola) - A distributed crawling framework.
 * Other
   * [portia](https://github.com/scrapinghub/portia) - Visual scraping for Scrapy.
-  * [restkit](https://github.com/benoitc/restkit) - HTTP resource kit for Python. It allows you to easily access to HTTP resource and build objects around it. 
+  * [restkit](https://github.com/benoitc/restkit) - HTTP resource kit for Python. It allows you to easily access to HTTP resource and build objects around it.
   * [demiurge](https://github.com/matiasb/demiurge) - PyQuery-based scraping micro-framework.
 
 ## HTML/XML Parsing
@@ -62,7 +62,7 @@ This list contains python libraries related to web scraping and data processing
   * [BeautifulSoup](http://www.crummy.com/software/BeautifulSoup/bs4/doc/) - slow HTML/XMl processing library, written in pure python
   * [html5lib](http://html5lib.readthedocs.org/en/latest/) - builds DOM of HTML/XML document according to [WHATWG spec](url=http://www.whatwg.org/). That spec is used in all modern browsers.
   * [feedparser](http://pythonhosted.org/feedparser/) - parsing of RSS/ATOM feeds.
-  
+
   * [MarkupSafe](https://github.com/mitsuhiko/markupsafe) - Implements a XML/HTML/XHTML Markup safe string for Python.
   * [xmltodict](https://github.com/martinblech/xmltodict) - Working with XML feel like you are working with JSON.
   * [xhtml2pdf](https://github.com/chrisglass/xhtml2pdf) - HTML/CSS to PDF converter.
@@ -70,6 +70,8 @@ This list contains python libraries related to web scraping and data processing
 * Sanitizing
   * [Bleach](http://bleach.readthedocs.org/en/latest/) - cleaning of HTML (requires html5lib)
   * [sanitize](https://github.com/Alir3z4/sanitize) - Bringing sanity to world of messed-up data.
+* Tables
+  * [rows](https://github.com/turicas/rows) - A common, beautiful interface to tabular data, no matter the format (currently CSV, HTML, XLS, TXT -- more coming!)
 
 ## Text Processing
 
@@ -118,6 +120,9 @@ This list contains python libraries related to web scraping and data processing
 * General
     * [tablib](https://github.com/kennethreitz/tablib) - A module for Tabular Datasets in XLS, CSV, JSON, YAML.
     * [textract](https://github.com/deanmalmgren/textract) - Extract text from any document, Word, PowerPoint, PDFs, etc.
+    * [messytables](https://github.com/okfn/messytables) - Tools for parsing messy tabular data
+    * [rows](https://github.com/turicas/rows) - A common, beautiful interface to tabular data, no matter the format (currently CSV, HTML, XLS, TXT -- more coming!)
+
 * Office
     * [python-docx](https://github.com/python-openxml/python-docx) - Reads, queries and modifies Microsoft Word 2007/2008 docx files.
     * [xlwt](https://github.com/python-excel/xlwt) / [xlrd](https://github.com/python-excel/xlrd) - Writing and reading data and formatting information from Excel files.
@@ -130,6 +135,7 @@ This list contains python libraries related to web scraping and data processing
     * [PDFMiner](https://github.com/euske/pdfminer) - A tool for extracting information from PDF documents.
     * [PyPDF2](https://github.com/mstamy2/PyPDF2) - A library capable of splitting, merging and transforming PDF pages.
     * [ReportLab](http://www.reportlab.com/opensource/) - Allowing Rapid creation of rich PDF documents.
+    * [pdftables](https://pypi.python.org/pypi/pdftables) - Extract tables from PDF files directly
 
 * Markdown
     * [Python-Markdown](https://github.com/waylan/Python-Markdown) - A Python implementation of John Gruber’s Markdown.
@@ -155,11 +161,11 @@ This list contains python libraries related to web scraping and data processing
   * [opengraph](https://github.com/erikriver/opengraph) - A Python module to parse the Open Graph Protocol tags
 
 *  Portable Executable
-  *  [pefile](https://github.com/erocarrera/pefile) - A multi-platform module to parse and work with Portable Executable (aka PE) files. 
+  *  [pefile](https://github.com/erocarrera/pefile) - A multi-platform module to parse and work with Portable Executable (aka PE) files.
 
 * PSD
   * [psd-tools](https://github.com/kmike/psd-tools) - reading Adobe Photoshop PSD files (as described in [specification](https://www.adobe.com/devnet-apps/photoshop/fileformatashtml/PhotoshopFileFormats.htm)) to Python data structures.
-  
+
 ## Natural Language Processing
 
 *Libraries for working with human languages.*
@@ -174,6 +180,7 @@ This list contains python libraries related to web scraping and data processing
 * [langid.py](https://github.com/saffsd/langid.py) - Stand-alone language identification system.
 * [Korean](https://korean.readthedocs.org/) - A library for [Korean](http://en.wikipedia.org/wiki/Korean_language) morphology.
 * [pymorphy2](https://github.com/kmike/pymorphy2) - Morphological analyzer (POS tagger + inflection engine) for Russian language.
+* [pypln](http://www.pypln.org/) - Distributed Natural Language Processing
 
 ## Browser automation and emulation
 * [selenium](http://selenium.googlecode.com/git/docs/api/py/api.html) - automating real browsers (Chrome, Firefox, Opera, IE)
@@ -250,6 +257,8 @@ This list contains python libraries related to web scraping and data processing
   * [you-get](http://www.soimort.org/you-get/) - A YouTube/Youku/Niconico video downloader written in Python 3.
 * Wiki
   * [WikiTeam](https://github.com/WikiTeam/wikiteam) - Tools for downloading and preserving wikis.
+* Tables
+  * [rows](https://github.com/turicas/rows) - A common, beautiful interface to tabular data, no matter the format (currently CSV, HTML, XLS, TXT -- more coming!)
 
 ## WebSocket
 
