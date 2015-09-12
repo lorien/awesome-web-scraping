@@ -13,4 +13,4 @@ Books about web scraping and data processing
 
 ![Mining the Social Web](http://ecx.images-amazon.com/images/I/51VIN54vc5L._AA160_.jpg)
 
-["Mining the Social Web"](http://www.amazon.com/Mining-Social-Web-Facebook-LinkedIn/dp/1449367615) *by Matthew A. Russell, 
+["Mining the Social Web"](http://www.amazon.com/Mining-Social-Web-Facebook-LinkedIn/dp/1449367615) *by Matthew A. Russell*
