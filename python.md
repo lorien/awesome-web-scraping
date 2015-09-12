@@ -37,6 +37,7 @@ This list contains python libraries related to web scraping and data processing
   * [socket](https://docs.python.org/3/library/socket.html) low-level networking interface (stdlib)
   * [Unirest for Python](https://github.com/Mashape/unirest-python) - Unirest is a set of lightweight HTTP libraries available in multiple languages
   * [hyper](https://github.com/Lukasa/hyper) - HTTP/2 Client for Python
+  * [PySocks](https://github.com/Anorov/PySocks) - Updated and actively maintained version of SocksiPy, with bug fixes and extra features. Acts as a drop-in replacement to the socket module.
 * Asynchronous
   * [treq](https://github.com/dreid/treq) - requests like API (twisted based)
   * [aiohttp](https://github.com/KeepSafe/aiohttp) - http client/server for asyncio (PEP-3156)
@@ -45,7 +46,6 @@ This list contains python libraries related to web scraping and data processing
 * Full Featured Crawlers
   * [grab](http://docs.grablib.org/en/latest/#grab-spider-user-manual) - web-scraping framework (pycurl/multicurl based)
   * [scrapy](http://scrapy.org/) - web-scraping framework (twisted based). Does not support Python3.
-
   * [pyspider](https://github.com/binux/pyspider) - A powerful spider system.
   * [cola](https://github.com/chineking/cola) - A distributed crawling framework.
 * Other
