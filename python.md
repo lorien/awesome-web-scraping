@@ -62,7 +62,6 @@ This list contains python libraries related to web scraping and data processing
   * [BeautifulSoup](http://www.crummy.com/software/BeautifulSoup/bs4/doc/) - slow HTML/XMl processing library, written in pure python
   * [html5lib](http://html5lib.readthedocs.org/en/latest/) - builds DOM of HTML/XML document according to [WHATWG spec](url=http://www.whatwg.org/). That spec is used in all modern browsers.
   * [feedparser](http://pythonhosted.org/feedparser/) - parsing of RSS/ATOM feeds.
-
   * [MarkupSafe](https://github.com/mitsuhiko/markupsafe) - Implements a XML/HTML/XHTML Markup safe string for Python.
   * [xmltodict](https://github.com/martinblech/xmltodict) - Working with XML feel like you are working with JSON.
   * [xhtml2pdf](https://github.com/chrisglass/xhtml2pdf) - HTML/CSS to PDF converter.
