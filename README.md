@@ -10,6 +10,7 @@ The list of tools, programming libraries and APIs used in web-scraping.
 * [Proxy Services](http://github.com/lorien/web-scraping/blob/master/proxy_services.md)
 * [Web Services](http://github.com/lorien/web-scraping/blob/master/web_services.md)
 * [Console tools](http://github.com/lorien/web-scraping/blob/master/console_tools.md)
+* [Books](http://github.com/lorien/web-scraping/blob/master/books.md)
 
 ## Other Awesome List Projects
 * [lists](https://github.com/jnv/lists) - List of useful, silly and awesome lists curated on GitHub
