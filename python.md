@@ -21,6 +21,7 @@ This list contains python libraries related to web scraping and data processing
    * [DNS Resolving](#dns-resolving)
    * [Computer Vision](#computer-vision)
    * [Proxy Server](#proxy-server)
+   * [Misc](#misc)
    * [Other Python Lists](#other-python-lists)
 
 ## Network
@@ -275,6 +276,9 @@ This list contains python libraries related to web scraping and data processing
 ## Proxy Server
   * [shadowsocks](https://github.com/shadowsocks/shadowsocks) - A fast tunnel proxy that helps you bypass firewalls (TCP & UDP support, User management API, TCP Fast Open, Workers and graceful restart, Destination IP blacklist)
   * [tproxy](https://github.com/benoitc/tproxy) - tproxy is a simple TCP routing proxy (layer 7) built on Gevent that lets you configure the routine logic in Python
+
+## Misc
+  * [user_agent](https://github.com/lorien/user_agent) - this module is for generating random, valid web navigator's configs & User-Agent HTTP headers.
 
 ## Other python lists
 
