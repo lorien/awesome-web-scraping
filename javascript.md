@@ -69,8 +69,6 @@ This list contains JavaScript libraries related to web scraping and data process
   * [UAParser.js](https://github.com/faisalman/ua-parser-js) - Lightweight JavaScript-based User-Agent string parser. Supports browser & node.js environment. 
 * Semantic Version
   * [node-semver](https://github.com/npm/node-semver) - The semver parser for node
-* Images
-  * [ImageResolver](https://github.com/mauricesvay/ImageResolver) - Does its best to determine the main image on a URL without loading all images.
 
 ## Specific Formats Processing
 
@@ -169,6 +167,7 @@ This list contains JavaScript libraries related to web scraping and data process
 
 * [node-read](https://github.com/bndr/node-read) - Get Readable Content from any page. Based on Arc90's readability project using cheerio engine.
 * [node-ytdl-core](https://github.com/fent/node-ytdl-core) - Youtube video downloader in javascript
+* [ImageResolver](https://github.com/mauricesvay/ImageResolver) - Does its best to determine the main image on a URL without loading all images.
 
 ## WebSocket
 
