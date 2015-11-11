@@ -253,6 +253,7 @@ This list contains python libraries related to web scraping and data processing
   * [Haul](https://github.com/vinta/Haul) - An Extensible Image Crawler.
   * [python-readability](https://github.com/buriy/python-readability) - Fast Python port of arc90's readability tool.
   * [scrapely](https://github.com/scrapy/scrapely) - Library for extracting structured data from HTML pages. Given some example web pages and the data to be extracted, scrapely constructs a parser for all similar pages.
+  * [libextract](https://github.com/datalib/libextract) - Extract data from websites.
 * Video
   * [youtube-dl](http://rg3.github.io/youtube-dl/) - A small command-line program to download videos from YouTube.
   * [you-get](http://www.soimort.org/you-get/) - A YouTube/Youku/Niconico video downloader written in Python 3.
