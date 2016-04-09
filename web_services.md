@@ -9,3 +9,6 @@
   * [PhantomJs.Cloud](https://phantomjscloud.com/)
   * [CloudScrape](http://cloudscrape.com/)
   * [DiffBot](http://www.diffbot.com/)
+  * [Apifier](https://www.apifier.com/)
+  * [Portia](http://scrapinghub.com/portia/); also on GitHub: [scrapinghub/portia](https://github.com/scrapinghub/portia)
+  * [Dexi](https://dexi.io)
