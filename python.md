@@ -179,6 +179,7 @@ This list contains python libraries related to web scraping and data processing
 * [Korean](https://korean.readthedocs.org/) - A library for [Korean](http://en.wikipedia.org/wiki/Korean_language) morphology.
 * [pymorphy2](https://github.com/kmike/pymorphy2) - Morphological analyzer (POS tagger + inflection engine) for Russian language.
 * [PyPLN](https://github.com/NAMD/pypln.backend) - A distributed pipeline for natural language processing, made in Python. he goal of the project is to create an easy way to use NLTK for processing big corpora, with a Web interface.
+* [langdetect](https://github.com/Mimino666/langdetect) - Port of Google's language-detection library to Python
 
 ## Browser automation and emulation
 * Browsers
