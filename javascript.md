@@ -158,7 +158,7 @@ This list contains JavaScript libraries related to web scraping and data process
   * [jsurl](https://github.com/Mikhus/jsurl) - Lightweight URL manipulation with JavaScript.
   * [arg.js](https://github.com/stretchr/arg.js) - Lightweight URL argument and parameter parser
 * Network Address
-  * [node-ip]](https://github.com/indutny/node-ip) - IP address tools for node.js
+  * [node-ip](https://github.com/indutny/node-ip) - IP address tools for node.js
   * [ip-address](https://github.com/beaugunderson/ip-address) - A library for parsing and manipulating IPv6 (and v4) addresses in JavaScript
 
 ## Web Content Extracting
