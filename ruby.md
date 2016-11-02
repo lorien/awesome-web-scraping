@@ -25,7 +25,6 @@ This list contains ruby libraries related to web scraping and data processing
 ## Network
 
 * [httparty](https://github.com/jnunemaker/httparty) Makes http fun again!
-* [faraday](https://github.com/lostisland/faraday) Simple, but flexible HTTP client library, with support for multiple backends.
 * [http](https://github.com/tarcieri/http) A simple Ruby DSL for making HTTP requests
 * [excon](https://github.com/excon/excon) Usable, fast, simple HTTP(S) 1.1 for Ruby
 * [nestful](https://github.com/maccman/nestful) Simple Ruby HTTP/REST client with a sane API
