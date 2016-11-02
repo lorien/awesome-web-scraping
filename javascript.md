@@ -88,8 +88,8 @@ This list contains JavaScript libraries related to web scraping and data process
 * CSS
   * [parse-css](https://github.com/tabatkins/parse-css) - Standards-based CSS Parser
 * Torrent
-  * [parser-lib CSS parser]9https://github.com/CSSLint/parser-lib) - The ParserLib CSS parser is a CSS3 SAX-inspired parser written in JavaScript. By default, the parser only deals with standard CSS syntax and doesn't do validation (checking of property names and values).
-  * [parse-torrent]9https://github.com/feross/parse-torrent) - Parse a torrent identifier (magnet uri, .torrent file, info hash)
+  * [parser-lib CSS parser](https://github.com/CSSLint/parser-lib) - The ParserLib CSS parser is a CSS3 SAX-inspired parser written in JavaScript. By default, the parser only deals with standard CSS syntax and doesn't do validation (checking of property names and values).
+  * [parse-torrent](https://github.com/feross/parse-torrent) - Parse a torrent identifier (magnet uri, .torrent file, info hash)
 * SQL
   * [SQL Parser](https://github.com/forward/sql-parser) - SQL Parser is a lexer, grammar and parser for SQL written in JS. Currently it is only capable of parsing fairly basic SELECT queries.
 * YAML
@@ -97,7 +97,7 @@ This list contains JavaScript libraries related to web scraping and data process
 * Markdown
   * [markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
 * Atom/RSS
-  * [node-feedparser]9https://github.com/danmactough/node-feedparser) - Robust RSS, Atom, and RDF feed parsing in Node.js
+  * [node-feedparser](https://github.com/danmactough/node-feedparser) - Robust RSS, Atom, and RDF feed parsing in Node.js
 
 ## Natural Language Processing
 
@@ -158,7 +158,7 @@ This list contains JavaScript libraries related to web scraping and data process
   * [jsurl](https://github.com/Mikhus/jsurl) - Lightweight URL manipulation with JavaScript.
   * [arg.js](https://github.com/stretchr/arg.js) - Lightweight URL argument and parameter parser
 * Network Address
-  * [node-ip]](https://github.com/indutny/node-ip) - IP address tools for node.js
+  * [node-ip](https://github.com/indutny/node-ip) - IP address tools for node.js
   * [ip-address](https://github.com/beaugunderson/ip-address) - A library for parsing and manipulating IPv6 (and v4) addresses in JavaScript
 
 ## Web Content Extracting
