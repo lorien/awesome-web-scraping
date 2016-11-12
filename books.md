@@ -14,3 +14,9 @@ Books about web scraping and data processing
 ![Mining the Social Web](http://ecx.images-amazon.com/images/I/51VIN54vc5L._AA160_.jpg)
 
 ["Mining the Social Web"](http://www.amazon.com/Mining-Social-Web-Facebook-LinkedIn/dp/1449367615) *by Matthew A. Russell*
+
+---
+
+![Web Crawling and Data Mining with Apache Nutch](https://images-na.ssl-images-amazon.com/images/I/51ZO73w3VEL._AC_US160_.jpg)
+
+["Web Crawling and Data Mining with Apache Nutch"](https://www.amazon.com/Crawling-Data-Mining-Apache-Nutch/dp/1783286857/) *by Abdulbasit Fazalmehmod Shaikh,Zakir Laliwala Dr Zakir Laliwala*
