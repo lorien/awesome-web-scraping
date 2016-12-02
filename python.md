@@ -110,6 +110,7 @@ This list contains python libraries related to web scraping and data processing
 * User-agent string
     * [python-user-agents](https://github.com/selwin/python-user-agents) - Browser user agent parser.
     * [HTTP Agent Parser](https://github.com/shon/httpagentparser) - Python HTTP Agent Parser
+    * [fake-useragent](https://github.com/hellysmile/fake-useragent) - Python user agent string faker, based on world statistic of browsers
 
 ## Specific Formats Processing
 
