@@ -67,6 +67,7 @@ This list contains python libraries related to web scraping and data processing
   * [xmltodict](https://github.com/martinblech/xmltodict) - Working with XML feel like you are working with JSON.
   * [xhtml2pdf](https://github.com/chrisglass/xhtml2pdf) - HTML/CSS to PDF converter.
   * [untangle](https://github.com/stchris/untangle) - Converts XML documents to Python objects for easy access.
+  * [hodor](https://github.com/CompileInc/hodor) - Configuration driven wrapper around lxml and cssselect.
 * Sanitizing
   * [Bleach](http://bleach.readthedocs.org/en/latest/) - cleaning of HTML (requires html5lib)
   * [sanitize](https://github.com/Alir3z4/sanitize) - Bringing sanity to world of messed-up data.
