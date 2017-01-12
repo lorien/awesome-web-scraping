@@ -70,6 +70,7 @@ This list contains python libraries related to web scraping and data processing
 * Sanitizing
   * [Bleach](http://bleach.readthedocs.org/en/latest/) - cleaning of HTML (requires html5lib)
   * [sanitize](https://github.com/Alir3z4/sanitize) - Bringing sanity to world of messed-up data.
+  * [hodor](https://github.com/CompileInc/hodor) - Configuration driven wrapper around lxml and cssselect.
 
 ## Text Processing
 
