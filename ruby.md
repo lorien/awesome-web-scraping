@@ -120,7 +120,7 @@ This list contains ruby libraries related to web scraping and data processing
   * [oxcelix](https://github.com/gbiczo/oxcelix) - A fast Excel 2007/2010 (.xlsx) file parser that returns a collection of Matrix objects
   * [wrap_excel](https://github.com/tomiacannondale/wrap_excel) - WrapExcel is to wrap the win32ole, and easy to use Excel operations with ruby. Detailed description please see the README.
 * libpcap
-  [PacketFul](https://github.com/packetfu/packetfu) - A library for reading and writing packets to an interface or to a libpcap-formatted file.
+  * [PacketFul](https://github.com/packetfu/packetfu) - A library for reading and writing packets to an interface or to a libpcap-formatted file.
 * JSON
   * [JsonCompare](https://github.com/a2design-company/json-compare) - Returns the difference between two JSON files
   * [JSON](https://github.com/flori/json) — includes pure Ruby and C implementation for JSON.
@@ -136,14 +136,14 @@ This list contains ruby libraries related to web scraping and data processing
   * [Feedjira](https://github.com/feedjira/feedjira) - A feed fetching and parsing library.
   * [Ratom](https://github.com/seangeo/ratom) - A fast, libxml based, Ruby Atom library.
   * [Simple rss](https://github.com/cardmagic/simple-rss) - A simple, flexible, extensible, and liberal RSS and Atom reader.
-  * BSON
-    * [BSON](https://github.com/mongodb/bson-ruby) — Ruby implementation of the BSON Specification (2.0.0+), http://bsonspec.org
-  * MessagePack
-    * [MessagePack](https://github.com/msgpack/msgpack-ruby) — an efficient binary serialization format. It lets you exchange data among multiple languages like JSON but it's faster and smaller. For example, small integers (like flags or error code) are encoded into a single byte, and typical short strings only require an extra byte in addition to the strings themselves. See http://msgpack.org
-  * Protobuf
-    * [Protobuf](https://github.com/localshred/protobuf) — Ruby implementation for Protocol Buffers.
-  * RDF
-    * [rdf](https://github.com/ruby-rdf/rdf) - pure-Ruby library for working with Resource Description Framework (RDF) data
+* BSON
+  * [BSON](https://github.com/mongodb/bson-ruby) — Ruby implementation of the BSON Specification (2.0.0+), http://bsonspec.org
+* MessagePack
+  * [MessagePack](https://github.com/msgpack/msgpack-ruby) — an efficient binary serialization format. It lets you exchange data among multiple languages like JSON but it's faster and smaller. For example, small integers (like flags or error code) are encoded into a single byte, and typical short strings only require an extra byte in addition to the strings themselves. See http://msgpack.org
+* Protobuf
+  * [Protobuf](https://github.com/localshred/protobuf) — Ruby implementation for Protocol Buffers.
+* RDF
+  * [rdf](https://github.com/ruby-rdf/rdf) - pure-Ruby library for working with Resource Description Framework (RDF) data
 
 ## Natural Language Processing
 
