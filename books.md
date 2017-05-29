@@ -20,3 +20,9 @@ Books about web scraping and data processing
 ![Web Crawling and Data Mining with Apache Nutch](https://images-na.ssl-images-amazon.com/images/I/51ZO73w3VEL._AC_US160_.jpg)
 
 ["Web Crawling and Data Mining with Apache Nutch"](https://www.amazon.com/Crawling-Data-Mining-Apache-Nutch/dp/1783286857/) *by Abdulbasit Fazalmehmod Shaikh,Zakir Laliwala Dr Zakir Laliwala*
+
+---
+
+!["Learning Scrapy"](https://images-na.ssl-images-amazon.com/images/I/51Bn3804gKL._AC_UL115_.jpg)
+
+["Learning Scrapy"](https://www.amazon.com/Learning-Scrapy-Dimitrios-Kouzis-Loukas/dp/1784399787) *by Dimitrios Kouzis-Loukas*
