@@ -87,8 +87,8 @@ This list contains JavaScript libraries related to web scraping and data process
   * [exif-js](https://github.com/exif-js/exif-js) - JavaScript library for reading EXIF image metadata
 * CSS
   * [parse-css](https://github.com/tabatkins/parse-css) - Standards-based CSS Parser
-* Torrent
   * [parser-lib CSS parser](https://github.com/CSSLint/parser-lib) - The ParserLib CSS parser is a CSS3 SAX-inspired parser written in JavaScript. By default, the parser only deals with standard CSS syntax and doesn't do validation (checking of property names and values).
+* Torrent
   * [parse-torrent](https://github.com/feross/parse-torrent) - Parse a torrent identifier (magnet uri, .torrent file, info hash)
 * SQL
   * [SQL Parser](https://github.com/forward/sql-parser) - SQL Parser is a lexer, grammar and parser for SQL written in JS. Currently it is only capable of parsing fairly basic SELECT queries.
