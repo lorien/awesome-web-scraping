@@ -212,6 +212,7 @@ statistic of browsers
 * [gevent](http://www.gevent.org/) - A coroutine-based Python networking library that uses [greenlet](https://github.com/python-greenlet/greenlet).
 * [eventlet](http://eventlet.net/) - Asynchronous framework with WSGI support.
 * [Tomorrow](https://github.com/madisonmay/Tomorrow) - Magic decorator syntax for asynchronous code.
+* [grequests](https://github.com/kennethreitz/grequests) - Make asynchronous HTTP Requests easily.
 
 ## Queue
 * [celery](http://www.celeryproject.org/) - An asynchronous task queue/job queue based on distributed message passing.
