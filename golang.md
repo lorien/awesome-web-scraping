@@ -34,6 +34,8 @@ This list contains Golang libraries related to web scraping and data processing
   * [Pholcus](https://github.com/henrylee2cn/pholcus) - Pholcus is a distributed, high concurrency and powerful web crawler software.
   * [go_spider](https://github.com/hu17889/go_spider) - An flexible, modular and expansible Go concurrent Crawler(spider) framework.
   * [ants-go](https://github.com/wcong/ants-go) - A distributed, restful crawler engine in golang.
+* Full Featured Scrapers
+  * [colly](https://github.com/gocolly/colly) - Fast and elegant scraping framework
 * Other
   * TODO
 
