@@ -188,7 +188,7 @@ statistic of browsers
 
 ## Browser automation and emulation
 * Browsers
-  * [selenium](http://selenium.googlecode.com/git/docs/api/py/api.html) - automating real browsers (Chrome, Firefox, Opera, IE)
+  * [selenium](http://selenium-python.readthedocs.io/) - automating real browsers (Chrome, Firefox, Opera, IE)
   * [Ghost.py](http://carrerasrodrigo.github.io/Ghost.py/) - wrapper of QtWebKit (requires PyQT)
   * [Spynner](https://github.com/makinacorpus/spynner) - wrapper of QtWebKit QtWebKit (requires PyQT)
   * [Splinter](https://github.com/cobrateam/splinter) - univeral API to browser emulators (selenium webdrivers, django client, zope)
