@@ -68,6 +68,7 @@ This list contains python libraries related to web scraping and data processing
   * [xhtml2pdf](https://github.com/chrisglass/xhtml2pdf) - HTML/CSS to PDF converter.
   * [untangle](https://github.com/stchris/untangle) - Converts XML documents to Python objects for easy access.
   * [hodor](https://github.com/CompileInc/hodor) - Configuration driven wrapper around lxml and cssselect.
+  * [chopper](https://github.com/jurismarches/chopper) - Tool to extract a part from HTML page with corresponding CSS rules and preserving correct HTML.
 * Sanitizing
   * [Bleach](http://bleach.readthedocs.org/en/latest/) - cleaning of HTML (requires html5lib)
   * [sanitize](https://github.com/Alir3z4/sanitize) - Bringing sanity to world of messed-up data.
@@ -264,8 +265,6 @@ statistic of browsers
   * [you-get](http://www.soimort.org/you-get/) - A YouTube/Youku/Niconico video downloader written in Python 3.
 * Wiki
   * [WikiTeam](https://github.com/WikiTeam/wikiteam) - Tools for downloading and preserving wikis.
-* HTML/CSS
-  * [chopper](https://github.com/jurismarches/chopper) - Tool to extract a part from HTML page with corresponding CSS rules and preserving correct HTML. 
 
 ## WebSocket
 
