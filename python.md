@@ -69,6 +69,7 @@ This list contains python libraries related to web scraping and data processing
   * [untangle](https://github.com/stchris/untangle) - Converts XML documents to Python objects for easy access.
   * [hodor](https://github.com/CompileInc/hodor) - Configuration driven wrapper around lxml and cssselect.
   * [chopper](https://github.com/jurismarches/chopper) - Tool to extract a part from HTML page with corresponding CSS rules and preserving correct HTML.
+  * [selectolax](https://github.com/rushter/selectolax) - Python bindings to Modest engine (fast HTML5 parser with CSS selectors).
 * Sanitizing
   * [Bleach](http://bleach.readthedocs.org/en/latest/) - cleaning of HTML (requires html5lib)
   * [sanitize](https://github.com/Alir3z4/sanitize) - Bringing sanity to world of messed-up data.
@@ -188,7 +189,7 @@ statistic of browsers
 
 ## Browser automation and emulation
 * Browsers
-  * [selenium](http://selenium.googlecode.com/git/docs/api/py/api.html) - automating real browsers (Chrome, Firefox, Opera, IE)
+  * [selenium](http://selenium-python.readthedocs.io/) - automating real browsers (Chrome, Firefox, Opera, IE)
   * [Ghost.py](http://carrerasrodrigo.github.io/Ghost.py/) - wrapper of QtWebKit (requires PyQT)
   * [Spynner](https://github.com/makinacorpus/spynner) - wrapper of QtWebKit QtWebKit (requires PyQT)
   * [Splinter](https://github.com/cobrateam/splinter) - univeral API to browser emulators (selenium webdrivers, django client, zope)
@@ -213,6 +214,7 @@ statistic of browsers
 * [gevent](http://www.gevent.org/) - A coroutine-based Python networking library that uses [greenlet](https://github.com/python-greenlet/greenlet).
 * [eventlet](http://eventlet.net/) - Asynchronous framework with WSGI support.
 * [Tomorrow](https://github.com/madisonmay/Tomorrow) - Magic decorator syntax for asynchronous code.
+* [grequests](https://github.com/kennethreitz/grequests) - Make asynchronous HTTP Requests easily.
 
 ## Queue
 * [celery](http://www.celeryproject.org/) - An asynchronous task queue/job queue based on distributed message passing.

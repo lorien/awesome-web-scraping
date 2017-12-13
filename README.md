@@ -1,9 +1,4 @@
-# Project status
-
-The project is moved to http://opendir.io Your help is welcome. Just sign in to opendir.io with github account and share cool github projects you know.
-
 # Web Scraping
-
 
 The list of tools, programming libraries and APIs used in web-scraping.
 
