@@ -68,6 +68,7 @@ This list contains python libraries related to web scraping and data processing
   * [xhtml2pdf](https://github.com/chrisglass/xhtml2pdf) - HTML/CSS to PDF converter.
   * [untangle](https://github.com/stchris/untangle) - Converts XML documents to Python objects for easy access.
   * [hodor](https://github.com/CompileInc/hodor) - Configuration driven wrapper around lxml and cssselect.
+  * [chopper](https://github.com/jurismarches/chopper) - Tool to extract a part from HTML page with corresponding CSS rules and preserving correct HTML.
   * [selectolax](https://github.com/rushter/selectolax) - Python bindings to Modest engine (fast HTML5 parser with CSS selectors).
 * Sanitizing
   * [Bleach](http://bleach.readthedocs.org/en/latest/) - cleaning of HTML (requires html5lib)
