@@ -47,6 +47,7 @@ This list contains ruby libraries related to web scraping and data processing
   * [upton](https://github.com/propublica/upton) - A batteries-included framework for easy web-scraping
   * [Wombat](https://github.com/felipecsl/wombat) - Web scraper with an elegant DSL that parses structured data from web pages.
   * [Anemone](https://github.com/chriskite/anemone) - web spider framework that can spider a domain and collect useful information about the pages it visits
+  * [Spidr](https://github.com/postmodern/spidr) - versatile Ruby web spidering library that can spider a site, multiple domains, certain links or infinitely. Spidr is designed to be fast and easy to use.
 
 ## HTML/XML Parsing
 
