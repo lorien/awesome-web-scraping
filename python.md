@@ -246,25 +246,29 @@ statistic of browsers
   * [tldextract](https://github.com/john-kurkowski/tldextract) - Accurately separate the TLD from the registered domain and subdomains of a URL, using the Public Suffix List.
 * Network Address
   * [netaddr](https://github.com/drkjam/netaddr) - A Python library for representing and manipulating network addresses.
+  * [micawber](https://github.com/coleifer/micawber) - A small library for extracting rich content from URLs.
 
 ## Web Content Extracting
 
 *Libraries for extracting web contents.*
 
-* Text and Meta Data from HTML pages
+* Text and metadata from HTML pages
   * [newspaper](https://github.com/codelucas/newspaper) - News extraction, article extraction and content curation in Python.
-  * [html2text](https://github.com/Alir3z4/html2text) - Convert HTML to Markdown-formatted text.
   * [python-goose](https://github.com/grangier/python-goose) - HTML Content/Article Extractor.
-  * [lassie](https://github.com/michaelhelmick/lassie) - Web Content Retrieval for Humans.
-  * [micawber](https://github.com/coleifer/micawber) - A small library for extracting rich content from URLs.
-  * [sumy](https://github.com/miso-belica/sumy) - A module for automatic summarization of text documents and HTML pages.
-  * [Haul](https://github.com/vinta/Haul) - An Extensible Image Crawler.
-  * [python-readability](https://github.com/buriy/python-readability) - Fast Python port of arc90's readability tool.
   * [scrapely](https://github.com/scrapy/scrapely) - Library for extracting structured data from HTML pages. Given some example web pages and the data to be extracted, scrapely constructs a parser for all similar pages.
+* Metadata from HTML pages
+  * [htmldate](https://github.com/adbar/htmldate) - Find creation date using common structural patterns or text-based heuristics.
+  * [lassie](https://github.com/michaelhelmick/lassie) - Web Content Retrieval for Humans.
+* Text/Data from HTML pages
+  * [html2text](https://github.com/Alir3z4/html2text) - Convert HTML to Markdown-formatted text.
   * [libextract](https://github.com/datalib/libextract) - Extract data from websites.
+  * [python-readability](https://github.com/buriy/python-readability) - Fast Python port of arc90's readability tool.
+  * [sumy](https://github.com/miso-belica/sumy) - A module for automatic summarization of text documents and HTML pages.
+* Images
+  * [Haul](https://github.com/vinta/Haul) - An Extensible Image Crawler.
 * Video
-  * [youtube-dl](http://rg3.github.io/youtube-dl/) - A small command-line program to download videos from YouTube.
   * [you-get](http://www.soimort.org/you-get/) - A YouTube/Youku/Niconico video downloader written in Python 3.
+  * [youtube-dl](http://rg3.github.io/youtube-dl/) - A small command-line program to download videos from YouTube.
 * Wiki
   * [WikiTeam](https://github.com/WikiTeam/wikiteam) - Tools for downloading and preserving wikis.
 
