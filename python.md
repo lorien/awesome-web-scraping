@@ -79,7 +79,7 @@ This list contains python libraries related to web scraping and data processing
 *Libraries for parsing and manipulating plain texts.*
 
 * General
-    * [difflib](https://docs.python.org/2/library/difflib.html) - (Python standard library) Helpers for computing deltas.
+    * [difflib](https://docs.python.org/3/library/difflib.html) - (Python standard library) Helpers for computing deltas.
     * [Levenshtein](https://github.com/ztane/python-Levenshtein/) - Fast computation of Levenshtein distance and string similarity.
     * [fuzzywuzzy](https://github.com/seatgeek/fuzzywuzzy) - Fuzzy String Matching.
     * [esmre](https://code.google.com/p/esmre/) - Regular expression accelerator.
@@ -197,8 +197,8 @@ statistic of browsers
   * [xvfbwrapper](https://github.com/cgoldberg/xvfbwrapper) - Python wrapper for running a display inside X virtual framebuffer (Xvfb)
 
 ## Multiprocessing
-* [threading](http://docs.python.org/2.7/library/threading.html) - standard python library to run threads. Effective for I/O-bound tasks. Useless for CPU-bound tasks because of python GIL.
-* [multiprocessing](http://docs.python.org/2.7/library/multiprocessing.html) - standard python library to run processes.
+* [threading](http://docs.python.org/3/library/threading.html) - standard python library to run threads. Effective for I/O-bound tasks. Useless for CPU-bound tasks because of python GIL.
+* [multiprocessing](http://docs.python.org/3/library/multiprocessing.html) - standard python library to run processes.
 * [celery](http://www.celeryproject.org/) - An asynchronous task queue/job queue based on distributed message passing.
 * [concurrent-futures](https://docs.python.org/3/library/concurrent.futures.html) - The concurrent.futures module provides a high-level interface for asynchronously executing callables.
 
