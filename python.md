@@ -34,7 +34,7 @@ This list contains python libraries related to web scraping and data processing
   * [httplib2](https://github.com/jcgregorio/httplib2) - network library
   * [RoboBrowser](https://github.com/jmcarp/robobrowser) - A simple, Pythonic library for browsing the web without a standalone web browser.
   * [MechanicalSoup](https://github.com/hickford/MechanicalSoup) - A Python library for automating interaction with websites.
-  * [mechanize](https://github.com/jjlee/mechanize) - Stateful programmatic web browsing.
+  * [mechanize](https://github.com/python-mechanize/mechanize) - Stateful programmatic web browsing.
   * [socket](https://docs.python.org/3/library/socket.html) low-level networking interface (stdlib)
   * [Unirest for Python](https://github.com/Mashape/unirest-python) - Unirest is a set of lightweight HTTP libraries available in multiple languages
   * [hyper](https://github.com/Lukasa/hyper) - HTTP/2 Client for Python
@@ -52,6 +52,7 @@ This list contains python libraries related to web scraping and data processing
 * Other
   * [portia](https://github.com/scrapinghub/portia) - Visual scraping for Scrapy.
   * [restkit](https://github.com/benoitc/restkit) - HTTP resource kit for Python. It allows you to easily access to HTTP resource and build objects around it.
+  * [requests-html](https://github.com/kennethreitz/requests-html) - Pythonic HTML Parsing for Humans.
   * [demiurge](https://github.com/matiasb/demiurge) - PyQuery-based scraping micro-framework.
 
 ## HTML/XML Parsing
@@ -79,7 +80,7 @@ This list contains python libraries related to web scraping and data processing
 *Libraries for parsing and manipulating plain texts.*
 
 * General
-    * [difflib](https://docs.python.org/2/library/difflib.html) - (Python standard library) Helpers for computing deltas.
+    * [difflib](https://docs.python.org/3/library/difflib.html) - (Python standard library) Helpers for computing deltas.
     * [Levenshtein](https://github.com/ztane/python-Levenshtein/) - Fast computation of Levenshtein distance and string similarity.
     * [fuzzywuzzy](https://github.com/seatgeek/fuzzywuzzy) - Fuzzy String Matching.
     * [esmre](https://code.google.com/p/esmre/) - Regular expression accelerator.
@@ -197,8 +198,8 @@ statistic of browsers
   * [xvfbwrapper](https://github.com/cgoldberg/xvfbwrapper) - Python wrapper for running a display inside X virtual framebuffer (Xvfb)
 
 ## Multiprocessing
-* [threading](http://docs.python.org/2.7/library/threading.html) - standard python library to run threads. Effective for I/O-bound tasks. Useless for CPU-bound tasks because of python GIL.
-* [multiprocessing](http://docs.python.org/2.7/library/multiprocessing.html) - standard python library to run processes.
+* [threading](http://docs.python.org/3/library/threading.html) - standard python library to run threads. Effective for I/O-bound tasks. Useless for CPU-bound tasks because of python GIL.
+* [multiprocessing](http://docs.python.org/3/library/multiprocessing.html) - standard python library to run processes.
 * [celery](http://www.celeryproject.org/) - An asynchronous task queue/job queue based on distributed message passing.
 * [concurrent-futures](https://docs.python.org/3/library/concurrent.futures.html) - The concurrent.futures module provides a high-level interface for asynchronously executing callables.
 
