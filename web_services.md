@@ -2,6 +2,8 @@
 
 ## Web-data Extracting Services
 
+  * [ScraperAPI](https://www.scraperapi.com) - A service that manages proxies
+    and headless browsers, exposing a single API endpoint to scrape any url.
   * [import.io](https://import.io/)
   * [ScraperWiki](https://scraperwiki.com/about)
   * [Mozenda](https://www.mozenda.com/)
