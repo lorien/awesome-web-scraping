@@ -94,6 +94,7 @@ This list contains python libraries related to web scraping and data processing
   * [chardet](https://github.com/chardet/chardet) - Python 2/3 compatible character encoding detector.
   * [xpinyin](https://github.com/lxneng/xpinyin) - A library to translate Chinese hanzi (漢字) to pinyin (拼音).
   * [pangu.py](https://github.com/vinta/pangu.py) - Spacing texts for CJK and alphanumerics.
+  * [cchardet](https://github.com/PyYoshi/cChardet) - cChardet is high speed universal character encoding detector. - binding to uchardet.
 
 * Slugify
     * [awesome-slugify](https://github.com/dimka665/awesome-slugify) - A Python slugify library that can preserve unicode.
