@@ -2,6 +2,7 @@
 
 ## Web-data Extracting Services
 
+  * [ProxyCrawl](https://proxycrawl.com) - Crawl and scrape any website without blocks, captchas or proxies
   * [ScraperAPI](https://www.scraperapi.com) - A service that manages proxies
     and headless browsers, exposing a single API endpoint to scrape any url.
   * [import.io](https://import.io/)
