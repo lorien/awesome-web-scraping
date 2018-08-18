@@ -4,6 +4,11 @@ Books about web scraping and data processing
 
 ## Books
 
+![Java Web Scraping Handbook](https://s3.amazonaws.com/webscrapinghandbook-stuff/cover-small.png)
+
+["Java Web Scraping Handbook"](https://www.javawebscrapinghandbook.com) *by Kevin Sahin, August 2018* 
+
+---
 
 ![Web Scraping with Python](http://ecx.images-amazon.com/images/I/51Y8X5c17qL._AA160_.jpg)
 
