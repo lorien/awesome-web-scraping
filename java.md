@@ -41,7 +41,7 @@ This list contains Java libraries related to web scraping and data processing
 
 ## HTML/XML Parsing
 
-  * [Apache Tika](https://tika.apache.org/)
+* [Apache Tika](https://tika.apache.org/)
 
 ## Text Processing
 
@@ -64,30 +64,33 @@ This list contains Java libraries related to web scraping and data processing
 
 *Libraries for working with human languages.*
 
-  * [Apache OpenNLP](https://opennlp.apache.org/)
-  * [Stanford CoreNLP](https://stanfordnlp.github.io/CoreNLP/)
-  * [Apache Tika](https://tika.apache.org/)
+* [Apache OpenNLP](https://opennlp.apache.org/)
+* [Stanford CoreNLP](https://stanfordnlp.github.io/CoreNLP/)
+* [Apache Tika](https://tika.apache.org/)
 
 ## Browser automation and emulation
-  * [htmlunit](http://htmlunit.sourceforge.net/)
+
+* [htmlunit](http://htmlunit.sourceforge.net/)
 
 ## Multiprocessing
-  * TODO
+
+* TODO
 
 ## Asynchronous
 
 *Libraries for asynchronous networking programming.*
 
-  * TODO
+* TODO
 
 ## Queue
-  * TODO
+
+* TODO
 
 ## Email
 
 *Libraries for parsing email.*
 
-  * TODO
+* TODO
 
 ## URL and Network Address Manipulation
 
@@ -111,18 +114,21 @@ This list contains Java libraries related to web scraping and data processing
 
 *Libraries for working with WebSocket.*
 
-  * TODO
+* TODO
 
 ## DNS Resolving
-  * [dnsjava](http://www.dnsjava.org/)
-  * [spotify-dns-java](https://github.com/spotify/dns-java)
+
+* [dnsjava](http://www.dnsjava.org/)
+* [spotify-dns-java](https://github.com/spotify/dns-java)
 
 ## Computer Vision
-  * TODO
+
+* TODO
 
 ## Proxy Server
+
   * TODO
 
 ## Other FooLanguage lists
 
- * TODO
+* TODO
