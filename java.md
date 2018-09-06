@@ -127,7 +127,7 @@ This list contains Java libraries related to web scraping and data processing
 
 ## Proxy Server
 
-  * TODO
+* TODO
 
 ## Other FooLanguage lists
 
