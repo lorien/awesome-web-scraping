@@ -36,13 +36,13 @@ This list contains JavaScript libraries related to web scraping and data process
 * [node-simplecrawler](https://github.com/cgiffard/node-simplecrawler) - Flexible event driven crawler for node
 
 ## HTML/XML Parsing
-  * General
-    * [parse5](https://github.com/inikulin/parse5) - WHATWG HTML5 specification-compliant, fast and ready for production HTML parsing/serialization toolset for Node and io.js
-    * [htmlparser2](https://github.com/fb55/htmlparser2) - forgiving html and xml parser
-    * [sax-js](https://github.com/isaacs/sax-js) - A sax style parser for JS
-    * [cheerio](https://github.com/cheeriojs/cheerio) - Fast, flexible, and lean implementation of core jQuery designed specifically for the server
-  * Sanitizing
-    * [js-xss](https://github.com/leizongmin/js-xss) - Sanitize untrusted HTML (to prevent XSS) with a configuration specified by a Whitelist.
+* General
+  * [parse5](https://github.com/inikulin/parse5) - WHATWG HTML5 specification-compliant, fast and ready for production HTML parsing/serialization toolset for Node and io.js
+  * [htmlparser2](https://github.com/fb55/htmlparser2) - forgiving html and xml parser
+  * [sax-js](https://github.com/isaacs/sax-js) - A sax style parser for JS
+  * [cheerio](https://github.com/cheeriojs/cheerio) - Fast, flexible, and lean implementation of core jQuery designed specifically for the server
+* Sanitizing
+  * [js-xss](https://github.com/leizongmin/js-xss) - Sanitize untrusted HTML (to prevent XSS) with a configuration specified by a Whitelist.
 
 ## Text Processing
 
@@ -93,7 +93,7 @@ This list contains JavaScript libraries related to web scraping and data process
 * SQL
   * [SQL Parser](https://github.com/forward/sql-parser) - SQL Parser is a lexer, grammar and parser for SQL written in JS. Currently it is only capable of parsing fairly basic SELECT queries.
 * YAML
-  [JS-YAML](https://github.com/nodeca/js-yaml) - JavaScript YAML parser and dumper. Very fast.
+  * [JS-YAML](https://github.com/nodeca/js-yaml) - JavaScript YAML parser and dumper. Very fast.
 * Markdown
   * [markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
 * Atom/RSS
