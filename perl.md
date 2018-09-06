@@ -36,7 +36,7 @@ This list contains Perl libraries related to web scraping and data processing
 
 ## HTML/XML Parsing
 
-  * TODO
+* TODO
 
 ## Text Processing
 
@@ -58,28 +58,31 @@ This list contains Perl libraries related to web scraping and data processing
 
 *Libraries for working with human languages.*
 
-  * TODO
+* TODO
 
 ## Browser automation and emulation
-  * TODO
+
+* TODO
 
 ## Multiprocessing
-  * TODO
+
+* TODO
 
 ## Asynchronous
 
 *Libraries for asynchronous networking programming.*
 
-  * TODO
+* TODO
 
 ## Queue
-  * TODO
+
+* TODO
 
 ## Email
 
 *Libraries for parsing email.*
 
-  * TODO
+* TODO
 
 ## URL and Network Address Manipulation
 
@@ -101,17 +104,20 @@ This list contains Perl libraries related to web scraping and data processing
 
 *Libraries for working with WebSocket.*
 
-  * TODO
+* TODO
 
 ## DNS Resolving
-  * TODO
+
+* TODO
 
 ## Computer Vision
-  * TODO
+
+* TODO
 
 ## Proxy Server
-  * TODO
+
+* TODO
 
 ## Other Perl lists
 
- * TODO
+* TODO
