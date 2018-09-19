@@ -199,7 +199,7 @@ This list contains ruby libraries related to web scraping and data processing
 
 ## Browser automation and emulation
 * [selenium](https://github.com/seleniumhq/selenium) - A browser automation framework and ecosystem
-* [watir-webdriver](https://github.com/watir/watir-webdriver) - Watir implementation built on WebDriver's Ruby bindings
+* [Watir](https://github.com/watir/watir) - Watir implementation built on WebDriver's Ruby bindings
 * [capybara-webkit](https://github.com/thoughtbot/capybara-webkit) - A Capybara driver for headless WebKit to test JavaScript web apps
 * [poltergeist](https://github.com/teampoltergeist/poltergeist) - A PhantomJS driver for Capybara
 
