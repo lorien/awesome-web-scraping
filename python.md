@@ -196,6 +196,7 @@ statistic of browsers
   * [Spynner](https://github.com/makinacorpus/spynner) - wrapper of QtWebKit QtWebKit (requires PyQT)
   * [Splinter](https://github.com/cobrateam/splinter) - univeral API to browser emulators (selenium webdrivers, django client, zope)
 * Headless tools
+  * [pyppeteer](https://github.com/miyakogi/pyppeteer) - Headless chrome/chromium automation library (unofficial port of puppeteer)
   * [xvfbwrapper](https://github.com/cgoldberg/xvfbwrapper) - Python wrapper for running a display inside X virtual framebuffer (Xvfb)
 
 ## Multiprocessing
