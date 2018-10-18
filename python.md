@@ -118,6 +118,9 @@ This list contains python libraries related to web scraping and data processing
     * [fake-useragent](https://github.com/hellysmile/fake-useragent) - Python user agent string faker, based on world statistic of browsers
     * [user_agent](https://github.com/lorien/user_agent) - Generator of User-Agent data
 
+* robots.txt
+    * [reppy](https://github.com/seomoz/reppy) - Modern robots.txt Parser for Python
+
 ## Specific Formats Processing
 
 *Libraries for parsing and manipulating specific text formats.*
