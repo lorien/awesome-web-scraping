@@ -206,6 +206,7 @@ This list contains python libraries related to web scraping and data processing
 * [threading](http://docs.python.org/3/library/threading.html) - standard python library to run threads. Effective for I/O-bound tasks. Useless for CPU-bound tasks because of python GIL.
 * [multiprocessing](http://docs.python.org/3/library/multiprocessing.html) - standard python library to run processes.
 * [celery](http://www.celeryproject.org/) - An asynchronous task queue/job queue based on distributed message passing.
+* [rq](https://python-rq.org/) - Simple job queues for Python
 * [concurrent-futures](https://docs.python.org/3/library/concurrent.futures.html) - The concurrent.futures module provides a high-level interface for asynchronously executing callables.
 
 ## Asynchronous
@@ -226,7 +227,7 @@ This list contains python libraries related to web scraping and data processing
 * [celery](http://www.celeryproject.org/) - An asynchronous task queue/job queue based on distributed message passing.
 * [huey](https://github.com/coleifer/huey) - Little multi-threaded task queue.
 * [mrq](https://github.com/pricingassistant/mrq) - Mr. Queue - A distributed worker task queue in Python using Redis & gevent.
-* [RQ](http://python-rq.org/docs/) - lightweight task queue manager based on redis
+* [RQ](https://github.com/rq/rq) - lightweight task queue manager based on redis
 * [simpleq](https://github.com/rdegges/simpleq) - A simple, infinitely scalable, Amazon SQS based queue.
 * [python-gearman](https://github.com/Yelp/python-gearman) - python API for Gearman
 
