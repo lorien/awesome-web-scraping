@@ -36,6 +36,7 @@ This list contains Golang libraries related to web scraping and data processing
   * [ants-go](https://github.com/wcong/ants-go) - A distributed, restful crawler engine in golang.
 * Full Featured Scrapers
   * [colly](https://github.com/gocolly/colly) - Fast and elegant scraping framework
+  * [dataflow kit](https://github.com/slotix/dataflowkit) - Dataflow Kit - extract structured data from web sites.
 * Other
   * TODO
 
