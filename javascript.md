@@ -43,6 +43,7 @@ This list contains JavaScript libraries related to web scraping and data process
   * [cheerio](https://github.com/cheeriojs/cheerio) - Fast, flexible, and lean implementation of core jQuery designed specifically for the server
 * Sanitizing
   * [js-xss](https://github.com/leizongmin/js-xss) - Sanitize untrusted HTML (to prevent XSS) with a configuration specified by a Whitelist.
+  * [surgeon](https://github.com/gajus/surgeon) - Declarative DOM extraction expression evaluator
 
 ## Text Processing
 
