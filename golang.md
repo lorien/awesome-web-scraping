@@ -122,7 +122,7 @@ This list contains Golang libraries related to web scraping and data processing
 
 ## Browser automation and emulation
 
-* TODO
+* [chromedp](https://github.com/chromedp/chromedp) - A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol
 
 ## Multiprocessing
 
