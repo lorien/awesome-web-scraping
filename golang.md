@@ -38,7 +38,7 @@ This list contains Golang libraries related to web scraping and data processing
   * [colly](https://github.com/gocolly/colly) - Fast and elegant scraping framework
   * [dataflow kit](https://github.com/slotix/dataflowkit) - Dataflow Kit - extract structured data from web sites.
 * Other
-  * TODO
+  * [ferret](https://github.com/MontFerret/ferret) - A web scraping tool with a declarative query language.
 
 ## HTML/XML Parsing
 

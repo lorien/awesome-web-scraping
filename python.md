@@ -234,6 +234,7 @@ This list contains python libraries related to web scraping and data processing
 ## Cloud Computing
 * [picloud](http://docs.picloud.com/) - executing python-code in cloud
 * [dominoup.com](http://www.dominoup.com/) - executing R, Python и matlab code in cloud
+* [minigun-requests](https://github.com/umihico/minigun-requests) - Web scraping API to outsource tons of GET & xpath to cloud computing
 
 ## Email
 
@@ -279,6 +280,7 @@ This list contains python libraries related to web scraping and data processing
 * Wiki
   * [WikiTeam](https://github.com/WikiTeam/wikiteam) - Tools for downloading and preserving wikis.
 * Sitemap
+  * [linkchecker](https://github.com/wummel/linkchecker) - check links in web documents or full websites
   * [python-sitemap](https://github.com/c4software/python-sitemap) - Mini website crawler to make sitemap from a website.
 
 ## WebSocket
