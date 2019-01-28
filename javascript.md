@@ -43,6 +43,7 @@ This list contains JavaScript libraries related to web scraping and data process
   * [cheerio](https://github.com/cheeriojs/cheerio) - Fast, flexible, and lean implementation of core jQuery designed specifically for the server
 * Sanitizing
   * [js-xss](https://github.com/leizongmin/js-xss) - Sanitize untrusted HTML (to prevent XSS) with a configuration specified by a Whitelist.
+  * [surgeon](https://github.com/gajus/surgeon) - Declarative DOM extraction expression evaluator
 
 ## Text Processing
 
@@ -167,7 +168,6 @@ This list contains JavaScript libraries related to web scraping and data process
 *Libraries for extracting web contents.*
 
 * [node-read](https://github.com/bndr/node-read) - Get Readable Content from any page. Based on Arc90's readability project using cheerio engine.
-* [surgeon](https://github.com/gajus/surgeon) - Declarative DOM extraction expression evaluator
 * [node-ytdl-core](https://github.com/fent/node-ytdl-core) - Youtube video downloader in javascript
 * [ImageResolver](https://github.com/mauricesvay/ImageResolver) - Does its best to determine the main image on a URL without loading all images.
 
