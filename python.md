@@ -235,6 +235,7 @@ This list contains python libraries related to web scraping and data processing
 * [picloud](http://docs.picloud.com/) - executing python-code in cloud
 * [dominoup.com](http://www.dominoup.com/) - executing R, Python и matlab code in cloud
 * [minigun-requests](https://github.com/umihico/minigun-requests) - Web scraping API to outsource tons of GET & xpath to cloud computing
+* [pythonista-chromeless](https://github.com/umihico/pythonista-chromeless) - AWS lambda which execute given python code on selenium
 
 ## Email
 
