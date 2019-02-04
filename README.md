@@ -7,11 +7,15 @@ The list of tools, programming libraries and APIs used in web-scraping.
 * [Ruby](http://github.com/lorien/web-scraping/blob/master/ruby.md)
 * [JavaScript](http://github.com/lorien/web-scraping/blob/master/javascript.md)
 * [Golang](http://github.com/lorien/web-scraping/blob/master/golang.md)
-  * Feel free to add your favourite language. Use [new_language_template.md](http://github.com/lorien/web-scraping/blob/master/new_language_template.md) as start point.
+* Feel free to add your favourite language. Use [new_language_template.md](http://github.com/lorien/web-scraping/blob/master/new_language_template.md) as start point.
 * [Proxy Services](http://github.com/lorien/web-scraping/blob/master/proxy_services.md)
+* [Captcha Solving Services](https://github.com/lorien/awesome-web-scraping/blob/master/captcha_solving_services.md)
 * [Web Services](http://github.com/lorien/web-scraping/blob/master/web_services.md)
 * [Console tools](http://github.com/lorien/web-scraping/blob/master/console_tools.md)
+
+## Learn how to WebScrape
 * [Books](http://github.com/lorien/web-scraping/blob/master/books.md)
+* [Videos](http://github.com/lorien/web-scraping/blob/master/videos.md)
 
 ## Other Awesome List Projects
 * [lists](https://github.com/jnv/lists) - List of useful, silly and awesome lists curated on GitHub
