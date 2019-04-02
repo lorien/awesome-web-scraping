@@ -32,6 +32,7 @@ This list contains JavaScript libraries related to web scraping and data process
 * [wreck](https://github.com/hapijs/wreck) - HTTP Client Utilities
 
 ## Web-Scraping Frameworks
+* [webparsy](https://github.com/joseconstela/webparsy) - NodeJS lib and cli for scraping websites using Puppeteer and YAML
 * [node-crawler](https://github.com/sylvinus/node-crawler) - Web Crawler/Spider for NodeJS + server-side jQuery
 * [node-simplecrawler](https://github.com/cgiffard/node-simplecrawler) - Flexible event driven crawler for node
 * [Apify SDK](https://github.com/apifytech/apify-js) - The scalable web crawling and scraping library for JavaScript. Enables development of data extraction and web automation jobs (not only) with headless Chrome and Puppeteer.
