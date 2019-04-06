@@ -24,12 +24,17 @@ This list contains JavaScript libraries related to web scraping and data process
    * [Data Structure](#data-structure)
 
 ## Network
-* [node-http2](https://github.com/molnarg/node-http2) - An HTTP/2 client and server implementation for node.js
-* [httpinvoke](https://github.com/jakutis/httpinvoke) - A no-dependencies HTTP client library for browsers and Node.js with a promise-based or Node.js-style callback-based API to progress events, text and binary file upload and download, partial response body, request and response headers, status code. 
 * [request](https://github.com/request/request) - Simplified HTTP request client.
 * [socks5-http-client](https://github.com/mattcg/socks5-http-client) - SOCKS v5 HTTP client implementation in JavaScript for Node.js
 * [rest](https://github.com/cujojs/rest) - RESTful HTTP client for JavaScript
 * [wreck](https://github.com/hapijs/wreck) - HTTP Client Utilities
+* [got](https://github.com/sindresorhus/got) - Simplified HTTP requests
+* [node-fetch](https://github.com/bitinn/node-fetch) - A light-weight module that brings window.fetch to Node.js
+* [bent](https://github.com/mikeal/bent) - Functional HTTP client for Node.js w/ async/await
+* [xios)](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
+* [superagent](https://github.com/visionmedia/superagent) - Ajax for Node.js and browsers (JS HTTP client)
+* [urllib](https://github.com/node-modules/urllib) - Request HTTP(s) URLs in a complex world
+* [needle](https://github.com/tomas/needle) - Nimble, streamable HTTP client for Node.js. With proxy, iconv, cookie, deflate & multipart support
 
 ## Web-Scraping Frameworks
 * [node-crawler](https://github.com/sylvinus/node-crawler) - Web Crawler/Spider for NodeJS + server-side jQuery
