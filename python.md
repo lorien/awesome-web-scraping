@@ -54,6 +54,7 @@ This list contains python libraries related to web scraping and data processing
   * [restkit](https://github.com/benoitc/restkit) - HTTP resource kit for Python. It allows you to easily access to HTTP resource and build objects around it.
   * [requests-html](https://github.com/kennethreitz/requests-html) - Pythonic HTML Parsing for Humans.
   * [demiurge](https://github.com/matiasb/demiurge) - PyQuery-based scraping micro-framework.
+  * [ScrapydWeb](https://github.com/my8100/scrapydweb) - A full-featured web UI for Scrapyd cluster management, which supports Scrapy Log Analysis & Visualization, Auto Packaging, Timer Tasks, Email Notice and so on.
 
 ## HTML/XML Parsing
 
