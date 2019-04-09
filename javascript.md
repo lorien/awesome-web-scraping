@@ -31,7 +31,7 @@ This list contains JavaScript libraries related to web scraping and data process
 * [got](https://github.com/sindresorhus/got) - Simplified HTTP requests
 * [node-fetch](https://github.com/bitinn/node-fetch) - A light-weight module that brings window.fetch to Node.js
 * [bent](https://github.com/mikeal/bent) - Functional HTTP client for Node.js w/ async/await
-* [xios)](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
+* [axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 * [superagent](https://github.com/visionmedia/superagent) - Ajax for Node.js and browsers (JS HTTP client)
 * [urllib](https://github.com/node-modules/urllib) - Request HTTP(s) URLs in a complex world
 * [needle](https://github.com/tomas/needle) - Nimble, streamable HTTP client for Node.js. With proxy, iconv, cookie, deflate & multipart support
