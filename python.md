@@ -160,7 +160,7 @@ This list contains python libraries related to web scraping and data processing
     * [markdown2](https://pypi.python.org/pypi/markdown2) - A fast and complete Python implementation of Markdown
 
 * YAML
-    * [PyYAML](http://pyyaml.org/) - YAML implementations for Python.
+    * [PyYAML](https://github.com/yaml/pyyaml) - YAML implementations for Python.
 
 * CSS
     * [cssutils](https://pypi.python.org/pypi/cssutils/) - A CSS library for Python.
