@@ -43,6 +43,8 @@ This list contains python libraries related to web scraping and data processing
 * Asynchronous
   * [treq](https://github.com/dreid/treq) - requests like API (twisted based)
   * [aiohttp](https://github.com/KeepSafe/aiohttp) - http client/server for asyncio (PEP-3156)
+* Low Level
+  * [dpkt](https://github.com/kbandla/dpkt) - fast, simple packet creation / parsing, with definitions for the basic TCP/IP protocols
 
 ## Web-Scraping Frameworks
 * Full Featured Crawlers
