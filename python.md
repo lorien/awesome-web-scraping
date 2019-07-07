@@ -11,7 +11,8 @@ This list contains python libraries related to web scraping and data processing
    * [Natural Language Processing](#natural-language-processing)
    * [Browser automation and emulation](#browser-automation-and-emulation)
    * [Multiprocessing](#multiprocessing)
-   * [Queue](#queue)
+   * [Job Queue](#job-queue)
+   * [Message Queue](#message-queue)
    * [Cloud Computing](#cloud-computing)
    * [Email](#email)
    * [URL and Network Address Manipulation](#url-and-network-address-manipulation)
@@ -233,13 +234,16 @@ This list contains python libraries related to web scraping and data processing
 * [Tomorrow](https://github.com/madisonmay/Tomorrow) - Magic decorator syntax for asynchronous code.
 * [grequests](https://github.com/kennethreitz/grequests) - Make asynchronous HTTP Requests easily.
 
-## Queue
+## Job Queue
 * [celery](http://www.celeryproject.org/) - An asynchronous task queue/job queue based on distributed message passing.
 * [huey](https://github.com/coleifer/huey) - Little multi-threaded task queue.
 * [mrq](https://github.com/pricingassistant/mrq) - Mr. Queue - A distributed worker task queue in Python using Redis & gevent.
 * [RQ](https://github.com/rq/rq) - lightweight task queue manager based on redis
 * [simpleq](https://github.com/rdegges/simpleq) - A simple, infinitely scalable, Amazon SQS based queue.
 * [python-gearman](https://github.com/Yelp/python-gearman) - python API for Gearman
+
+## Message Queue
+* [kombu](https://github.com/celery/kombu) - Messaging library for Python
 
 ## Cloud Computing
 * [picloud](http://docs.picloud.com/) - executing python-code in cloud
