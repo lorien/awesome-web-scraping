@@ -47,6 +47,7 @@ This list contains python libraries related to web scraping and data processing
 * Low Level
   * [dpkt](https://github.com/kbandla/dpkt) - fast, simple packet creation / parsing, with definitions for the basic TCP/IP protocols
   * [pyOpenSSL](https://github.com/pyca/pyopenssl) - A Python wrapper around the OpenSSL library
+  * [tlslite-ng](https://github.com/tomato42/tlslite-ng) - TLS implementation in pure python
 
 ## Web-Scraping Frameworks
 * Full Featured Crawlers
