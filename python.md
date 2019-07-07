@@ -122,6 +122,9 @@ This list contains python libraries related to web scraping and data processing
 
 * robots.txt
     * [reppy](https://github.com/seomoz/reppy) - Modern robots.txt Parser for Python
+    
+* Date and Time
+    * [dateutil](https://github.com/dateutil/dateutil) - Useful extensions to the standard Python datetime features
 
 ## Specific Formats Processing
 
