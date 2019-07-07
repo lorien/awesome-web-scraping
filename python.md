@@ -23,6 +23,7 @@ This list contains python libraries related to web scraping and data processing
    * [Computer Vision](#computer-vision)
    * [Proxy Server](#proxy-server)
    * [Whois](#whois)
+   * [Serialization](#serialization)
    * [Misc](#misc)
    * [Other Python Lists](#other-python-lists)
 
@@ -324,6 +325,9 @@ This list contains python libraries related to web scraping and data processing
   
 ## Whois
   * [python-whois](https://github.com/joepie91/python-whois) - A python module for retrieving and parsing WHOIS data
+
+## Serialization
+  * [ujson](https://github.com/esnme/ultrajson) - Ultra fast JSON decoder and encoder written in C with Python bindings
 
 ## Other python lists
 
