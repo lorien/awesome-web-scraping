@@ -4,7 +4,7 @@ This list contains python libraries related to web scraping and data processing
 
 * [Python Web Scraping](#python-web-scraping)
    * [Network](#network)
-   * [Web Scraping Frameworks](#web-scraping-frameworks)
+   * [Web Scraping](#web-scraping)
    * [HTML/XML](#htmlxml)
    * [Text processing](#text-processing)
    * [Structured Formats](#structured-formats)
