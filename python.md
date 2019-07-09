@@ -55,21 +55,21 @@ This list contains python libraries related to web scraping and data processing
 * [pyOpenSSL](https://github.com/pyca/pyopenssl) - A Python wrapper around the OpenSSL library
 * [tlslite-ng](https://github.com/tomato42/tlslite-ng) - TLS implementation in pure python
 
-## Web Scraping Frameworks
+## Web Scraping
 
-### Web Scraping Frameworks : Full Featured Crawlers
+### Web Scraping : Frameworks
 
 * [grab](http://docs.grablib.org/en/latest/#grab-spider-user-manual) - web-scraping framework (pycurl/multicurl based)
 * [scrapy](http://scrapy.org/) - web-scraping framework (twisted based).
 * [pyspider](https://github.com/binux/pyspider) - A powerful spider system.
 * [cola](https://github.com/chineking/cola) - A distributed crawling framework.
+* [ruia](https://github.com/howie6879/ruia) - Async Python 3.6+ web scraping micro-framework based on asyncio
 
-### Web Scraping Frameworks : Other
+### Web Scraping : Tools
 
 * [portia](https://github.com/scrapinghub/portia) - Visual scraping for Scrapy.
 * [restkit](https://github.com/benoitc/restkit) - HTTP resource kit for Python. It allows you to easily access to HTTP resource and build objects around it.
 * [requests-html](https://github.com/kennethreitz/requests-html) - Pythonic HTML Parsing for Humans.
-* [demiurge](https://github.com/matiasb/demiurge) - PyQuery-based scraping micro-framework.
 * [ScrapydWeb](https://github.com/my8100/scrapydweb) - A full-featured web UI for Scrapyd cluster management, which supports Scrapy Log Analysis & Visualization, Auto Packaging, Timer Tasks, Email Notice and so on.
 
 ## HTML/XML
