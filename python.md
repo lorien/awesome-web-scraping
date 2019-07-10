@@ -186,6 +186,7 @@ Libraries for parsing and manipulating specific text formats.
 * [Python-Markdown](https://github.com/waylan/Python-Markdown) - A Python implementation of John Gruber’s Markdown.
 * [Mistune](https://github.com/lepture/mistune) - Fastest and full featured pure Python parsers of Markdown.
 * [markdown2](https://pypi.python.org/pypi/markdown2) - A fast and complete Python implementation of Markdown
+* [mistletoe](https://github.com/miyuchina/mistletoe) - A fast, extensible and spec-compliant Markdown parser in pure Python
 
 ### Structured Formats : YAML
 
