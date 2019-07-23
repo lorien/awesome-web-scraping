@@ -2,6 +2,7 @@
 
 ## Web-data Extracting Services
 
+  * [ScrapingNinja](https://www.scrapingninja.co/) — Handle JS rendering, Chrome Headless, Proxy rotation and CAPTCHAs solving all in one place. The first 1000 are free of charge, no credit card required.
   * [Dataflow kit](https://dataflowkit.com) - Turn websites data into structured data with a simple point-and-click toolkit
   * [ProxyCrawl](https://proxycrawl.com) - Crawl and scrape any website without blocks, captchas or proxies
   * [ScraperAPI](https://www.scraperapi.com) - A service that manages proxies
