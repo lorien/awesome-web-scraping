@@ -89,6 +89,7 @@ This list contains python libraries related to web scraping and data processing
 * [hodor](https://github.com/CompileInc/hodor) - Configuration driven wrapper around lxml and cssselect.
 * [chopper](https://github.com/jurismarches/chopper) - Tool to extract a part from HTML page with corresponding CSS rules and preserving correct HTML.
 * [selectolax](https://github.com/rushter/selectolax) - Python bindings to Modest engine (fast HTML5 parser with CSS selectors).
+* [parsel](https://github.com/scrapy/parsel) - Lets you extract data from XML/HTML documents using XPath or CSS selectors.
 
 ### HTML/XML : Sanitizing
 
@@ -154,6 +155,10 @@ Libraries for parsing and manipulating plain texts.
 
 * [dateutil](https://github.com/dateutil/dateutil) - Useful extensions to the standard Python datetime features
 
+### Text Processing :: Price and Currency
+
+* [price-parser](https://github.com/scrapinghub/price-parser) - a small library for extracting price and currency from raw text strings.
+
 ## Structured Formats
 
 Libraries for parsing and manipulating specific text formats.
@@ -211,6 +216,9 @@ Libraries for parsing and manipulating specific text formats.
 ### Structured Formats : Microformats
 
   * [opengraph](https://github.com/erikriver/opengraph) - A Python module to parse the Open Graph Protocol tags
+
+### Structured Formats : HTML Metadata
+  * [extruct](https://github.com/scrapinghub/extruct) - A library for extracting embedded metadata from HTML markup.
 
 ### Structured Formats :  Portable Executable
 
@@ -373,6 +381,7 @@ Libraries for working with WebSocket.
 ## Other python lists
 
 * [awesome-python](https://github.com/vinta/awesome-python)
+* [awesome-scrapy](https://github.com/croqaz/awesome-scrapy)
 * [pycrumbs](https://github.com/kirang89/pycrumbs/blob/master/pycrumbs.md)
 * [python-github-projects](https://github.com/checkcheckzz/python-github-projects)
 * [python_reference](https://github.com/rasbt/python_reference)
