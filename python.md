@@ -174,6 +174,9 @@ This list contains python libraries related to web scraping and data processing
 * PSD
   * [psd-tools](https://github.com/kmike/psd-tools) - reading Adobe Photoshop PSD files (as described in [specification](https://www.adobe.com/devnet-apps/photoshop/fileformatashtml/PhotoshopFileFormats.htm)) to Python data structures.
 
+* Parsing Netscape bookmark (Google Chrome, Firefox, ...)
+  * [bookmarks-parser](https://github.com/bookmarks-tools/bookmarks-parser) Parses Firefox/Chrome HTML bookmarks files
+
 ## Natural Language Processing
 
 *Libraries for working with human languages.*
