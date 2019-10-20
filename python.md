@@ -21,6 +21,7 @@ This list contains python libraries related to web scraping and data processing
    * [DNS Resolving](#dns-resolving)
    * [Computer Vision](#computer-vision)
    * [Proxy Server](#proxy-server)
+   * [Site Specific](#site-specific)
    * [Misc](#misc)
    * [Other Python Lists](#other-python-lists)
 
@@ -303,6 +304,11 @@ This list contains python libraries related to web scraping and data processing
   * [ProxyBroker](https://github.com/constverum/Proxybroker) - Proxy [Finder | Checker | Server]. HTTP(S) & SOCKS
   * [shadowsocks](https://github.com/shadowsocks/shadowsocks) - A fast tunnel proxy that helps you bypass firewalls (TCP & UDP support, User management API, TCP Fast Open, Workers and graceful restart, Destination IP blacklist)
   * [tproxy](https://github.com/benoitc/tproxy) - tproxy is a simple TCP routing proxy (layer 7) built on Gevent that lets you configure the routine logic in Python
+
+## Site Specific
+  * [twitter-scraper](https://github.com/bisguzar/twitter-scraper) - Scrape the Twitter Frontend API without authentication
+  * [Ultimate-Facebook-Scraper](https://github.com/harismuneer/Ultimate-Facebook-Scraper) - A bot which scrapes almost everything about a Facebook user's profile
+  * [instagram-scraper](https://github.com/rarcega/instagram-scraper) - Scrapes an instagram user's photos and videos
 
 ## Other python lists
 
