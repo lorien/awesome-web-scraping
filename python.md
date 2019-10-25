@@ -145,8 +145,9 @@ Libraries for parsing and manipulating plain texts.
 
 ### Text Processing :: User-Agent strings
 
-* [python-user-agents](https://github.com/selwin/python-user-agents) - Browser user agent parser.
 * [HTTP Agent Parser](https://github.com/shon/httpagentparser) - Python HTTP Agent Parser
+* [uap-python](https://github.com/ua-parser/uap-python) - Python implementation of ua-parser
+* [python-user-agents](https://github.com/selwin/python-user-agents) - Browser user agent parser.
 * [fake-useragent](https://github.com/hellysmile/fake-useragent) - Python user agent string faker, based on world statistic of browsers
 * [user_agent](https://github.com/lorien/user_agent) - Generator of User-Agent data
 
