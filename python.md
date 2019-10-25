@@ -89,11 +89,16 @@ This list contains python libraries related to web scraping and data processing
 * [hodor](https://github.com/CompileInc/hodor) - Configuration driven wrapper around lxml and cssselect.
 * [chopper](https://github.com/jurismarches/chopper) - Tool to extract a part from HTML page with corresponding CSS rules and preserving correct HTML.
 * [selectolax](https://github.com/rushter/selectolax) - Python bindings to Modest engine (fast HTML5 parser with CSS selectors).
+* [parsel](https://github.com/scrapy/parsel) - Lets you extract data from XML/HTML documents using XPath or CSS selectors.
 
 ### HTML/XML : Sanitizing
 
 * [Bleach](http://bleach.readthedocs.org/en/latest/) - cleaning of HTML (requires html5lib)
 * [sanitize](https://github.com/Alir3z4/sanitize) - Bringing sanity to world of messed-up data.
+
+### HTML/XML : Metadata
+
+* [extruct](https://github.com/scrapinghub/extruct) - A library for extracting embedded metadata from HTML markup.
 
 ## Text Processing
 
@@ -153,6 +158,10 @@ Libraries for parsing and manipulating plain texts.
 ### Text Processing :: Date and Time
 
 * [dateutil](https://github.com/dateutil/dateutil) - Useful extensions to the standard Python datetime features
+
+### Text Processing :: Price and Currency
+
+* [price-parser](https://github.com/scrapinghub/price-parser) - a small library for extracting price and currency from raw text strings.
 
 ## Structured Formats
 
