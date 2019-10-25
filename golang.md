@@ -35,10 +35,11 @@ This list contains Golang libraries related to web scraping and data processing
   * [go_spider](https://github.com/hu17889/go_spider) - An flexible, modular and expansible Go concurrent Crawler(spider) framework.
   * [ants-go](https://github.com/wcong/ants-go) - A distributed, restful crawler engine in golang.
 * Full Featured Scrapers
+  * [geziyor](https://github.com/geziyor/geziyor) - Geziyor, a blazing fast web scraping framework, supports JS rendering.
   * [colly](https://github.com/gocolly/colly) - Fast and elegant scraping framework
   * [dataflow kit](https://github.com/slotix/dataflowkit) - Dataflow Kit - extract structured data from web sites.
 * Other
-  * TODO
+  * [ferret](https://github.com/MontFerret/ferret) - A web scraping tool with a declarative query language.
 
 ## HTML/XML Parsing
 
@@ -122,7 +123,7 @@ This list contains Golang libraries related to web scraping and data processing
 
 ## Browser automation and emulation
 
-* TODO
+* [chromedp](https://github.com/chromedp/chromedp) - A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol
 
 ## Multiprocessing
 

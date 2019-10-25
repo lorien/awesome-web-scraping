@@ -24,16 +24,24 @@ This list contains JavaScript libraries related to web scraping and data process
    * [Data Structure](#data-structure)
 
 ## Network
-* [node-http2](https://github.com/molnarg/node-http2) - An HTTP/2 client and server implementation for node.js
-* [httpinvoke](https://github.com/jakutis/httpinvoke) - A no-dependencies HTTP client library for browsers and Node.js with a promise-based or Node.js-style callback-based API to progress events, text and binary file upload and download, partial response body, request and response headers, status code. 
 * [request](https://github.com/request/request) - Simplified HTTP request client.
 * [socks5-http-client](https://github.com/mattcg/socks5-http-client) - SOCKS v5 HTTP client implementation in JavaScript for Node.js
 * [rest](https://github.com/cujojs/rest) - RESTful HTTP client for JavaScript
 * [wreck](https://github.com/hapijs/wreck) - HTTP Client Utilities
+* [got](https://github.com/sindresorhus/got) - Simplified HTTP requests
+* [node-fetch](https://github.com/bitinn/node-fetch) - A light-weight module that brings window.fetch to Node.js
+* [bent](https://github.com/mikeal/bent) - Functional HTTP client for Node.js w/ async/await
+* [axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
+* [superagent](https://github.com/visionmedia/superagent) - Ajax for Node.js and browsers (JS HTTP client)
+* [urllib](https://github.com/node-modules/urllib) - Request HTTP(s) URLs in a complex world
+* [needle](https://github.com/tomas/needle) - Nimble, streamable HTTP client for Node.js. With proxy, iconv, cookie, deflate & multipart support
 
 ## Web-Scraping Frameworks
+* [webparsy](https://github.com/joseconstela/webparsy) - NodeJS lib and cli for scraping websites using Puppeteer and YAML
 * [node-crawler](https://github.com/sylvinus/node-crawler) - Web Crawler/Spider for NodeJS + server-side jQuery
 * [node-simplecrawler](https://github.com/cgiffard/node-simplecrawler) - Flexible event driven crawler for node
+* [Apify SDK](https://github.com/apifytech/apify-js) - The scalable web crawling and scraping library for JavaScript. Enables development of data extraction and web automation jobs (not only) with headless Chrome and Puppeteer.
+* [Ayakashi](https://github.com/ayakashi-io/ayakashi) - The next generation web scraping framework. Features all the necessary tools to create reliable and maintainable scraping and automation systems.
 
 ## HTML/XML Parsing
 * General
@@ -43,6 +51,7 @@ This list contains JavaScript libraries related to web scraping and data process
   * [cheerio](https://github.com/cheeriojs/cheerio) - Fast, flexible, and lean implementation of core jQuery designed specifically for the server
 * Sanitizing
   * [js-xss](https://github.com/leizongmin/js-xss) - Sanitize untrusted HTML (to prevent XSS) with a configuration specified by a Whitelist.
+  * [surgeon](https://github.com/gajus/surgeon) - Declarative DOM extraction expression evaluator
 
 ## Text Processing
 
@@ -98,6 +107,8 @@ This list contains JavaScript libraries related to web scraping and data process
   * [markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
 * Atom/RSS
   * [node-feedparser](https://github.com/danmactough/node-feedparser) - Robust RSS, Atom, and RDF feed parsing in Node.js
+* Netscape Bookmarks(Firefox, Google Chrome, ...)
+  * [node-bookmarks-parser](https://github.com/calibr/node-bookmarks-parser) - Parses Firefox/Chrome HTML bookmarks files
 
 ## Natural Language Processing
 
@@ -125,6 +136,8 @@ This list contains JavaScript libraries related to web scraping and data process
 * [zombie](https://github.com/assaf/zombie) - Insanely fast, full-stack, headless browser testing using node.js.
 * [nightmare](https://github.com/segmentio/nightmare) - Nightmare is a high level wrapper for PhantomJS that lets you automate browser tasks
 * [puppeteer](https://github.com/GoogleChrome/puppeteer) - Puppeteer is a Node library which provides a high-level API to control headless Chrome or Chromium over the DevTools Protocol. It can also be configured to use full (non-headless) Chrome or Chromium.
+* [headless-chrome-crawler](https://github.com/yujiosaka/headless-chrome-crawler) - Distributed crawler powered by Headless Chrome
+* [puppeteer-recorder](https://github.com/checkly/puppeteer-recorder) - Puppeteer recorder is a Chrome extension that records your browser interactions and generates a Puppeteer script.
 
 ## Multiprocessing
   * [nexpect](https://github.com/nodejitsu/nexpect) - spawn and control child processes in node.js with ease
@@ -187,6 +200,7 @@ This list contains JavaScript libraries related to web scraping and data process
 
 ## Proxy Server
   * [toxy](https://github.com/h2non/toxy) - Hackable HTTP proxy to simulate server failure scenarios and unexpected network conditions
+  * [proxy-chain](https://github.com/apifytech/proxy-chain) - Node.js implementation of a proxy server (think Squid) with support for SSL, authentication and upstream proxy chaining
 
 ## Data Structure
 * [immutable](https://github.com/facebook/immutable-js) - Immutable persistent data collections for Javascript which increase efficiency and simplicity.

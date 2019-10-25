@@ -14,6 +14,10 @@ Console tools related to web scraping and data processing
 ## Specific Formats Processing
 
 * Office
-   * [unoconv](https://github.com/dagwieers/unoconv) - Convert between any document format supported by LibreOffice/OpenOffice.
+   * [unoconv](https://github.com/dagwieers/unoconv) - convert between any document format supported by LibreOffice/OpenOffice.
 * CSV
-    * [csvkit](https://github.com/onyxfish/csvkit) - Utilities for converting to and working with CSV.
+    * [csvkit](https://github.com/onyxfish/csvkit) - utilities for converting to and working with CSV.
+    
+## Proxy Wrappers
+* [proxychains](https://github.com/haad/proxychains) - a tool that forces any TCP connection made by any given application to follow through proxy
+* [proxychains-ng](https://github.com/rofl0r/proxychains-ng) - a preloader which hooks calls to sockets in dynamically linked programs and redirects it through one or more socks/http proxies. continuation of the unmaintained proxychains project

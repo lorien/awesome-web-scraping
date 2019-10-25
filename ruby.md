@@ -48,6 +48,7 @@ This list contains ruby libraries related to web scraping and data processing
   * [Wombat](https://github.com/felipecsl/wombat) - Web scraper with an elegant DSL that parses structured data from web pages.
   * [Anemone](https://github.com/chriskite/anemone) - web spider framework that can spider a domain and collect useful information about the pages it visits
   * [Spidr](https://github.com/postmodern/spidr) - versatile Ruby web spidering library that can spider a site, multiple domains, certain links or infinitely. Spidr is designed to be fast and easy to use.
+  * [kimuraframework](https://github.com/vifreefly/kimuraframework) - Modern web scraping framework written in Ruby which works out of box with Headless Chromium/Firefox, PhantomJS, or simple HTTP requests and allows to scrape and interact with JavaScript rendered websites
 
 ## HTML/XML Parsing
 
