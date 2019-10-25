@@ -22,8 +22,7 @@ This list contains python libraries related to web scraping and data processing
    * [DNS Resolving](#dns-resolving)
    * [Computer Vision](#computer-vision)
    * [Proxy Server](#proxy-server)
-   * [Whois](#whois)
-   * [Serialization](#serialization)
+   * [Website Specific Scraper](#site-specific-scraper)
    * [Other Python Lists](#other-python-lists)
 
 ## Network
@@ -381,6 +380,11 @@ Libraries for working with WebSocket.
 ## Serialization
 
 * [ujson](https://github.com/esnme/ultrajson) - Ultra fast JSON decoder and encoder written in C with Python bindings
+
+## Website Specific Scraper
+  * [twitter-scraper](https://github.com/bisguzar/twitter-scraper) - Scrape the Twitter Frontend API without authentication
+  * [Ultimate-Facebook-Scraper](https://github.com/harismuneer/Ultimate-Facebook-Scraper) - A bot which scrapes almost everything about a Facebook user's profile
+  * [instagram-scraper](https://github.com/rarcega/instagram-scraper) - Scrapes an instagram user's photos and videos
 
 ## Other python lists
 
