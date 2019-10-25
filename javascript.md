@@ -99,7 +99,7 @@ This list contains JavaScript libraries related to web scraping and data process
 * Atom/RSS
   * [node-feedparser](https://github.com/danmactough/node-feedparser) - Robust RSS, Atom, and RDF feed parsing in Node.js
 * Netscape Bookmarks(Firefox, Google Chrome, ...)
- * [node-bookmarks-parser](https://github.com/calibr/node-bookmarks-parser) - Parses Firefox/Chrome HTML bookmarks files
+  * [node-bookmarks-parser](https://github.com/calibr/node-bookmarks-parser) - Parses Firefox/Chrome HTML bookmarks files
 
 ## Natural Language Processing
 
