@@ -96,6 +96,10 @@ This list contains python libraries related to web scraping and data processing
 * [Bleach](http://bleach.readthedocs.org/en/latest/) - cleaning of HTML (requires html5lib)
 * [sanitize](https://github.com/Alir3z4/sanitize) - Bringing sanity to world of messed-up data.
 
+### HTML/XML : Metadata
+
+* [extruct](https://github.com/scrapinghub/extruct) - A library for extracting embedded metadata from HTML markup.
+
 ## Text Processing
 
 Libraries for parsing and manipulating plain texts.
@@ -216,9 +220,6 @@ Libraries for parsing and manipulating specific text formats.
 ### Structured Formats : Microformats
 
   * [opengraph](https://github.com/erikriver/opengraph) - A Python module to parse the Open Graph Protocol tags
-
-### Structured Formats : HTML Metadata
-  * [extruct](https://github.com/scrapinghub/extruct) - A library for extracting embedded metadata from HTML markup.
 
 ### Structured Formats :  Portable Executable
 
@@ -381,7 +382,6 @@ Libraries for working with WebSocket.
 ## Other python lists
 
 * [awesome-python](https://github.com/vinta/awesome-python)
-* [awesome-scrapy](https://github.com/croqaz/awesome-scrapy)
 * [pycrumbs](https://github.com/kirang89/pycrumbs/blob/master/pycrumbs.md)
 * [python-github-projects](https://github.com/checkcheckzz/python-github-projects)
 * [python_reference](https://github.com/rasbt/python_reference)
