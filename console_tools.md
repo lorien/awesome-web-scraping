@@ -21,3 +21,7 @@ Console tools related to web scraping and data processing
 ## Proxy Wrappers
 * [proxychains](https://github.com/haad/proxychains) - a tool that forces any TCP connection made by any given application to follow through proxy
 * [proxychains-ng](https://github.com/rofl0r/proxychains-ng) - a preloader which hooks calls to sockets in dynamically linked programs and redirects it through one or more socks/http proxies. continuation of the unmaintained proxychains project
+
+## Other Lists
+
+* [structured-text-tools](https://github.com/dbohdan/structured-text-tools) - A list of command line tools for manipulating structured text data
