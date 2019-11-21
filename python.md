@@ -23,6 +23,7 @@ This list contains python libraries related to web scraping and data processing
    * [Computer Vision](#computer-vision)
    * [Proxy Server](#proxy-server)
    * [Website Specific Scraper](#site-specific-scraper)
+   * [JavaScript Engine Bindings](#javascript-engine-bindings)
    * [Other Python Lists](#other-python-lists)
 
 ## Network
@@ -390,6 +391,11 @@ Libraries for working with WebSocket.
   * [twitter-scraper](https://github.com/bisguzar/twitter-scraper) - Scrape the Twitter Frontend API without authentication
   * [Ultimate-Facebook-Scraper](https://github.com/harismuneer/Ultimate-Facebook-Scraper) - A bot which scrapes almost everything about a Facebook user's profile
   * [instagram-scraper](https://github.com/rarcega/instagram-scraper) - Scrapes an instagram user's photos and videos
+
+## JavaScript Engine Bindings
+
+* [Js2Py](https://github.com/PiotrDabkowski/Js2Py) - JavaScript to Python Translator & JavaScript interpreter written in 100% pure Python
+* [v8eval](https://github.com/sony/v8eval/) - Multi-language bindings to JavaScript engine V8
 
 ## Other python lists
 
