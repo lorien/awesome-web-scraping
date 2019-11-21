@@ -71,6 +71,10 @@ This list contains python libraries related to web scraping and data processing
 * [requests-html](https://github.com/kennethreitz/requests-html) - Pythonic HTML Parsing for Humans.
 * [ScrapydWeb](https://github.com/my8100/scrapydweb) - A full-featured web UI for Scrapyd cluster management, which supports Scrapy Log Analysis & Visualization, Auto Packaging, Timer Tasks, Email Notice and so on.
 
+### Web Scraping : Bypass Protection
+
+* [cloudscraper](https://github.com/venomous/cloudscraper) - A Python module to bypass Cloudflare's anti-bot page.
+
 ## HTML/XML
 
 ### HTML/XML : General
