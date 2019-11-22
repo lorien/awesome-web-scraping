@@ -35,7 +35,7 @@ This list contains python libraries related to web scraping and data processing
 * [grab](https://github.com/lorien/grab) - network library (pycurl based)
 * [pycurl](https://github.com/pycurl/pycurl) - network library (binding to [libcurl](http://curl.haxx.se/libcurl/))
 * [urllib3](https://github.com/shazow/urllib3) - Python HTTP library with thread-safe connection pooling, file post support, sanity friendly, and more.
-* [httplib2](https://github.com/jcgregorio/httplib2) - network library
+* [httplib2](https://github.com/httplib2/httplib2) - Small, fast HTTP client library. Features persistent connections, cache, and Google App Engine support.
 * [RoboBrowser](https://github.com/jmcarp/robobrowser) - A simple, Pythonic library for browsing the web without a standalone web browser.
 * [MechanicalSoup](https://github.com/hickford/MechanicalSoup) - A Python library for automating interaction with websites.
 * [mechanize](https://github.com/python-mechanize/mechanize) - Stateful programmatic web browsing.
