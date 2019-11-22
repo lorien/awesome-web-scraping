@@ -64,6 +64,7 @@ This list contains python libraries related to web scraping and data processing
 * [pyspider](https://github.com/binux/pyspider) - A powerful spider system.
 * [cola](https://github.com/chineking/cola) - A distributed crawling framework.
 * [ruia](https://github.com/howie6879/ruia) - Async Python 3.6+ web scraping micro-framework based on asyncio
+* [ioweb](https://github.com/lorien/ioweb) - Web scraping framework based on gevent and lxml
 
 ### Web Scraping : Tools
 
