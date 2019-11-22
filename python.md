@@ -364,6 +364,7 @@ Libraries for working with WebSocket.
 
 ## DNS Resolving
 
+* [dnspython](https://github.com/rthalley/dnspython) - a powerful DNS toolkit for python
 * [dnsyo](https://github.com/samarudge/dnsyo) - Check your DNS against over 1500 global DNS servers.
 * [pycares](https://github.com/saghul/pycares) -  interface to c-ares. c-ares is a C library that performs DNS requests and name resolutions asynchronously
 
