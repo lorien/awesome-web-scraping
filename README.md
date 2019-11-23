@@ -19,6 +19,9 @@ The list of tools, programming libraries and web services used in web scraping.
 
 * [Console tools](http://github.com/lorien/web-scraping/blob/master/console_tools.md)
 * [Books](http://github.com/lorien/web-scraping/blob/master/books.md)
+
+## Other Lists
+
 * [HeadlessBrowsers](https://github.com/dhamaniasad/HeadlessBrowsers) - a list of (almost) all headless web browsers in existence
 
 ## About awesome-web-scraping
