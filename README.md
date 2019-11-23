@@ -19,24 +19,14 @@ The list of tools, programming libraries and web services used in web scraping.
 
 * [Console tools](http://github.com/lorien/web-scraping/blob/master/console_tools.md)
 * [Books](http://github.com/lorien/web-scraping/blob/master/books.md)
-
-## Other Awesome List Projects
 * [HeadlessBrowsers](https://github.com/dhamaniasad/HeadlessBrowsers) - a list of (almost) all headless web browsers in existence
 
-## Contributing
+## About awesome-web-scraping
 
 Make this list better! Your contributions are always welcome! See [contributing how-to](https://github.com/lorien/web-scraping/blob/master/CONTRIBUTING.md)
 
-Feel free to add new language to Programming Libraries. Use [new_language_template](http://github.com/lorien/web-scraping/blob/master/new_language_template.md) as starting point.
+To add new language to Programming Libraries section use [new_language_template](http://github.com/lorien/web-scraping/blob/master/new_language_template.md) as starting point.
 
-## Community
+Feel free to share feedback in telegram chats about web scraping: [@grablab](https://t.me/grablab) (English) and [@grablab_ru](https://t.me/grablab_ru) (Russian)
 
-Telegram chats about web scraping: [@grablab](https://t.me/grablab) (English) and [@grablab_ru](https://t.me/grablab_ru) (Russian)
-
-## Credits
-This list initially based on some data from these sources:
-* [vinta / awesome-python](https://github.com/vinta/awesome-python)
-* [ziadoz / awesome-php](https://github.com/ziadoz/awesome-php)
-* [markets / awesome-ruby](https://github.com/markets/awesome-ruby)
-* [diasks2 / ruby-nlp](https://github.com/diasks2/ruby-nlp)
-* [sorrycc / awesome-javascript](https://github.com/sorrycc/awesome-javascript)
+The list initially based on some data from these sources [vinta / awesome-python](https://github.com/vinta/awesome-python), [ziadoz / awesome-php](https://github.com/ziadoz/awesome-php), [markets / awesome-ruby](https://github.com/markets/awesome-ruby), [diasks2 / ruby-nlp](https://github.com/diasks2/ruby-nlp), [sorrycc / awesome-javascript](https://github.com/sorrycc/awesome-javascript)
