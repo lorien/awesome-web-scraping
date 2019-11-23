@@ -23,10 +23,8 @@ The list of tools, programming libraries and web services used in web scraping.
 
 ## About awesome-web-scraping
 
-Make this list better! Your contributions are always welcome! See [contributing how-to](https://github.com/lorien/web-scraping/blob/master/CONTRIBUTING.md)
-
-To add new language to Programming Libraries section use [new_language_template](http://github.com/lorien/web-scraping/blob/master/new_language_template.md) as starting point.
+Make this list better! Your contributions are always welcome! See [contributing how-to](https://github.com/lorien/web-scraping/blob/master/CONTRIBUTING.md) To add new language to Programming Libraries section use [new_language_template](http://github.com/lorien/web-scraping/blob/master/new_language_template.md) as starting point.
 
 Feel free to share feedback in telegram chats about web scraping: [@grablab](https://t.me/grablab) (English) and [@grablab_ru](https://t.me/grablab_ru) (Russian)
 
-The list initially based on some data from these sources [vinta / awesome-python](https://github.com/vinta/awesome-python), [ziadoz / awesome-php](https://github.com/ziadoz/awesome-php), [markets / awesome-ruby](https://github.com/markets/awesome-ruby), [diasks2 / ruby-nlp](https://github.com/diasks2/ruby-nlp), [sorrycc / awesome-javascript](https://github.com/sorrycc/awesome-javascript)
+The list initially based on some data from these sources [awesome-python](https://github.com/vinta/awesome-python), [awesome-php](https://github.com/ziadoz/awesome-php), [awesome-ruby](https://github.com/markets/awesome-ruby), [ruby-nlp](https://github.com/diasks2/ruby-nlp), [awesome-javascript](https://github.com/sorrycc/awesome-javascript)
