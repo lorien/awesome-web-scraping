@@ -18,7 +18,6 @@ The list of tools, programming libraries and web services used in web scraping.
 ## Other Things
 
 * [Console tools](http://github.com/lorien/web-scraping/blob/master/console_tools.md)
-* [Books](http://github.com/lorien/web-scraping/blob/master/books.md)
 
 ## Other Lists
 
