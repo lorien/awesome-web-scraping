@@ -2,29 +2,30 @@
 
 This list contains python libraries related to web scraping and data processing
 
-* [Python Web Scraping](#python-web-scraping)
-   * [Network](#network)
-   * [Web Scraping](#web-scraping)
-   * [HTML/XML](#htmlxml)
-   * [Text processing](#text-processing)
-   * [Structured Formats](#structured-formats)
-   * [Natural Language Processing](#natural-language-processing)
-   * [Browser automation](#browser-automation)
-   * [Multiprocessing](#multiprocessing)
-   * [Job Queue](#job-queue)
-   * [Message Queue](#message-queue)
-   * [Cloud Computing](#cloud-computing)
-   * [Email](#email)
-   * [URL and Network Address](#url-and-network-address)
-   * [Web Content Extraction](#web-content-extraction)
-   * [Asynchronous](#asynchronous)
-   * [WebSocket](#websocket)
-   * [DNS Resolving](#dns-resolving)
-   * [Computer Vision](#computer-vision)
-   * [Proxy Server](#proxy-server)
-   * [Website Specific Scraper](#site-specific-scraper)
-   * [JavaScript Engine Bindings](#javascript-engine-bindings)
-   * [Other Python Lists](#other-python-lists)
+## Contents
+
+* [Network](#network)
+* [Web Scraping](#web-scraping)
+* [HTML/XML](#htmlxml)
+* [Text processing](#text-processing)
+* [Structured Formats](#structured-formats)
+* [Natural Language Processing](#natural-language-processing)
+* [Browser automation](#browser-automation)
+* [Multiprocessing](#multiprocessing)
+* [Job Queue](#job-queue)
+* [Message Queue](#message-queue)
+* [Cloud Computing](#cloud-computing)
+* [Email](#email)
+* [URL and Network Address](#url-and-network-address)
+* [Web Content Extraction](#web-content-extraction)
+* [Asynchronous](#asynchronous)
+* [WebSocket](#websocket)
+* [DNS Resolving](#dns-resolving)
+* [Computer Vision](#computer-vision)
+* [Proxy Server](#proxy-server)
+* [Website Specific Scraper](#site-specific-scraper)
+* [JavaScript Engine Bindings](#javascript-engine-bindings)
+* [Other Python Lists](#other-python-lists)
 
 ## Network
 
@@ -217,26 +218,27 @@ Libraries for parsing and manipulating specific text formats.
 
 ### Structured Formats : SQL
 
-  * [sqlparse](https://sqlparse.readthedocs.org/) - A non-validating SQL parser.
+* [sqlparse](https://sqlparse.readthedocs.org/) - A non-validating SQL parser.
 
 ### Structured Formats : HTTP
 
-  * [http-parser](https://github.com/benoitc/http-parser) - HTTP request/response parser for python in C
+* [http-parser](https://github.com/benoitc/http-parser) - HTTP request/response parser for python in C
 
 ### Structured Formats : Microformats
 
-  * [opengraph](https://github.com/erikriver/opengraph) - A Python module to parse the Open Graph Protocol tags
+* [opengraph](https://github.com/erikriver/opengraph) - A Python module to parse the Open Graph Protocol tags
 
 ### Structured Formats :  Portable Executable
 
-  *  [pefile](https://github.com/erocarrera/pefile) - A multi-platform module to parse and work with Portable Executable (aka PE) files.
+*  [pefile](https://github.com/erocarrera/pefile) - A multi-platform module to parse and work with Portable Executable (aka PE) files.
 
 ### Structured Formats : PSD
 
-  * [psd-tools](https://github.com/kmike/psd-tools) - reading Adobe Photoshop PSD files (as described in [specification](https://www.adobe.com/devnet-apps/photoshop/fileformatashtml/PhotoshopFileFormats.htm)) to Python data structures.
+* [psd-tools](https://github.com/kmike/psd-tools) - reading Adobe Photoshop PSD files (as described in [specification](https://www.adobe.com/devnet-apps/photoshop/fileformatashtml/PhotoshopFileFormats.htm)) to Python data structures.
 
-* Bookmarks File
-  * [bookmarks-parser](https://github.com/bookmarks-tools/bookmarks-parser) - Parses Firefox/Chrome HTML bookmarks files
+### Structured Formats : Bookmarks File
+
+* [bookmarks-parser](https://github.com/bookmarks-tools/bookmarks-parser) - Parses Firefox/Chrome HTML bookmarks files
 
 ## Natural Language Processing
 
@@ -390,9 +392,9 @@ Libraries for working with WebSocket.
 * [ujson](https://github.com/esnme/ultrajson) - Ultra fast JSON decoder and encoder written in C with Python bindings
 
 ## Website Specific Scraper
-  * [twitter-scraper](https://github.com/bisguzar/twitter-scraper) - Scrape the Twitter Frontend API without authentication
-  * [Ultimate-Facebook-Scraper](https://github.com/harismuneer/Ultimate-Facebook-Scraper) - A bot which scrapes almost everything about a Facebook user's profile
-  * [instagram-scraper](https://github.com/rarcega/instagram-scraper) - Scrapes an instagram user's photos and videos
+* [twitter-scraper](https://github.com/bisguzar/twitter-scraper) - Scrape the Twitter Frontend API without authentication
+* [Ultimate-Facebook-Scraper](https://github.com/harismuneer/Ultimate-Facebook-Scraper) - A bot which scrapes almost everything about a Facebook user's profile
+* [instagram-scraper](https://github.com/rarcega/instagram-scraper) - Scrapes an instagram user's photos and videos
 
 ## JavaScript Engine Bindings
 
