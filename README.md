@@ -22,7 +22,7 @@ The list of tools, programming libraries and web services used in web scraping.
 ## Other Lists
 
 * [HeadlessBrowsers](https://github.com/dhamaniasad/HeadlessBrowsers) - a list of (almost) all headless web browsers in existence
-* [awesome-python-dev](https://github.com/lorien/awesome-python-dev) - list of tools to debug, profile, validate software written in python language
+* [awesome-python-dev](https://github.com/lorien/awesome-python-dev) - a list of tools for debugging, profiling and analyzing python programs.
 
 ## About awesome-web-scraping
 
