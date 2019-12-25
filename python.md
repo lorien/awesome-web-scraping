@@ -224,6 +224,7 @@ Libraries for parsing and manipulating specific text formats.
 ### Structured Formats : HTTP
 
 * [http-parser](https://github.com/benoitc/http-parser) - HTTP request/response parser for python in C
+* [httptools](https://github.com/MagicStack/httptools) - a Python binding for nodejs HTTP parser
 
 ### Structured Formats : Microformats
 
