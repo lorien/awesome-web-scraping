@@ -9,6 +9,7 @@ This list contains python libraries related to web scraping and data processing
 * [HTML/XML](#htmlxml)
 * [Text processing](#text-processing)
 * [Structured Formats](#structured-formats)
+* [Serialization](#serialization)
 * [Natural Language Processing](#natural-language-processing)
 * [Browser automation](#browser-automation)
 * [Multiprocessing](#multiprocessing)
@@ -23,6 +24,7 @@ This list contains python libraries related to web scraping and data processing
 * [DNS Resolving](#dns-resolving)
 * [Computer Vision](#computer-vision)
 * [Proxy Server](#proxy-server)
+* [Whois](#whois)
 * [Website Specific Scraper](#site-specific-scraper)
 * [JavaScript Engine Bindings](#javascript-engine-bindings)
 * [Other Python Lists](#other-python-lists)
@@ -242,6 +244,11 @@ Libraries for parsing and manipulating specific text formats.
 
 * [bookmarks-parser](https://github.com/bookmarks-tools/bookmarks-parser) - Parses Firefox/Chrome HTML bookmarks files
 
+## Serialization
+
+* [orjson](https://github.com/ijl/orjson) - Fast, correct Python JSON library supporting dataclasses and datetimes
+* [ujson](https://github.com/esnme/ultrajson) - Ultra fast JSON decoder and encoder written in C with Python bindings
+
 ## Natural Language Processing
 
 Libraries for working with human languages.
@@ -388,10 +395,6 @@ Libraries for working with WebSocket.
 ## Whois
 
 * [python-whois](https://github.com/joepie91/python-whois) - A python module for retrieving and parsing WHOIS data
-
-## Serialization
-
-* [ujson](https://github.com/esnme/ultrajson) - Ultra fast JSON decoder and encoder written in C with Python bindings
 
 ## Website Specific Scraper
 * [twitter-scraper](https://github.com/bisguzar/twitter-scraper) - Scrape the Twitter Frontend API without authentication
