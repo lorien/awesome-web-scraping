@@ -86,7 +86,7 @@ This list contains python libraries related to web scraping and data processing
 ### HTML/XML : General
 
 * [lxml](http://lxml.de) - effective HTML/XML processing library. Supports XPATH. Written in C.
-* [cssselect](https://pythonhosted.org/cssselect) - working with DOM tree with CSS selectors
+* [cssselect](https://cssselect.readthedocs.io/en/latest/) - working with DOM tree with CSS selectors
 * [pyquery](http://pythonhosted.org//pyquery/) - working with DOM tree with jQuery-like selectors
 * [BeautifulSoup](http://www.crummy.com/software/BeautifulSoup/bs4/doc/) - slow HTML/XMl processing library, written in pure python
 * [html5lib](http://html5lib.readthedocs.org/en/latest/) - builds DOM of HTML/XML document according to [WHATWG spec](url=http://www.whatwg.org/). That spec is used in all modern browsers.
