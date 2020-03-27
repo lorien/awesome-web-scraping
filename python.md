@@ -85,12 +85,12 @@ This list contains python libraries related to web scraping and data processing
 
 ### HTML/XML : General
 
-* [lxml](http://lxml.de) - effective HTML/XML processing library. Supports XPATH. Written in C.
-* [cssselect](https://cssselect.readthedocs.io/en/latest/) - working with DOM tree with CSS selectors
-* [pyquery](http://pythonhosted.org//pyquery/) - working with DOM tree with jQuery-like selectors
+* [lxml](https://github.com/lxml/lxml/) - effective HTML/XML processing library. Supports XPATH. Written in C.
+* [cssselect](https://github.com/scrapy/cssselect) - working with DOM tree with CSS selectors
+* [pyquery](https://github.com/gawel/pyquery) - working with DOM tree with jQuery-like selectors
 * [BeautifulSoup](http://www.crummy.com/software/BeautifulSoup/bs4/doc/) - slow HTML/XMl processing library, written in pure python
-* [html5lib](http://html5lib.readthedocs.org/en/latest/) - builds DOM of HTML/XML document according to [WHATWG spec](url=http://www.whatwg.org/). That spec is used in all modern browsers.
-* [feedparser](http://pythonhosted.org/feedparser/) - parsing of RSS/ATOM feeds.
+* [html5lib](https://github.com/html5lib/html5lib-python) - builds DOM of HTML/XML document according to [WHATWG spec](url=http://www.whatwg.org/). That spec is used in all modern browsers.
+* [feedparser](https://github.com/kurtmckee/feedparser) - parsing of RSS/ATOM feeds.
 * [MarkupSafe](https://github.com/mitsuhiko/markupsafe) - Implements a XML/HTML/XHTML Markup safe string for Python.
 * [xmltodict](https://github.com/martinblech/xmltodict) - Working with XML feel like you are working with JSON.
 * [xhtml2pdf](https://github.com/chrisglass/xhtml2pdf) - HTML/CSS to PDF converter.
@@ -102,7 +102,7 @@ This list contains python libraries related to web scraping and data processing
 
 ### HTML/XML : Sanitizing
 
-* [Bleach](http://bleach.readthedocs.org/en/latest/) - cleaning of HTML (requires html5lib)
+* [Bleach](https://github.com/mozilla/bleach) - cleaning of HTML (requires html5lib)
 * [sanitize](https://github.com/Alir3z4/sanitize) - Bringing sanity to world of messed-up data.
 
 ### HTML/XML : Metadata
