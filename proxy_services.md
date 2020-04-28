@@ -1,5 +1,3 @@
-Only proxy services with referral program are allowed to be placed into Proxy Services Section
-
 ## Proxy Services
 
 * [proxyrack](http://www.proxyrack.com/access/aff/go/lorien) - Over 1,250,000 Unique Private IPs With Instant Setup
