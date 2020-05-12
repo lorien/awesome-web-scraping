@@ -26,10 +26,10 @@ Web scraping chats: [@grablab](https://t.me/grablab) (English) and [@grablab_ru]
 
 ## Proxy Services
 
-* [proxyrack](http://www.proxyrack.com/access/aff/go/lorien) - Over 1,250,000 Unique Private IPs With Instant Setup
+* [proxyrack.com](http://www.proxyrack.com/access/aff/go/lorien) - Over 1,250,000 Unique Private IPs With Instant Setup
 * [webshare.io](https://proxy.webshare.io/register/?referral_code=g41thaun6ip6) - 5000+ HTTP server proxies
 * [proxium.ru](http://proxium.ru/partner/5c47bdaae8359) - extremely cheap small proxy lists
-* [crawlera](https://scrapinghub.com/crawlera?rfsn=4147167.2ec6da) - Smart Proxy Network that automatically rotates IPs
+* [scrapinghub.com/crawlera](https://scrapinghub.com/crawlera?rfsn=4147167.2ec6da) - Smart Proxy Network that automatically rotates IPs
 
 ## About awesome-web-scraping
 
