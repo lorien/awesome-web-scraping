@@ -17,17 +17,17 @@ The list of tools, programming libraries and web services used in web scraping. 
 * [dhamaniasad / HeadlessBrowsers](https://github.com/dhamaniasad/HeadlessBrowsers) - a list of (almost) all headless web browsers in existence
 * [lorien / awesome-python-dev](https://github.com/lorien/awesome-python-dev) - a list of tools for debugging, profiling and analyzing python programs.
 
+## Captcha Solving Services
+
+* [2captcha.com](https://2captcha.com/?from=3019071) - 2captcha.com
+* [anti-gate.com](http://getcaptchasolution.com/ijykrofoxz) - anti-gate.com
+
 ## Proxy Services
 
 * [proxyrack](http://www.proxyrack.com/access/aff/go/lorien) - Over 1,250,000 Unique Private IPs With Instant Setup
 * [webshare.io](https://proxy.webshare.io/register/?referral_code=g41thaun6ip6) - 5000+ HTTP server proxies
 * [proxium.ru](http://proxium.ru/partner/5c47bdaae8359) - extremely cheap small proxy lists
 * [crawlera](https://scrapinghub.com/crawlera?rfsn=4147167.2ec6da) - Smart Proxy Network that automatically rotates IPs
-
-## Captcha Solving Services
-
-* [2captcha.com](https://2captcha.com/?from=3019071) - 2captcha.com
-* [anti-gate.com](http://getcaptchasolution.com/ijykrofoxz) - anti-gate.com
 
 ## About awesome-web-scraping
 
