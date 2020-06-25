@@ -24,13 +24,6 @@ Web scraping chats: [@grablab](https://t.me/grablab) (English) and [@grablab_ru]
 * [2captcha.com](https://2captcha.com/?from=3019071) - 2captcha.com
 * [anti-gate.com](http://getcaptchasolution.com/ijykrofoxz) - anti-gate.com
 
-## Proxy Services
-
-* [proxyrack.com](http://www.proxyrack.com/access/aff/go/lorien) - Over 1,250,000 Unique Private IPs With Instant Setup
-* [webshare.io](https://proxy.webshare.io/register/?referral_code=g41thaun6ip6) - 5000+ HTTP server proxies
-* [proxium.ru](http://proxium.ru/partner/5c47bdaae8359) - extremely cheap small proxy lists
-* [scrapinghub.com/crawlera](https://scrapinghub.com/crawlera?rfsn=4147167.2ec6da) - Smart Proxy Network that automatically rotates IPs
-
 ## About awesome-web-scraping
 
 Make this list better! Your contributions are always welcome! See [contributing how-to](https://github.com/lorien/web-scraping/blob/master/CONTRIBUTING.md). To add new language to Programming Libraries section use [new_language_template](http://github.com/lorien/web-scraping/blob/master/new_language_template.md) as starting point.
