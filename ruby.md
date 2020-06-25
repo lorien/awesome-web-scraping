@@ -49,6 +49,7 @@ This list contains ruby libraries related to web scraping and data processing
   * [Anemone](https://github.com/chriskite/anemone) - web spider framework that can spider a domain and collect useful information about the pages it visits
   * [Spidr](https://github.com/postmodern/spidr) - versatile Ruby web spidering library that can spider a site, multiple domains, certain links or infinitely. Spidr is designed to be fast and easy to use.
   * [kimuraframework](https://github.com/vifreefly/kimuraframework) - Modern web scraping framework written in Ruby which works out of box with Headless Chromium/Firefox, PhantomJS, or simple HTTP requests and allows to scrape and interact with JavaScript rendered websites
+  * [arachnid2](https://github.com/samnissen/arachnid2) A simple, fast, framework-less crawler with sensible defaults and lots of options. Crawls the page and runs your code directly against either Typhoeus responses or a Watir browser.
 
 ## HTML/XML Parsing
 
@@ -206,9 +207,9 @@ This list contains ruby libraries related to web scraping and data processing
 
 ## Multiprocessing
 
-* [Celluloid](https://github.com/celluloid/celluloid) - Actor-based concurrent object framework for Ruby 
+* [Celluloid](https://github.com/celluloid/celluloid) - Actor-based concurrent object framework for Ruby
 * [Parallel](https://github.com/grosser/parallel) - Run any code in parallel Processes (> use all CPUs) or Threads (> speedup blocking operations).
-* [Concurrent Ruby](https://github.com/ruby-concurrency/concurrent-ruby) - Modern concurrency tools including agents, futures, promises, thread pools, supervisors, and more. 
+* [Concurrent Ruby](https://github.com/ruby-concurrency/concurrent-ruby) - Modern concurrency tools including agents, futures, promises, thread pools, supervisors, and more.
 * [childprocess](https://github.com/jarib/childprocess) - Cross-platform ruby library for managing child processes.
 * [forkoff](https://github.com/ahoward/forkoff) - brain-dead simple parallel processing for ruby.
 * [posix-spawn](https://github.com/rtomayko/posix-spawn) - Fast Process::spawn for Rubys >= 1.8.7 based on the posix_spawn() system interfaces.
@@ -278,7 +279,7 @@ This list contains ruby libraries related to web scraping and data processing
   * [geocoder](https://github.com/alexreisner/geocoder) - A complete geocoding solution for Ruby. With Rails it adds geocoding (by street or IP address), reverse geocoding (find street address based on given coordinates), and distance queries.
   * [Geokit](https://github.com/geokit/geokit) - Geokit gem provides geocoding and distance/heading calculations.
   * [geoip](https://github.com/cjheath/geoip) - Searches a GeoIP database for a given host or IP address, and returns information about the country where the IP address is allocated, and the city, ISP and other information.
-  
+
 ## Other Ruby Lists
 
 * [awesome-ruby](https://github.com/markets/awesome-ruby/blob/master/README.md) by markets
