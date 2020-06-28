@@ -18,6 +18,7 @@ Web scraping chats: [@grablab](https://t.me/grablab) (English) and [@grablab_ru]
 * [Console tools](http://github.com/lorien/web-scraping/blob/master/console_tools.md)
 * [dhamaniasad / HeadlessBrowsers](https://github.com/dhamaniasad/HeadlessBrowsers) - a list of (almost) all headless web browsers in existence
 * [lorien / awesome-python-dev](https://github.com/lorien/awesome-python-dev) - a list of tools for debugging, profiling and analyzing python programs.
+* [DNS over HTTPS providers](https://github.com/curl/curl/wiki/DNS-over-HTTPS) - list of DNS over HTTPs providers
 
 ## Captcha Solving Services
 
