@@ -68,8 +68,6 @@ This list contains Golang libraries related to web scraping and data processing
   * [github_flavored_markdown](https://godoc.org/github.com/shurcooL/github_flavored_markdown) - GitHub Flavored Markdown renderer (using blackfriday) with fenced code block highlighting, clickable header anchor links.
   * [go-humanize](https://github.com/dustin/go-humanize) - Formatters for time, numbers, and memory size to human readable format.
   * [go-nmea](https://github.com/adrianmo/go-nmea) - NMEA parser library for the Go language.
-  * [go-pkg-rss](https://github.com/jteeuwen/go-pkg-rss) - This package reads RSS and Atom feeds and provides a caching mechanism that adheres to the feed specs.
-  * [go-pkg-xmlx](https://github.com/jteeuwen/go-pkg-xmlx) - Extension to the standard Go XML package. Maintains a node tree that allows forward/backwards browsing and exposes some simple single/multi-node search functions.
   * [go-runewidth](https://github.com/mattn/go-runewidth) - Functions to get fixed width of the character or string.
   * [go-slugify](https://github.com/mozillazg/go-slugify) - Make pretty slug with multiple languages support.
   * [go-vcard](https://github.com/emersion/go-vcard) - Parse and format vCard
