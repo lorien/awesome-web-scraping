@@ -6,6 +6,7 @@
   * [ProxyCrawl](https://proxycrawl.com) - Crawl and scrape any website without blocks, captchas or proxies
   * [ScraperAPI](https://www.scraperapi.com) - A service that manages proxies
     and headless browsers, exposing a single API endpoint to scrape any url.
+  * [SerpApi](https://serpapi.com) - Get rich structured data of [Google](https://serpapi.com/search-api), [Yandex](https://serpapi.com/yandex-search-api), [YouTube](https://serpapi.com/youtube-search-api) search results without renting proxies, solving CAPTCHAs, and parsing HTMLs.
   * [import.io](https://import.io/)
   * [ScraperWiki](https://scraperwiki.com/about)
   * [Mozenda](https://www.mozenda.com/)
