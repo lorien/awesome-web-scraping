@@ -370,6 +370,7 @@ Libraries for extracting web contents.
 * [linkchecker](https://github.com/wummel/linkchecker) - check links in web documents or full websites
 * [python-sitemap](https://github.com/c4software/python-sitemap) - Mini website crawler to make sitemap from a website.
 * [trafilatura](https://github.com/adbar/trafilatura) - Fast extraction of main text and comments along with structure, conversion to TXT, CSV & XML.
+* [advertools](https://github.com/eliasdabbas/advertools) - A customizable crawler to analyze SEO and content of pages and websites.
 
 ## WebSocket
 
