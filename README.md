@@ -26,7 +26,7 @@ Web scraping chats: [@grablab](https://t.me/grablab) (English) and [@grablab_ru]
 
 ## Contributing
 
-See [contributing how-to](https://github.com/lorien/web-scraping/blob/master/CONTRIBUTING.md). To add new language to Programming Libraries section use [new_language_template](http://github.com/lorien/web-scraping/blob/master/new_language_template.md) as starting point.
+See [Contributing](https://github.com/lorien/web-scraping/blob/master/CONTRIBUTING.md) document.
 
 ## Credits
 
