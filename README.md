@@ -1,6 +1,6 @@
 # Awesome Web Scraping
 
-The list of tools, programming libraries and web services used in web scraping.
+The list of tools, programming libraries and web services used in web scraping and data processing.
 
 Web scraping chats: [@grablab](https://t.me/grablab) (English) and [@grablab_ru](https://t.me/grablab_ru) (Russian)
 
