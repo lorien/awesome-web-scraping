@@ -336,19 +336,23 @@ Libraries for parsing email.
 
 ## URL and Network Address
 
-Libraries for parsing/modifying URLs and network addresses.
+Libraries for parsing/modifying URLs, network addresses, domain names.
 
 ### URL and Network Address : URL
 
 * [furl](https://github.com/gruns/furl) - A small Python library that makes manipulating URLs simple.
 * [purl](https://github.com/codeinthehole/purl) - A simple, immutable URL class with a clean API for interrogation and manipulation.
 * [urllib.parse](https://docs.python.org/3/library/urllib.parse.html) - interface to break Uniform Resource Locator (URL) strings up in components (addressing scheme, network location, path etc.), to combine the components back into a URL string, and to convert a “relative URL” to an absolute URL given a “base URL.” (stdlib)
-* [tldextract](https://github.com/john-kurkowski/tldextract) - Accurately separate the TLD from the registered domain and subdomains of a URL, using the Public Suffix List.
 
 ### URL and Network Address : Network Address
 
 * [netaddr](https://github.com/drkjam/netaddr) - A Python library for representing and manipulating network addresses.
 * [micawber](https://github.com/coleifer/micawber) - A small library for extracting rich content from URLs.
+
+### Domain Names
+
+* [tldextract](https://github.com/john-kurkowski/tldextract) - Accurately separate the TLD from the registered domain and subdomains of a URL, using the Public Suffix List.
+* [find_domains](https://github.com/lorien/find_domains) - a library to search for domain names in text data
 
 ## Web Content Extraction
 
