@@ -63,7 +63,7 @@ This list contains python libraries related to web scraping and data processing
 
 ### Web Scraping : Frameworks
 
-* [grab](http://docs.grablib.org/en/latest/#grab-spider-user-manual) - web-scraping framework (pycurl/multicurl based)
+* [grab](https://grablab.org/docs/) - web-scraping framework (pycurl/multicurl based)
 * [scrapy](http://scrapy.org/) - web-scraping framework (twisted based).
 * [pyspider](https://github.com/binux/pyspider) - A powerful spider system.
 * [cola](https://github.com/chineking/cola) - A distributed crawling framework.
