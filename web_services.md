@@ -2,6 +2,7 @@
 
 ## Web-data Extracting Services
 
+  * [ScrapingBee](https://www.scrapingbee.com/) - A web scraping API that handles rotating proxies and headless browsers. 
   * [Dataflow kit](https://dataflowkit.com) - Turn websites data into structured data with a simple point-and-click toolkit
   * [ProxyCrawl](https://proxycrawl.com) - Crawl and scrape any website without blocks, captchas or proxies
   * [ScraperAPI](https://www.scraperapi.com) - A service that manages proxies
