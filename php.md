@@ -24,7 +24,9 @@ This list contains PHP libraries related to web scraping and data processing
    * [API Clients](#api-clients)
    * [Other PHP Lists](#other-php-lists)
 
+
 ## Network
+
 * [Guzzle]( https://github.com/guzzle/guzzle) - A comprehensive HTTP client.
 * [Buzz](https://github.com/kriswallsmith/Buzz) - Another HTTP client.
 * [Requests](https://github.com/rmccue/Requests) - A simple HTTP library.
@@ -32,14 +34,17 @@ This list contains PHP libraries related to web scraping and data processing
 * [Goutte](https://github.com/fabpot/Goutte) - A simple web scraper.
 * [PHP Spider](https://github.com/mvdbos/php-spider) - A comprehensive web spider.
 
+
 ## Web-Scraping Frameworks
 * TODO
+
 
 ## HTML/XML Parsing
 * [HTML5 PHP](https://github.com/Masterminds/html5-php) - An HTML5 parser and serializer library.
 * [QueryPath](https://github.com/technosophos/querypath) - a jQuery-like library for working with XML and HTML documents in PHP. It now contains support for HTML5 via the HTML5-PHP project.
 * [DiDOM](https://github.com/Imangazaliev/DiDOM) - super fast HTML parser (because it was build on top of plain PHP).
 * [PHPScraper](https://github.com/spekulatius/phpscraper) - an highly opinionated web-interface.
+
 
 ## Text Processing
 
@@ -66,6 +71,7 @@ This list contains PHP libraries related to web scraping and data processing
   * [PHP Conversion](https://github.com/Crisu83/php-conversion) - Another library for converting between units of measure.
 * Phone number
   * [LibPhoneNumber for PHP](https://github.com/giggsey/libphonenumber-for-php) - A PHP implementation of Google's phone number handling library.
+
 
 ## Specific Formats Processing
 
@@ -97,6 +103,7 @@ This list contains PHP libraries related to web scraping and data processing
 * GeoJSON
   * [GeoJSON](https://github.com/jmikola/geojson) - A GeoJSON implementation.
 
+
 ## Natural Language Processing
 
 *Libraries for working with human languages.*
@@ -104,12 +111,16 @@ This list contains PHP libraries related to web scraping and data processing
 * [PHP NlpTools](https://github.com/angeloskath/php-nlp-tools) - Natural Language Processing Tools in PHP
 * [nlpTools](https://github.com/atrilla/nlptools) - Natural Language Processing Toolkit for PHP
 
+
 ## Browser automation and emulation
+
 * [php-webdriver](https://github.com/facebook/php-webdriver) - A php client for webdriver.
 * [PHP PhantomJS](https://github.com/jonnnnyw/php-phantomjs) - Execute PhantomJS commands through PHP
 * [Mink](https://github.com/minkphp/Mink) - universal API for multiple browser emulators (selenium, zombie.js, goutte)
 
+
 ## Multiprocessing
+
   * [Spork](https://github.com/kriswallsmith/spork) - A process forking library.
 
 ## Asynchronous
@@ -123,7 +134,9 @@ This list contains PHP libraries related to web scraping and data processing
 * [Event](https://github.com/thephpleague/event) - An event library with a focus on domain events.
 * [Broadway](https://github.com/qandidate-labs/broadway) - An event source and CQRS library.
 
+
 ## Queue
+
 * [Pheanstalk](https://github.com/pda/pheanstalk) - A Beanstalkd client library.
 * [PHP AMQP](https://github.com/videlalvaro/php-amqplib) - A pure PHP AMQP library.
 * [Thumper](https://github.com/videlalvaro/Thumper) - A RabbitMQ pattern library.
@@ -133,12 +146,14 @@ This list contains PHP libraries related to web scraping and data processing
 ## Cloud Computing
 * TODO
 
+
 ## Email
 
 *Libraries for parsing email.*
 
 * [Email Reply Parser](https://github.com/willdurand/EmailReplyParser) - An email reply parser library.
 * [Email Validator](https://github.com/nojacko/email-validator) - A small email address validation library.
+
 
 ## URL Manipulation
 
@@ -147,6 +162,7 @@ This list contains PHP libraries related to web scraping and data processing
 * [Purl](https://github.com/jwage/purl) - A URL manipulation library.
 * [PHP Domain Parser](https://github.com/jeremykendall/php-domain-parser) - A domain suffix parser library.
 * [Uri](https://github.com/thephpleague/uri) (The PHP League) - A simple URL manipulation library (PSR-7 compatible).
+
 
 ## Web Content Extracting
 
@@ -157,6 +173,7 @@ This list contains PHP libraries related to web scraping and data processing
 * Video
   * [Youtube-Downloader](https://github.com/jeckman/YouTube-Downloader) - PHP script for downloading videos from youtube; also parsing youtube feed into RSS enclosures for podcatchers
 
+
 ## WebSocket
 
 *Libraries for working with WebSocket.*
@@ -165,20 +182,22 @@ This list contains PHP libraries related to web scraping and data processing
 * [Hoa WebSocket](https://github.com/hoaproject/Websocket) - Another web socket library.
 * [Elephant.io](https://github.com/Wisembly/Elephant.io) - Yet another web socket library.
 
+
 ## DNS Resolving
+
   * [Net_DNS2](https://github.com/mikepultz/netdns2) - Native PHP DNS Resolver and Updater
 
+
 ## Computer Vision
+
   * [OpenCV-for-PHP](https://github.com/mgdm/OpenCV-for-PHP) - An OpenCV binding for PHP
 
+
 ## Geocoding
+
 * [GeoCoder](http://geocoder-php.org/) - A geocoding library.
 * [GeoTools](https://github.com/php-loep/Geotools) - A library of geo-related tools.
 
-## API Clients
-*Libraries for working with remote web-scraping API*
-
-* [diffbot-php-client](https://github.com/Swader/diffbot-php-client/) - Diffbot API client
 
 ## Other PHP lists
 
