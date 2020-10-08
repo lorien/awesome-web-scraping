@@ -170,6 +170,7 @@ Libraries for parsing and manipulating plain texts.
 ### Text Processing :: Date and Time
 
 * [dateutil](https://github.com/dateutil/dateutil) - Useful extensions to the standard Python datetime features
+* [dateparser](https://github.com/scrapinghub/dateparser) - python parser for human readable dates
 
 ### Text Processing :: Price and Currency
 
@@ -270,7 +271,6 @@ Libraries for working with human languages.
 * [pymorphy2](https://github.com/kmike/pymorphy2) - Morphological analyzer (POS tagger + inflection engine) for Russian language.
 * [PyPLN](https://github.com/NAMD/pypln.backend) - A distributed pipeline for natural language processing, made in Python. he goal of the project is to create an easy way to use NLTK for processing big corpora, with a Web interface.
 * [langdetect](https://github.com/Mimino666/langdetect) - Port of Google's language-detection library to Python
-* [dateparser](https://github.com/scrapinghub/dateparser) - python parser for human readable dates
 
 ## Browser Automation
 
