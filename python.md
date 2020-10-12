@@ -171,6 +171,7 @@ Libraries for parsing and manipulating plain texts.
 ### Text Processing :: Date and Time
 
 * [dateutil](https://github.com/dateutil/dateutil) - Useful extensions to the standard Python datetime features
+* [dateparser](https://github.com/scrapinghub/dateparser) - python parser for human readable dates
 
 ### Text Processing :: Price and Currency
 
