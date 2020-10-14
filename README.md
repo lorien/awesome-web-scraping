@@ -23,6 +23,7 @@ Web scraping chats: [@grablab](https://t.me/grablab) (English) and [@grablab_ru]
 
 * [2captcha.com](https://2captcha.com/?from=3019071) - 2captcha.com
 * [anti-gate.com](http://getcaptchasolution.com/ijykrofoxz) - anti-gate.com
+* [AmazonCaptcha](https://github.com/a-maliarov/amazoncaptcha) - free Pillow-based solver for Amazon's text captcha
 
 ## Contributing
 
