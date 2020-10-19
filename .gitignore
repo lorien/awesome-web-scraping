@@ -1,6 +1,7 @@
 *.swp
 *.swo
 *.orig
+.idea
 
 html
 Pipfile.lock

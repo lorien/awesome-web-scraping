@@ -102,6 +102,7 @@ This list contains python libraries related to web scraping and data processing
 * [chopper](https://github.com/jurismarches/chopper) - Tool to extract a part from HTML page with corresponding CSS rules and preserving correct HTML.
 * [selectolax](https://github.com/rushter/selectolax) - Python bindings to Modest engine (fast HTML5 parser with CSS selectors).
 * [parsel](https://github.com/scrapy/parsel) - Lets you extract data from XML/HTML documents using XPath or CSS selectors.
+* [html5-parser](https://github.com/kovidgoyal/html5-parser) - Fast C based HTML 5 parsing for python.
 
 ### HTML/XML : Sanitizing
 
