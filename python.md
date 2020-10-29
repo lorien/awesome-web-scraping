@@ -79,6 +79,7 @@ This list contains python libraries related to web scraping and data processing
 * [requests-html](https://github.com/kennethreitz/requests-html) - Pythonic HTML Parsing for Humans.
 * [ScrapydWeb](https://github.com/my8100/scrapydweb) - A full-featured web UI for Scrapyd cluster management, which supports Scrapy Log Analysis & Visualization, Auto Packaging, Timer Tasks, Email Notice and so on.
 * [Starbelly](https://github.com/HyperionGray/starbelly) - Starbelly is a user-friendly and highly configurable web crawler front end.
+* [Gerapy](https://github.com/Gerapy/Gerapy) - Distributed Crawler Management Framework Based on Scrapy, Scrapyd, Django and Vue.js
 
 ### Web Scraping : Bypass Protection
 
