@@ -70,6 +70,8 @@ This list contains python libraries related to web scraping and data processing
 * [ruia](https://github.com/howie6879/ruia) - Async Python 3.6+ web scraping micro-framework based on asyncio
 * [ioweb](https://github.com/lorien/ioweb) - Web scraping framework based on gevent and lxml
 * [autoscraper](https://github.com/alirezamika/autoscraper) - A smart, automatic and lightweight web scraper
+* [frontera](https://github.com/scrapinghub/frontera) - A scalable frontier for web crawlers
+* [photon](https://github.com/s0md3v/Photon) - Incredibly fast crawler designed for OSINT
 
 
 ### Web Scraping : Tools
@@ -288,6 +290,7 @@ Libraries for working with human languages.
 * [Splash](https://github.com/scrapinghub/splash) - Lightweight, scriptable browser as a service with an HTTP API.
 * [pyppeteer](https://github.com/miyakogi/pyppeteer) - Headless chrome/chromium automation library (unofficial port of puppeteer)
 * [Playwright](https://github.com/microsoft/playwright-python) - Playwright is a Python library to automate Chromium, Firefox and WebKit browsers with a single API
+* [seleniumbase](https://github.com/seleniumbase/SeleniumBase) - Python framework for Web/UI testing + RPA. 🤖 🏰 Fast, easy, and reliable.
 
 ### Browser Automation : Tools
 
