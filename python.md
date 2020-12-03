@@ -71,7 +71,6 @@ This list contains python libraries related to web scraping and data processing
 * [ioweb](https://github.com/lorien/ioweb) - Web scraping framework based on gevent and lxml
 * [autoscraper](https://github.com/alirezamika/autoscraper) - A smart, automatic and lightweight web scraper
 * [frontera](https://github.com/scrapinghub/frontera) - A scalable frontier for web crawlers
-* [photon](https://github.com/s0md3v/Photon) - Incredibly fast crawler designed for OSINT
 
 
 ### Web Scraping : Tools
@@ -384,6 +383,7 @@ Libraries for extracting web contents.
 * [python-sitemap](https://github.com/c4software/python-sitemap) - Mini website crawler to make sitemap from a website.
 * [trafilatura](https://github.com/adbar/trafilatura) - Fast extraction of main text and comments along with structure, conversion to TXT, CSV & XML.
 * [advertools](https://github.com/eliasdabbas/advertools) - A customizable crawler to analyze SEO and content of pages and websites.
+* [photon](https://github.com/s0md3v/Photon) - Incredibly fast crawler designed for OSINT
 
 ## WebSocket
 
