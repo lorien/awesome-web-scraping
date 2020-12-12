@@ -58,6 +58,7 @@ This list contains python libraries related to web scraping and data processing
 * [pyOpenSSL](https://github.com/pyca/pyopenssl) - A Python wrapper around the OpenSSL library
 * [tlslite-ng](https://github.com/tomato42/tlslite-ng) - TLS implementation in pure python
 * [scapy](https://github.com/secdev/scapy) - powerful Python-based interactive packet manipulation program and library
+* [impacket](https://github.com/SecureAuthCorp/impacket/) - low-level programmatic access to the packets of network protocols
 
 ## Web Scraping
 
