@@ -23,4 +23,4 @@
   * [ScrapingBee](https://www.scrapingbee.com/) - A web scraping API that handles rotating proxies and headless browsers.
   * [SerpApi](https://serpapi.com/) - Real-time API to access structured search results of search engines.
   * [ScrapingAnt](https://scrapingant.com/) - Web Scraping API with thousands of residential proxies and headless Chrome cluster.
-  * [Zyte](https://www.zyte.com/) - Wweb data services and data extraction platform, also lead maintainers of Scrapy.
+  * [Zyte](https://www.zyte.com/) - Web data extraction services and platform, also lead maintainers of Scrapy.
