@@ -21,7 +21,7 @@ Web scraping chats: [@grablab](https://t.me/grablab) (English) and [@grablab_ru]
 
 ## Captcha Solving Services
 
-These two links points to same 2captcha/rucaptcha services, it is just a different language versions
+These two links point to same captcha service, it is just a different language versions
 
 * [2captcha.com](https://2captcha.com/?from=3019071) - English UI language
 * [rucaptcha.com](https://rucaptcha.com/?from=3019071) - Russian UI language
