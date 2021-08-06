@@ -24,3 +24,4 @@
   * [SerpApi](https://serpapi.com/) - Real-time API to access structured search results of search engines.
   * [ScrapingAnt](https://scrapingant.com/) - Web Scraping API with thousands of residential proxies and headless Chrome cluster.
   * [Zyte (formerly Scrapinghub)](https://www.zyte.com/) - Web data extraction services and platform, also lead maintainers of Scrapy.
+  * [ProxiesAPI](https://proxiesapi.com/) - Rotating proxies API with automatic retries, CAPTCHA handling and javacript rendering.
