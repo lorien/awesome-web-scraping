@@ -177,6 +177,7 @@ Libraries for parsing and manipulating plain texts.
 
 * [dateutil](https://github.com/dateutil/dateutil) - Useful extensions to the standard Python datetime features
 * [dateparser](https://github.com/scrapinghub/dateparser) - python parser for human readable dates
+* [ciso8601](https://github.com/closeio/ciso8601) - converts ISO 8601 or RFC 3339 date time strings into Python datetime objects
 
 ### Text Processing :: Price and Currency
 
