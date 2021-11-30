@@ -34,7 +34,7 @@ This list contains python libraries related to web scraping and data processing
 ### Network : General
 
 * [urllib](https://docs.python.org/3.4/library/urllib.html?highlight=urllib#module-urllib) - network library (stdlib)
-* [requests](https://github.com/kennethreitz/requests) - network library
+* [requests](https://github.com/kennethreitz/requests) - network library.
 * [grab](https://github.com/lorien/grab) - network library (pycurl based)
 * [pycurl](https://github.com/pycurl/pycurl) - network library (binding to [libcurl](http://curl.haxx.se/libcurl/))
 * [urllib3](https://github.com/shazow/urllib3) - Python HTTP library with thread-safe connection pooling, file post support, sanity friendly, and more.
@@ -44,21 +44,22 @@ This list contains python libraries related to web scraping and data processing
 * [mechanize](https://github.com/python-mechanize/mechanize) - Stateful programmatic web browsing.
 * [socket](https://docs.python.org/3/library/socket.html) low-level networking interface (stdlib)
 * [Unirest for Python](https://github.com/Mashape/unirest-python) - Unirest is a set of lightweight HTTP libraries available in multiple languages
-* [hyper](https://github.com/Lukasa/hyper) - HTTP/2 Client for Python
+* [hyper](https://github.com/Lukasa/hyper) - HTTP/2 Client for Python.
 * [PySocks](https://github.com/Anorov/PySocks) - Updated and actively maintained version of SocksiPy, with bug fixes and extra features. Acts as a drop-in replacement to the socket module.
 
 ### Network : Asynchronous
 
 * [treq](https://github.com/dreid/treq) - requests like API (twisted based)
 * [aiohttp](https://github.com/KeepSafe/aiohttp) - http client/server for asyncio (PEP-3156)
+* [HTTPX](https://github.com/encode/httpx) - fully featured HTTP client library that has support for both HTTP/1.1 and HTTP/2, and provides both sync and async APIs.
 
 ### Network : Low Level
 
-* [dpkt](https://github.com/kbandla/dpkt) - fast, simple packet creation / parsing, with definitions for the basic TCP/IP protocols
-* [pyOpenSSL](https://github.com/pyca/pyopenssl) - A Python wrapper around the OpenSSL library
-* [tlslite-ng](https://github.com/tomato42/tlslite-ng) - TLS implementation in pure python
-* [scapy](https://github.com/secdev/scapy) - powerful Python-based interactive packet manipulation program and library
-* [impacket](https://github.com/SecureAuthCorp/impacket/) - low-level programmatic access to the packets of network protocols
+* [dpkt](https://github.com/kbandla/dpkt) - fast, simple packet creation / parsing, with definitions for the basic TCP/IP protocols.
+* [pyOpenSSL](https://github.com/pyca/pyopenssl) - A Python wrapper around the OpenSSL library.
+* [tlslite-ng](https://github.com/tomato42/tlslite-ng) - TLS implementation in pure Python.
+* [scapy](https://github.com/secdev/scapy) - powerful Python-based interactive packet manipulation program and library.
+* [impacket](https://github.com/SecureAuthCorp/impacket/) - low-level programmatic access to the packets of network protocols.
 
 ## Web Scraping
 
@@ -68,10 +69,10 @@ This list contains python libraries related to web scraping and data processing
 * [scrapy](http://scrapy.org/) - web-scraping framework (twisted based).
 * [pyspider](https://github.com/binux/pyspider) - A powerful spider system.
 * [cola](https://github.com/chineking/cola) - A distributed crawling framework.
-* [ruia](https://github.com/howie6879/ruia) - Async Python 3.6+ web scraping micro-framework based on asyncio
-* [ioweb](https://github.com/lorien/ioweb) - Web scraping framework based on gevent and lxml
-* [autoscraper](https://github.com/alirezamika/autoscraper) - A smart, automatic and lightweight web scraper
-* [frontera](https://github.com/scrapinghub/frontera) - A scalable frontier for web crawlers
+* [ruia](https://github.com/howie6879/ruia) - Async Python 3.6+ web scraping micro-framework based on asyncio.
+* [ioweb](https://github.com/lorien/ioweb) - Web scraping framework based on gevent and lxml.
+* [autoscraper](https://github.com/alirezamika/autoscraper) - A smart, automatic and lightweight web scraper.
+* [frontera](https://github.com/scrapinghub/frontera) - A scalable frontier for web crawlers.
 
 
 ### Web Scraping : Tools
@@ -92,9 +93,9 @@ This list contains python libraries related to web scraping and data processing
 ### HTML/XML : General
 
 * [lxml](https://github.com/lxml/lxml/) - effective HTML/XML processing library. Supports XPATH. Written in C.
-* [cssselect](https://github.com/scrapy/cssselect) - working with DOM tree with CSS selectors
-* [pyquery](https://github.com/gawel/pyquery) - working with DOM tree with jQuery-like selectors
-* [BeautifulSoup](http://www.crummy.com/software/BeautifulSoup/bs4/doc/) - slow HTML/XMl processing library, written in pure python
+* [cssselect](https://github.com/scrapy/cssselect) - working with DOM tree with CSS selectors.
+* [pyquery](https://github.com/gawel/pyquery) - working with DOM tree with jQuery-like selectors.
+* [BeautifulSoup](http://www.crummy.com/software/BeautifulSoup/bs4/doc/) - slow HTML/XMl processing library, written in pure Python.
 * [html5lib](https://github.com/html5lib/html5lib-python) - builds DOM of HTML/XML document according to [WHATWG spec](url=http://www.whatwg.org/). That spec is used in all modern browsers.
 * [feedparser](https://github.com/kurtmckee/feedparser) - parsing of RSS/ATOM feeds.
 * [MarkupSafe](https://github.com/mitsuhiko/markupsafe) - Implements a XML/HTML/XHTML Markup safe string for Python.
@@ -105,7 +106,7 @@ This list contains python libraries related to web scraping and data processing
 * [chopper](https://github.com/jurismarches/chopper) - Tool to extract a part from HTML page with corresponding CSS rules and preserving correct HTML.
 * [selectolax](https://github.com/rushter/selectolax) - Python bindings to Modest engine (fast HTML5 parser with CSS selectors).
 * [parsel](https://github.com/scrapy/parsel) - Lets you extract data from XML/HTML documents using XPath or CSS selectors.
-* [html5-parser](https://github.com/kovidgoyal/html5-parser) - Fast C based HTML 5 parsing for python.
+* [html5-parser](https://github.com/kovidgoyal/html5-parser) - Fast C based HTML 5 parsing for Python.
 * [gazpacho](https://github.com/maxhumber/gazpacho/) - A simple, fast, and modern web scraping library. 
 
 ### HTML/XML : Sanitizing
@@ -167,17 +168,17 @@ Libraries for parsing and manipulating plain texts.
 * [uap-python](https://github.com/ua-parser/uap-python) - Python implementation of ua-parser
 * [python-user-agents](https://github.com/selwin/python-user-agents) - Browser user agent parser.
 * [fake-useragent](https://github.com/hellysmile/fake-useragent) - Python user agent string faker, based on world statistic of browsers
-* [user_agent](https://github.com/lorien/user_agent) - Generator of User-Agent data
+* [user_agent](https://github.com/lorien/user_agent) - Generator of User-Agent data.
 
 ### Text Processing : robots.txt
 
-* [reppy](https://github.com/seomoz/reppy) - Modern robots.txt Parser for Python
+* [reppy](https://github.com/seomoz/reppy) - Modern robots.txt Parser for Python.
     
 ### Text Processing :: Date and Time
 
-* [dateutil](https://github.com/dateutil/dateutil) - Useful extensions to the standard Python datetime features
-* [dateparser](https://github.com/scrapinghub/dateparser) - python parser for human readable dates
-* [ciso8601](https://github.com/closeio/ciso8601) - converts ISO 8601 or RFC 3339 date time strings into Python datetime objects
+* [dateutil](https://github.com/dateutil/dateutil) - Useful extensions to the standard Python datetime features.
+* [dateparser](https://github.com/scrapinghub/dateparser) - python parser for human readable dates.
+* [ciso8601](https://github.com/closeio/ciso8601) - converts ISO 8601 or RFC 3339 date time strings into Python datetime objects.
 
 ### Text Processing :: Price and Currency
 
@@ -208,14 +209,14 @@ Libraries for parsing and manipulating specific text formats.
 * [PDFMiner](https://github.com/euske/pdfminer) - A tool for extracting information from PDF documents.
 * [PyPDF2](https://github.com/mstamy2/PyPDF2) - A library capable of splitting, merging and transforming PDF pages.
 * [ReportLab](http://www.reportlab.com/opensource/) - Allowing Rapid creation of rich PDF documents.
-* [pdftables](https://pypi.python.org/pypi/pdftables) - Extract tables from PDF files directly
+* [pdftables](https://pypi.python.org/pypi/pdftables) - Extract tables from PDF files directly.
 
 ### Structured Formats : Markdown
 
 * [Python-Markdown](https://github.com/waylan/Python-Markdown) - A Python implementation of John Gruber’s Markdown.
 * [Mistune](https://github.com/lepture/mistune) - Fastest and full featured pure Python parsers of Markdown.
-* [markdown2](https://pypi.python.org/pypi/markdown2) - A fast and complete Python implementation of Markdown
-* [mistletoe](https://github.com/miyuchina/mistletoe) - A fast, extensible and spec-compliant Markdown parser in pure Python
+* [markdown2](https://pypi.python.org/pypi/markdown2) - A fast and complete Python implementation of Markdown.
+* [mistletoe](https://github.com/miyuchina/mistletoe) - A fast, extensible and spec-compliant Markdown parser in pure Python.
 
 ### Structured Formats : YAML
 
@@ -240,7 +241,7 @@ Libraries for parsing and manipulating specific text formats.
 
 ### Structured Formats : Microformats
 
-* [opengraph](https://github.com/erikriver/opengraph) - A Python module to parse the Open Graph Protocol tags
+* [opengraph](https://github.com/erikriver/opengraph) - A Python module to parse the Open Graph Protocol tags.
 
 ### Structured Formats :  Portable Executable
 
@@ -252,12 +253,12 @@ Libraries for parsing and manipulating specific text formats.
 
 ### Structured Formats : Bookmarks File
 
-* [bookmarks-parser](https://github.com/bookmarks-tools/bookmarks-parser) - Parses Firefox/Chrome HTML bookmarks files
+* [bookmarks-parser](https://github.com/bookmarks-tools/bookmarks-parser) - Parses Firefox/Chrome HTML bookmarks files.
 
 ## Serialization
 
-* [orjson](https://github.com/ijl/orjson) - Fast, correct Python JSON library supporting dataclasses and datetimes
-* [ujson](https://github.com/esnme/ultrajson) - Ultra fast JSON decoder and encoder written in C with Python bindings
+* [orjson](https://github.com/ijl/orjson) - Fast, correct Python JSON library supporting dataclasses and datetimes.
+* [ujson](https://github.com/esnme/ultrajson) - Ultra fast JSON decoder and encoder written in C with Python bindings.
 
 ## Natural Language Processing
 
@@ -265,8 +266,8 @@ Libraries for working with human languages.
 
 * [NLTK](http://www.nltk.org/) - A leading platform for building Python programs to work with human language data.
 * [spacy](https://github.com/explosion/spaCy) - Enables using State-of-the-Art Deep Learning models for common NLP tasks.
-* [fastai](https://github.com/fastai/fastai) - Deep Learning library with free video tutorials + active forum community, downside of lib: GPU needed
-* [gensim](https://github.com/RaRe-Technologies/gensim) -  library for topic modeling, document indexing and similarity retrieval with large corpora
+* [fastai](https://github.com/fastai/fastai) - Deep Learning library with free video tutorials + active forum community, downside of lib: GPU needed.
+* [gensim](https://github.com/RaRe-Technologies/gensim) -  library for topic modeling, document indexing and similarity retrieval with large corpora.
 * [Pattern](http://www.clips.ua.ac.be/pattern) - A web mining module for the Python. It has tools for natural language processing, machine learning, among others.
 * [TextBlob](http://textblob.readthedocs.org/) - Providing a consistent API for diving into common NLP tasks. Stands on the giant shoulders of NLTK and Pattern.
 * [jieba](https://github.com/fxsjy/jieba) - Chinese Words Segmentation Utilities.
@@ -277,7 +278,7 @@ Libraries for working with human languages.
 * [Korean](https://korean.readthedocs.org/) - A library for [Korean](http://en.wikipedia.org/wiki/Korean_language) morphology.
 * [pymorphy2](https://github.com/kmike/pymorphy2) - Morphological analyzer (POS tagger + inflection engine) for Russian language.
 * [PyPLN](https://github.com/NAMD/pypln.backend) - A distributed pipeline for natural language processing, made in Python. he goal of the project is to create an easy way to use NLTK for processing big corpora, with a Web interface.
-* [langdetect](https://github.com/Mimino666/langdetect) - Port of Google's language-detection library to Python
+* [langdetect](https://github.com/Mimino666/langdetect) - Port of Google's language-detection library to Python.
 
 ## Browser Automation
 
@@ -290,7 +291,7 @@ Libraries for working with human languages.
 * [Requestium](https://github.com/tryolabs/requestium) - Integration layer between Requests and Selenium for automation of web actions.
 * [Splash](https://github.com/scrapinghub/splash) - Lightweight, scriptable browser as a service with an HTTP API.
 * [pyppeteer](https://github.com/miyakogi/pyppeteer) - Headless chrome/chromium automation library (unofficial port of puppeteer)
-* [Playwright](https://github.com/microsoft/playwright-python) - Playwright is a Python library to automate Chromium, Firefox and WebKit browsers with a single API
+* [Playwright](https://github.com/microsoft/playwright-python) - Playwright is a Python library to automate Chromium, Firefox and WebKit browsers with a single API.
 * [seleniumbase](https://github.com/seleniumbase/SeleniumBase) - Python framework for Web/UI testing + RPA. 🤖 🏰 Fast, easy, and reliable.
 
 ### Browser Automation : Tools
@@ -299,7 +300,7 @@ Libraries for working with human languages.
 
 ## Multiprocessing
 
-* [threading](http://docs.python.org/3/library/threading.html) - standard python library to run threads. Effective for I/O-bound tasks. Useless for CPU-bound tasks because of python GIL.
+* [threading](http://docs.python.org/3/library/threading.html) - standard python library to run threads. Effective for I/O-bound tasks. Useless for CPU-bound tasks because of Python GIL.
 * [multiprocessing](http://docs.python.org/3/library/multiprocessing.html) - standard python library to run processes.
 * [concurrent-futures](https://docs.python.org/3/library/concurrent.futures.html) - The concurrent.futures module provides a high-level interface for asynchronously executing callables.
 
