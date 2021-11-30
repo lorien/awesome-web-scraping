@@ -210,6 +210,7 @@ Libraries for parsing and manipulating specific text formats.
 * [PyPDF2](https://github.com/mstamy2/PyPDF2) - A library capable of splitting, merging and transforming PDF pages.
 * [ReportLab](http://www.reportlab.com/opensource/) - Allowing Rapid creation of rich PDF documents.
 * [pdftables](https://pypi.python.org/pypi/pdftables) - Extract tables from PDF files directly.
+* [Camelot](https://github.com/camelot-dev/camelot) - A Python library to extract tables from PDFs.
 
 ### Structured Formats : Markdown
 
@@ -352,7 +353,7 @@ Libraries for parsing/modifying URLs, network addresses, domain names.
 ### URL and Network Address : URL
 
 * [furl](https://github.com/gruns/furl) - A small Python library that makes manipulating URLs simple.
-* [purl](https://github.com/codeinthehole/purl) - A simple, immutable URL class with a clean API for interrogation and manipulation.
+* [purl](https://github.com/codeinthehole/purl) - A simple, immutable URL class with a clean API for interrogation and manipulatiзваon.
 * [urllib.parse](https://docs.python.org/3/library/urllib.parse.html) - interface to break Uniform Resource Locator (URL) strings up in components (addressing scheme, network location, path etc.), to combine the components back into a URL string, and to convert a “relative URL” to an absolute URL given a “base URL.” (stdlib)
 
 ### URL and Network Address : Network Address
