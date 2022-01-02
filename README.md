@@ -26,6 +26,9 @@ These two links point to same captcha service, it is just a different language v
 * [2captcha.com](https://2captcha.com/?from=3019071) - English UI language
 * [rucaptcha.com](https://rucaptcha.com/?from=3019071) - Russian UI language
 
+This is another captcha service
+* [anti-captcha.com](http://getcaptchasolution.com/geomwp7s5l) - Many UI languages
+
 ## Contributing
 
 See [Contributing](https://github.com/lorien/web-scraping/blob/master/CONTRIBUTING.md) document.
