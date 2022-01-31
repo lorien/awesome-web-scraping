@@ -26,4 +26,5 @@
   * [Zyte (formerly Scrapinghub)](https://www.zyte.com/) - Web data extraction services and platform, also lead maintainers of Scrapy.
   * [ProxiesAPI](https://proxiesapi.com/) - Rotating proxies API with automatic retries, CAPTCHA handling and javacript rendering.
   * [ZenRows](https://www.zenrows.com/) - Web Scraping API & proxy server that bypasses any anti-bot solution while offering javascript rendering, rotating proxies, and geotargeting.
+  * [ScrapeNinja](https://scrapeninja.net/) - high performance Web Scraping API which [emulates Chrome TLS fingerprint](https://pixeljets.com/blog/scrape-ninja-bypassing-cloudflare-403-code-1020-errors/) to bypass anti-bot systems without launching Puppeteer, and leverages rotating proxies, retries and geo-targeting under the hood.
 
