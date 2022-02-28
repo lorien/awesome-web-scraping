@@ -151,7 +151,7 @@ Libraries for parsing and manipulating plain texts.
 ### Text Processing : General Parser
 
 * [PLY](http://www.dabeaz.com/ply/) - Implementation of lex and yacc parsing tools for Python
-* [pyparsing](http://pyparsing.wikispaces.com/) - A general purpose framework for generating parsers.
+* [pyparsing](https://github.com/pyparsing/pyparsing) - A general purpose framework for generating parsers.
 
 ### Text Processing : Human Names
 
