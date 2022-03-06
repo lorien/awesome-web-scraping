@@ -4,7 +4,7 @@ The list of tools, programming libraries and web services used in web scraping a
 
 Web scraping chats: [@grablab](https://t.me/grablab) (English) and [@grablab_ru](https://t.me/grablab_ru) (Russian)
 
-[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) [![jaywcjlove/sb](https://wangchujiang.com/sb/lang/chinese.svg)](https://github.com/Germey/AwesomeWebScraping)
+[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) [![Germey/AwesomeWebScraping](https://wangchujiang.com/sb/lang/chinese.svg)](https://github.com/Germey/AwesomeWebScraping)
 
 ## Programming Libraries
 
