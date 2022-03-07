@@ -423,6 +423,7 @@ Libraries for working with WebSocket.
 * [twitter-scraper](https://github.com/bisguzar/twitter-scraper) - Scrape the Twitter Frontend API without authentication
 * [Ultimate-Facebook-Scraper](https://github.com/harismuneer/Ultimate-Facebook-Scraper) - A bot which scrapes almost everything about a Facebook user's profile
 * [instagram-scraper](https://github.com/rarcega/instagram-scraper) - Scrapes an instagram user's photos and videos
+* [dribbble-py](https://github.com/rand-net/dribbble-py) - Scrapes an dribble user's profile
 
 ## JavaScript Engine Bindings
 
