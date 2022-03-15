@@ -26,4 +26,5 @@
   * [Zyte (formerly Scrapinghub)](https://www.zyte.com/) - Web data extraction services and platform, also lead maintainers of Scrapy.
   * [ProxiesAPI](https://proxiesapi.com/) - Rotating proxies API with automatic retries, CAPTCHA handling and javacript rendering.
   * [ZenRows](https://www.zenrows.com/) - Web Scraping API & proxy server that bypasses any anti-bot solution while offering javascript rendering, rotating proxies, and geotargeting.
-
+  * [Data Collector](https://brightdata.com/products/data-collector/) - Pre-made collector templates for immediate scraping &
+advanced customization for browser scripting in simple JavaScript with built-in functions.
