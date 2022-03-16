@@ -25,8 +25,9 @@ This list contains python libraries related to web scraping and data processing
 * [Computer Vision](#computer-vision)
 * [Proxy Server](#proxy-server)
 * [Whois](#whois)
-* [Website Specific Scraper](#site-specific-scraper)
+* [Website Specific Scraper](#website-specific-scraper)
 * [JavaScript Engine Bindings](#javascript-engine-bindings)
+* [Captcha Solving](#captcha-solving)
 * [Other Python Lists](#other-python-lists)
 
 ## Network
@@ -429,6 +430,11 @@ Libraries for working with WebSocket.
 
 * [Js2Py](https://github.com/PiotrDabkowski/Js2Py) - JavaScript to Python Translator & JavaScript interpreter written in 100% pure Python
 * [v8eval](https://github.com/sony/v8eval/) - Multi-language bindings to JavaScript engine V8
+
+## Captcha Solving
+* [captcha_solver](https://github.com/lorien/captcha_solver) - Universal python API to captcha solving services
+* [python-anticaptcha](https://github.com/ad-m/python-anticaptcha) - Client library for solve captchas with anti-captcha.com support
+* [python3-anticaptcha](https://github.com/AndreiDrang/python3-anticaptcha) - Python library for anti-captcha services
 
 ## Other python lists
 
