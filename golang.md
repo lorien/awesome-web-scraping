@@ -188,7 +188,7 @@ This list contains Golang libraries related to web scraping and data processing
 ## Proxy Server
 
 * [gin](https://github.com/codegangsta/gin) - Live reload utility for Go web servers.
-* [Caddy](https://github.com/mholt/caddy) - Fast, cross-platform HTTP/2 web server with automatic HTTPS, also can serve as a reverse proxy server.
+* [Caddy](https://github.com/caddyserver/caddy) - Fast, cross-platform HTTP/2 web server with automatic HTTPS, also can serve as a reverse proxy server.
 
 ## Other Golang lists
 
