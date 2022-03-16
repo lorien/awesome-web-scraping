@@ -1,10 +1,6 @@
-# Contributing
+# How to Contribute
 
-Your contributions are always welcome!
-
-## Guidelines
-
-* Clone the web-scraping repo
+* Clone the awesome-web-scraping repo
 * Add section if needed:
     * Add section description
     * Add section title to Table of contents
