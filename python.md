@@ -65,16 +65,15 @@ This list contains python libraries related to web scraping and data processing
 
 ### Web Scraping : Frameworks
 
-* [grab](https://github.com/lorien/grab) - web-scraping framework (pycurl/multicurl based)
 * [scrapy](https://github.com/scrapy/scrapy) - web-scraping framework (twisted based).
 * [pyspider](https://github.com/binux/pyspider) - A powerful spider system.
-* [cola](https://github.com/chineking/cola) - A distributed crawling framework.
-* [ruia](https://github.com/howie6879/ruia) - Async Python 3.6+ web scraping micro-framework based on asyncio
-* [ioweb](https://github.com/lorien/ioweb) - Web scraping framework based on gevent and lxml
 * [autoscraper](https://github.com/alirezamika/autoscraper) - A smart, automatic and lightweight web scraper
+* [grab](https://github.com/lorien/grab) - web-scraping framework (pycurl/multicurl based)
+* [ruia](https://github.com/howie6879/ruia) - Async Python 3.6+ web scraping micro-framework based on asyncio
+* [cola](https://github.com/chineking/cola) - A distributed crawling framework.
 * [frontera](https://github.com/scrapinghub/frontera) - A scalable frontier for web crawlers
 * [dude](https://github.com/roniemartinez/dude) - A simple framework for writing web scrapers using decorators.
-
+* [ioweb](https://github.com/lorien/ioweb) - Web scraping framework based on gevent and lxml
 
 ### Web Scraping : Tools
 
