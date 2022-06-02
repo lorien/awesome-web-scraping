@@ -27,7 +27,7 @@ This list contains PHP libraries related to web scraping and data processing
 
 ## Network
 
-* [Guzzle]( https://github.com/guzzle/guzzle) - A comprehensive HTTP client.
+* [Guzzle](https://github.com/guzzle/guzzle) - A comprehensive HTTP client.
 * [Buzz](https://github.com/kriswallsmith/Buzz) - Another HTTP client.
 * [Requests](https://github.com/rmccue/Requests) - A simple HTTP library.
 * [HTTPFul](https://github.com/nategood/httpful) - A chainable HTTP client.
@@ -36,7 +36,7 @@ This list contains PHP libraries related to web scraping and data processing
 
 
 ## Web-Scraping Frameworks
-* TODO
+* [Crawler](https://github.com/crwlrsoft/crawler) - (crwlr) - Library for Rapid (Web) Crawler and Scraper Development
 
 
 ## HTML/XML Parsing
@@ -44,6 +44,7 @@ This list contains PHP libraries related to web scraping and data processing
 * [QueryPath](https://github.com/technosophos/querypath) - a jQuery-like library for working with XML and HTML documents in PHP. It now contains support for HTML5 via the HTML5-PHP project.
 * [DiDOM](https://github.com/Imangazaliev/DiDOM) - super fast HTML parser (because it was build on top of plain PHP).
 * [PHPScraper](https://github.com/spekulatius/phpscraper) - an highly opinionated web-interface.
+* [DomCrawler](https://github.com/symfony/dom-crawler) - (Symfony) - The DomCrawler component eases DOM navigation for HTML and XML documents.
 
 
 ## Text Processing
@@ -162,6 +163,7 @@ This list contains PHP libraries related to web scraping and data processing
 * [Purl](https://github.com/jwage/purl) - A URL manipulation library.
 * [PHP Domain Parser](https://github.com/jeremykendall/php-domain-parser) - A domain suffix parser library.
 * [Uri](https://github.com/thephpleague/uri) (The PHP League) - A simple URL manipulation library (PSR-7 compatible).
+* [Url](https://github.com/crwlrsoft/url) (crwlr) - Swiss Army knife for urls.
 
 
 ## Web Content Extracting
