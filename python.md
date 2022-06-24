@@ -173,7 +173,7 @@ Libraries for parsing and manipulating plain texts.
 ### Text Processing : robots.txt
 
 * [reppy](https://github.com/seomoz/reppy) - Modern robots.txt Parser for Python
-    
+
 ### Text Processing :: Date and Time
 
 * [dateutil](https://github.com/dateutil/dateutil) - Useful extensions to the standard Python datetime features
