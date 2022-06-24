@@ -173,7 +173,7 @@ Libraries for parsing and manipulating plain texts.
 ### Text Processing : robots.txt
 
 * [reppy](https://github.com/seomoz/reppy) - Modern robots.txt Parser for Python
-    
+
 ### Text Processing :: Date and Time
 
 * [dateutil](https://github.com/dateutil/dateutil) - Useful extensions to the standard Python datetime features
@@ -415,7 +415,7 @@ Libraries for working with WebSocket.
 * [ProxyBroker](https://github.com/constverum/Proxybroker) - Proxy [Finder | Checker | Server]. HTTP(S) & SOCKS
 * [shadowsocks](https://github.com/shadowsocks/shadowsocks) - A fast tunnel proxy that helps you bypass firewalls (TCP & UDP support, User management API, TCP Fast Open, Workers and graceful restart, Destination IP blacklist)
 * [tproxy](https://github.com/benoitc/tproxy) - tproxy is a simple TCP routing proxy (layer 7) built on Gevent that lets you configure the routine logic in Python
-  
+
 ## Whois
 
 * [python-whois](https://github.com/joepie91/python-whois) - A python module for retrieving and parsing WHOIS data
