@@ -6,6 +6,7 @@
   * [ProxyCrawl](https://proxycrawl.com) - Crawl and scrape any website without blocks, captchas or proxies
   * [ScraperAPI](https://www.scraperapi.com) - A service that manages proxies
     and headless browsers, exposing a single API endpoint to scrape any url.
+  * [Scraping Fish](https://scrapingfish.com) - The simplest API for web scraping without getting blocked powered by 4G/LTE proxy.
   * [import.io](https://import.io/)
   * [ScraperWiki](https://scraperwiki.com/about)
   * [Mozenda](https://www.mozenda.com/)
