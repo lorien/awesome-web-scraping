@@ -435,6 +435,7 @@ Libraries for working with WebSocket.
 * [captcha_solver](https://github.com/lorien/captcha_solver) - Universal python API to captcha solving services
 * [python-anticaptcha](https://github.com/ad-m/python-anticaptcha) - Client library for solve captchas with anti-captcha.com support
 * [python3-anticaptcha](https://github.com/AndreiDrang/python3-anticaptcha) - Python library for anti-captcha services
+* [unicaps](https://github.com/sergey-scat/unicaps) - a unified Python API for CAPTCHA solving services
 
 ## Other python lists
 
