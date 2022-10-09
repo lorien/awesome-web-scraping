@@ -37,6 +37,7 @@ This list contains PHP libraries related to web scraping and data processing
 
 ## Web-Scraping Frameworks
 * [Crawler](https://github.com/crwlrsoft/crawler) - (crwlr) - Library for Rapid (Web) Crawler and Scraper Development
+* [Roach](https://github.com/roach-php/core) - It is port of the popular Scrapy package for Python. Include adapter to Laravel and Symfony
 
 
 ## HTML/XML Parsing
