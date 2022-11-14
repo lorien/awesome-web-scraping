@@ -1,6 +1,6 @@
 # 🇷🇺 Awesome Web Scraping
 
-The list of tools, programming libraries and web services used in web scraping and data processing.
+The list of tools, programming libraries and web services used for web scraping and data processing.
 
 ## Programming Libraries
 
