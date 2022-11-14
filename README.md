@@ -2,8 +2,6 @@
 
 The list of tools, programming libraries and web services used in web scraping and data processing.
 
-Web scraping chats: [@grablab](https://t.me/grablab) (English) and [@grablab_ru](https://t.me/grablab_ru) (Russian)
-
 ## Programming Libraries
 
 * [Python](http://github.com/lorien/web-scraping/blob/master/python.md)
@@ -25,6 +23,11 @@ These two links point to same captcha service, it is just a different language v
 
 * [2captcha.com](https://2captcha.com/?from=3019071) - English UI language
 * [rucaptcha.com](https://rucaptcha.com/?from=3019071) - Russian UI language
+
+## Telegram Groups about Web Scraping
+
+* [@grablab](https://t.me/grablab) - talks in English
+* [@grablab_ru](https://t.me/grablab_ru) - talks in Russian
 
 ## Contributing
 
