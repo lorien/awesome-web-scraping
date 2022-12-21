@@ -194,7 +194,6 @@ Libraries for parsing and manipulating specific text formats.
 * [textract](https://github.com/deanmalmgren/textract) - Extract text from any document, Word, PowerPoint, PDFs, etc.
 * [messytables](https://github.com/okfn/messytables) - Tools for parsing messy tabular data
 * [rows](https://github.com/turicas/rows) - A common, beautiful interface to tabular data, no matter the format (currently CSV, HTML, XLS, TXT -- more coming!)
-* [chompjs](https://github.com/Nykakin/chompjs) - Parsing JavaScript objects into Python dictionaries
 
 ### Structured Formats : Office
 
@@ -255,6 +254,9 @@ Libraries for parsing and manipulating specific text formats.
 ### Structured Formats : Bookmarks File
 
 * [bookmarks-parser](https://github.com/bookmarks-tools/bookmarks-parser) - Parses Firefox/Chrome HTML bookmarks files
+
+### Structured Formats : JavaScript Object
+* [chompjs](https://github.com/Nykakin/chompjs) - Parsing JavaScript objects into Python dictionaries
 
 ## Serialization
 
