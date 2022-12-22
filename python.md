@@ -255,6 +255,9 @@ Libraries for parsing and manipulating specific text formats.
 
 * [bookmarks-parser](https://github.com/bookmarks-tools/bookmarks-parser) - Parses Firefox/Chrome HTML bookmarks files
 
+### Structured Formats : JavaScript Object
+* [chompjs](https://github.com/Nykakin/chompjs) - Parsing JavaScript objects into Python dictionaries
+
 ## Serialization
 
 * [orjson](https://github.com/ijl/orjson) - Fast, correct Python JSON library supporting dataclasses and datetimes
