@@ -4,16 +4,17 @@ The list of tools, programming libraries and web services used for web scraping 
 
 ## Programming Libraries
 
-* [Python](http://github.com/lorien/web-scraping/blob/master/python.md)
-* [PHP](http://github.com/lorien/web-scraping/blob/master/php.md)
-* [Ruby](http://github.com/lorien/web-scraping/blob/master/ruby.md)
-* [JavaScript](http://github.com/lorien/web-scraping/blob/master/javascript.md)
-* [Go](http://github.com/lorien/web-scraping/blob/master/golang.md)
+* [Python](https://github.com/lorien/web-scraping/blob/master/python.md)
+* [PHP](https://github.com/lorien/web-scraping/blob/master/php.md)
+* [Ruby](https://github.com/lorien/web-scraping/blob/master/ruby.md)
+* [JavaScript](https://github.com/lorien/web-scraping/blob/master/javascript.md)
+* [Go](https://github.com/lorien/web-scraping/blob/master/golang.md)
 
 ## Other Things
 
-* [Web Scraping Services](http://github.com/lorien/web-scraping/blob/master/web_services.md)
-* [Console tools](http://github.com/lorien/web-scraping/blob/master/console_tools.md)
+* [Learning Web Scraping](https://github.com/lorien/learning-web-scraping) - list of articles and books teaching web scraping
+* [Web Scraping Services](https://github.com/lorien/web-scraping/blob/master/web_services.md)
+* [Console tools](https://github.com/lorien/web-scraping/blob/master/console_tools.md)
 * [dhamaniasad / HeadlessBrowsers](https://github.com/dhamaniasad/HeadlessBrowsers) - a list of (almost) all headless web browsers in existence
 * [DNS over HTTPS providers](https://github.com/curl/curl/wiki/DNS-over-HTTPS) - list of DNS over HTTPs providers
 
