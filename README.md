@@ -15,7 +15,6 @@ Feel free to give feedback or ask web scraping questions in Telegram groups:  [@
 ## Other Things
 
 * [Learning Web Scraping](https://github.com/lorien/learning-web-scraping) - list of articles and books teaching web scraping
-* [Web Scraping Services](https://github.com/lorien/web-scraping/blob/master/web_services.md)
 * [Console tools](https://github.com/lorien/web-scraping/blob/master/console_tools.md)
 * [dhamaniasad / HeadlessBrowsers](https://github.com/dhamaniasad/HeadlessBrowsers) - a list of (almost) all headless web browsers in existence
 * [DNS over HTTPS providers](https://github.com/curl/curl/wiki/DNS-over-HTTPS) - list of DNS over HTTPs providers
