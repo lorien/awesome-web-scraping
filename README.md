@@ -24,8 +24,8 @@ Feel free to give feedback or ask web scraping questions in Telegram groups:  [@
 
 These two links point to same captcha service, it is just a different language versions
 
-* [2captcha.com](https://2captcha.com/?from=3019071) - English UI language
-* [rucaptcha.com](https://rucaptcha.com/?from=3019071) - Russian UI language
+* [https://2captcha.com](https://2captcha.com/?from=3019071) - English UI language
+* [https://rucaptcha.com](https://rucaptcha.com/?from=3019071) - Russian UI language
 
 ## Proxy Server Marketplaces
 
