@@ -27,9 +27,16 @@ These two links point to same captcha service, it is just a different language v
 * [2captcha.com](https://2captcha.com/?from=3019071) - English UI language
 * [rucaptcha.com](https://rucaptcha.com/?from=3019071) - Russian UI language
 
-## Contributing
+## Proxy Server Marketplaces
 
-See [Contributing](https://github.com/lorien/web-scraping/blob/master/CONTRIBUTING.md) document.
+Larget marketplaces in the world which contain offers from hundreds sellers and services:
+
+* https://www.blackhatworld.com/forums/proxies-for-sale.112/
+* https://forum.antichat.com/forums/147/
+
+## How to Contribute to this List
+
+See [Contributing](https://github.com/lorien/web-scraping/blob/master/CONTRIBUTING.md) guide.
 
 ## Credits
 
