@@ -29,7 +29,7 @@ These two links point to same captcha service, it is just a different language v
 
 ## Proxy Server Marketplaces
 
-Larget marketplaces in the world which contain offers from hundreds sellers and services:
+Largest marketplaces in the world which contain offers from hundreds sellers and services:
 
 * https://www.blackhatworld.com/forums/proxies-for-sale.112/
 * https://forum.antichat.com/forums/147/
