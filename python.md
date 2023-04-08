@@ -74,6 +74,7 @@ This list contains python libraries related to web scraping and data processing
 * [frontera](https://github.com/scrapinghub/frontera) - A scalable frontier for web crawlers
 * [dude](https://github.com/roniemartinez/dude) - A simple framework for writing web scrapers using decorators.
 * [ioweb](https://github.com/lorien/ioweb) - Web scraping framework based on gevent and lxml
+* scrapyd - scrapy distributed deployment.
 
 ### Web Scraping : Tools
 
