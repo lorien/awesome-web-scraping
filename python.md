@@ -262,6 +262,9 @@ Libraries for parsing and manipulating specific text formats.
 
 * [orjson](https://github.com/ijl/orjson) - Fast, correct Python JSON library supporting dataclasses and datetimes
 * [ujson](https://github.com/esnme/ultrajson) - Ultra fast JSON decoder and encoder written in C with Python bindings
+* [msgspec](https://github.com/jcrist/msgspec) - A fast serialization and validation library, with builtin support for JSON, MessagePack, YAML, and TOML
+* [msgpack](https://github.com/msgpack/msgpack-python) - MessagePack serializer implementation for Python
+* [padantic](https://github.com/pydantic/pydantic) - Data validation using Python type hints
 
 ## Natural Language Processing
 
