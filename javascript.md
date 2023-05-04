@@ -2,26 +2,26 @@
 
 This list contains JavaScript libraries related to web scraping and data processing. The content of that list is focused on libs that could be run in nodejs (without real web-browser).
 
-* [JavaScript Web Scraping](#javascript-web-scraping)
-   * [Network](#network)
-   * [Web-scraping Frameworks](#web-scraping-frameworks)
-   * [HTML/XML Parsing](#htmlxml-parsing)
-   * [Text processing](#text-processing)
-   * [Specific Formats Processing](#specific-formats-processing)
-   * [Natural Language Processing](#natural-language-processing)
-   * [Browser automation and emulation](#browser-automation-and-emulation)
-   * [Multiprocessing](#multiprocessing)
-   * [Queue](#queue)
-   * [Email](#email)
-   * [URL and Network Address Manipulation](#url-and-network-address-manipulation)
-   * [Web Content Extracting](#web-content-extracting)
-   * [Asynchronous](#asynchronous)
-   * [WebSocket](#websocket)
-   * [DNS Resolving](#dns-resolving)
-   * [Computer Vision](#computer-vision)
-   * [Proxy Server](#proxy-server)
-   * [Other JavaScript Lists](#other-javascript-lists)
-   * [Data Structure](#data-structure)
+- [JavaScript Web Scraping](#javascript-web-scraping)
+  - [Network](#network)
+  - [Web-Scraping Frameworks](#web-scraping-frameworks)
+  - [HTML/XML Parsing](#htmlxml-parsing)
+  - [Text Processing](#text-processing)
+  - [Specific Formats Processing](#specific-formats-processing)
+  - [Natural Language Processing](#natural-language-processing)
+  - [Browser automation and emulation](#browser-automation-and-emulation)
+  - [Multiprocessing](#multiprocessing)
+  - [Asynchronous](#asynchronous)
+  - [Queue](#queue)
+  - [Email](#email)
+  - [URL and Network Address Manipulation](#url-and-network-address-manipulation)
+  - [Web Content Extracting](#web-content-extracting)
+  - [WebSocket](#websocket)
+  - [DNS Resolving](#dns-resolving)
+  - [Computer Vision](#computer-vision)
+  - [Proxy Server](#proxy-server)
+  - [Data Structure](#data-structure)
+  - [Other JavaScript lists](#other-javascript-lists)
 
 ## Network
 * [request](https://github.com/request/request) - Simplified HTTP request client.
@@ -43,6 +43,8 @@ This list contains JavaScript libraries related to web scraping and data process
 * [Crawlee](https://github.com/apify/crawlee) - Node.js and TypeScript library that crawls with Cheerio, JSDOM, Playwright and Puppeteer while enhancing them with anti-blocking features, queue, storages and more.
 * [Ayakashi](https://github.com/ayakashi-io/ayakashi) - The next generation web scraping framework. Features all the necessary tools to create reliable and maintainable scraping and automation systems.
 * [pjscrape](https://github.com/nrabinowitz/pjscrape) - A web-scraping framework written in Javascript, using PhantomJS and jQuery
+* [spidey](https://github.com/asad-haider/spidey) - A Robust web scraping tool with advanced features such as concurrent processing, CSS/XPath parsing, and custom data pipelines.
+* [spidey-redis](https://github.com/asad-haider/spidey-redis) - A distributed web scraping tool powered by Redis and Spidey for distributed crawling and data processing.
 
 ## HTML/XML Parsing
 * General
