@@ -65,6 +65,7 @@ This list contains python libraries related to web scraping and data processing
 
 ### Web Scraping : Frameworks
 
+* [Bose](https://github.com/omkarcloud/bose) - A Bot Development Framework
 * [scrapy](https://github.com/scrapy/scrapy) - web-scraping framework (twisted based).
 * [pyspider](https://github.com/binux/pyspider) - A powerful spider system.
 * [autoscraper](https://github.com/alirezamika/autoscraper) - A smart, automatic and lightweight web scraper
