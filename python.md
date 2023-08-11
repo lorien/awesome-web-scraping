@@ -36,7 +36,6 @@ This list contains python libraries related to web scraping and data processing
 
 * [urllib](https://docs.python.org/3.4/library/urllib.html?highlight=urllib#module-urllib) - network library (stdlib)
 * [requests](https://github.com/kennethreitz/requests) - network library
-* [grab](https://github.com/lorien/grab) - network library (pycurl based)
 * [pycurl](https://github.com/pycurl/pycurl) - network library (binding to [libcurl](http://curl.haxx.se/libcurl/))
 * [urllib3](https://github.com/shazow/urllib3) - Python HTTP library with thread-safe connection pooling, file post support, sanity friendly, and more.
 * [httplib2](https://github.com/httplib2/httplib2) - Small, fast HTTP client library. Features persistent connections, cache, and Google App Engine support.
@@ -68,12 +67,10 @@ This list contains python libraries related to web scraping and data processing
 * [scrapy](https://github.com/scrapy/scrapy) - web-scraping framework (twisted based).
 * [pyspider](https://github.com/binux/pyspider) - A powerful spider system.
 * [autoscraper](https://github.com/alirezamika/autoscraper) - A smart, automatic and lightweight web scraper
-* [grab](https://github.com/lorien/grab) - web-scraping framework (pycurl/multicurl based)
 * [ruia](https://github.com/howie6879/ruia) - Async Python 3.6+ web scraping micro-framework based on asyncio
 * [cola](https://github.com/chineking/cola) - A distributed crawling framework.
 * [frontera](https://github.com/scrapinghub/frontera) - A scalable frontier for web crawlers
 * [dude](https://github.com/roniemartinez/dude) - A simple framework for writing web scrapers using decorators.
-* [ioweb](https://github.com/lorien/ioweb) - Web scraping framework based on gevent and lxml
 
 ### Web Scraping : Tools
 
@@ -370,7 +367,7 @@ Libraries for parsing/modifying URLs, network addresses, domain names.
 ### Domain Names
 
 * [tldextract](https://github.com/john-kurkowski/tldextract) - Accurately separate the TLD from the registered domain and subdomains of a URL, using the Public Suffix List.
-* [find_domains](https://github.com/lorien/find_domains) - a library to search for domain names in text data
+* [find_domains](https://github.com/rushter/find_domains) - a library to search for domain names in text data
 
 ## Web Content Extraction
 
