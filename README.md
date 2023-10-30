@@ -2,10 +2,6 @@
 
 Lists of packages, services and manuals related to web scraping.
 
-## Telegram Discussion Groups
-* [@grablab](https://t.me/grablab) - English talks
-* [@grablab_ru](https://t.me/grablab_ru) - Russian talks
-
 ## Topics
 
 * [Python](https://github.com/lorien/web-scraping/blob/master/python.md) - Python packages
@@ -25,6 +21,10 @@ Lists of packages, services and manuals related to web scraping.
 
 * https://www.blackhatworld.com/forums/proxies-for-sale.112/
 * https://forum.antichat.com/forums/147/
+
+## Telegram Discussion Groups
+* [@grablab](https://t.me/grablab) - English talks
+* [@grablab_ru](https://t.me/grablab_ru) - Russian talks
 
 ## How to Contribute to This List
 
