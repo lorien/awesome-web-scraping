@@ -1,8 +1,10 @@
 # Awesome Web Scraping
 
-The list of tools, programming libraries and web services used for web scraping and data processing.
+Lists of packages, services and manuals related to web scraping.
 
-Feel free to give feedback or ask web scraping questions in Telegram groups:  [@grablab](https://t.me/grablab) (English) and [@grablab_ru](https://t.me/grablab_ru) (Russian).
+## Telegram Discussion Groups
+* [@grablab](https://t.me/grablab) - English talks
+* [@grablab_ru](https://t.me/grablab_ru) - Russian talks
 
 ## Topics
 
@@ -21,12 +23,10 @@ Feel free to give feedback or ask web scraping questions in Telegram groups:  [@
 
 ## Proxy Server Marketplaces
 
-Largest marketplaces in the world which contain offers from hundreds sellers and services:
-
 * https://www.blackhatworld.com/forums/proxies-for-sale.112/
 * https://forum.antichat.com/forums/147/
 
-## How to Contribute to this List
+## How to Contribute to This List
 
 See [Contributing](https://github.com/lorien/web-scraping/blob/master/CONTRIBUTING.md) guide.
 
