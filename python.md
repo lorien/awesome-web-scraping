@@ -71,7 +71,7 @@ This list contains python libraries related to web scraping and data processing
 * [cola](https://github.com/chineking/cola) - A distributed crawling framework.
 * [frontera](https://github.com/scrapinghub/frontera) - A scalable frontier for web crawlers
 * [dude](https://github.com/roniemartinez/dude) - A simple framework for writing web scrapers using decorators.
-* [fastbots](https://github.com/ubertidavide/fastbots) - A simple library for fast bot and scraper development using selenium and the POM (Page Object Model) design.
+* [fastbots](https://github.com/ubertidavide/fastbots) - A simple library designed for rapid bot and scraper development using Selenium and the POM (Page Object Model) design.
 
 ### Web Scraping : Tools
 
