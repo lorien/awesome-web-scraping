@@ -16,6 +16,10 @@ Lists of packages, services and manuals related to web scraping.
 ## Captcha Solving Services
 
 * [https://2captcha.com](https://2captcha.com/?from=3019071)
+* [https://deathbycaptcha.com/](https://deathbycaptcha.com/)
+* [https://www.capsolver.com/](https://www.capsolver.com/)
+* [https://anti-captcha.com/](https://anti-captcha.com/)
+* [https://bestcaptchasolver.com/](https://bestcaptchasolver.com/)
 
 ## Proxy Server Marketplaces
 
