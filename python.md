@@ -71,6 +71,7 @@ This list contains python libraries related to web scraping and data processing
 * [cola](https://github.com/chineking/cola) - A distributed crawling framework.
 * [frontera](https://github.com/scrapinghub/frontera) - A scalable frontier for web crawlers
 * [dude](https://github.com/roniemartinez/dude) - A simple framework for writing web scrapers using decorators.
+* [Scrapegraph-ai](https://github.com/VinciGit00/Scrapegraph-ai) - A web scraper that uses AI (openai-apis, gemini apis and local LLM) fo scraping websites,documents and XMLs
 
 ### Web Scraping : Tools
 
