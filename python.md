@@ -349,6 +349,10 @@ Libraries for parsing email.
 * [flanker](https://github.com/mailgun/flanker) - A email address and Mime parsing library.
 * [Talon](https://github.com/mailgun/talon) - Mailgun library to extract message quotations and signatures.
 
+Libraries for creating email accounts.
+
+* [ninjemail](https://github.com/david96182/ninjemail) - Python library for automated email account creation for different providers.
+
 ## URL and Network Address
 
 Libraries for parsing/modifying URLs, network addresses, domain names.
