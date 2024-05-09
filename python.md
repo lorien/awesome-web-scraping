@@ -272,7 +272,7 @@ Libraries for working with human languages.
 * [spacy](https://github.com/explosion/spaCy) - Enables using State-of-the-Art Deep Learning models for common NLP tasks.
 * [fastai](https://github.com/fastai/fastai) - Deep Learning library with free video tutorials + active forum community, downside of lib: GPU needed
 * [gensim](https://github.com/RaRe-Technologies/gensim) -  library for topic modeling, document indexing and similarity retrieval with large corpora
-* [Pattern](http://www.clips.ua.ac.be/pattern) - A web mining module for the Python. It has tools for natural language processing, machine learning, among others.
+* [Pattern](https://github.com/clips/pattern) - A web mining module for the Python. It has tools for natural language processing, machine learning, among others.
 * [TextBlob](http://textblob.readthedocs.org/) - Providing a consistent API for diving into common NLP tasks. Stands on the giant shoulders of NLTK and Pattern.
 * [jieba](https://github.com/fxsjy/jieba) - Chinese Words Segmentation Utilities.
 * [SnowNLP](https://github.com/isnowfy/snownlp) - A library for processing Chinese text.
