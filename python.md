@@ -424,11 +424,6 @@ Libraries for working with WebSocket.
 
 * [python-whois](https://github.com/joepie91/python-whois) - A python module for retrieving and parsing WHOIS data
 
-## Website Specific Scraper
-* [twitter-scraper](https://github.com/bisguzar/twitter-scraper) - Scrape the Twitter Frontend API without authentication
-* [instagram-scraper](https://github.com/rarcega/instagram-scraper) - Scrapes an instagram user's photos and videos
-* [dribbble-py](https://github.com/rand-net/dribbble-py) - Scrapes an dribble user's profile
-
 ## JavaScript Engine Bindings
 
 * [Js2Py](https://github.com/PiotrDabkowski/Js2Py) - JavaScript to Python Translator & JavaScript interpreter written in 100% pure Python
