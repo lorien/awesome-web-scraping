@@ -25,7 +25,6 @@ This list contains python libraries related to web scraping and data processing
 * [Computer Vision](#computer-vision)
 * [Proxy Server](#proxy-server)
 * [Whois](#whois)
-* [Website Specific Scraper](#website-specific-scraper)
 * [JavaScript Engine Bindings](#javascript-engine-bindings)
 * [Captcha Solving](#captcha-solving)
 * [Other Python Lists](#other-python-lists)
