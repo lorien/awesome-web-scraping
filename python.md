@@ -348,10 +348,6 @@ Libraries for parsing email.
 * [flanker](https://github.com/mailgun/flanker) - A email address and Mime parsing library.
 * [Talon](https://github.com/mailgun/talon) - Mailgun library to extract message quotations and signatures.
 
-Libraries for creating email accounts.
-
-* [ninjemail](https://github.com/david96182/ninjemail) - Python library for automated email account creation for different providers.
-
 ## URL and Network Address
 
 Libraries for parsing/modifying URLs, network addresses, domain names.
@@ -377,6 +373,7 @@ Libraries for parsing/modifying URLs, network addresses, domain names.
 Tools to automate multiple actions on a website.
 
 ## Web Automation :: Content Extraction
+
 * [newspaper](https://github.com/codelucas/newspaper) - News extraction, article extraction and content curation in Python.
 * [python-goose](https://github.com/grangier/python-goose) - HTML Content/Article Extractor.
 * [scrapely](https://github.com/scrapy/scrapely) - Library for extracting structured data from HTML pages. Given some example web pages and the data to be extracted, scrapely constructs a parser for all similar pages.
@@ -396,6 +393,11 @@ Tools to automate multiple actions on a website.
 * [advertools](https://github.com/eliasdabbas/advertools) - A customizable crawler to analyze SEO and content of pages and websites.
 * [photon](https://github.com/s0md3v/Photon) - Incredibly fast crawler designed for OSINT
 * [extractnet](https://github.com/currentsapi/extractnet) - Machine Learning based content and metadata extraction in Python 3
+
+## Web Automation :: Account Creation
+
+* [ninjemail](https://github.com/david96182/ninjemail) - Python library for automated email account creation for different providers.
+
 
 ## WebSocket
 
