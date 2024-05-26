@@ -252,7 +252,13 @@ Libraries for parsing and manipulating specific text formats.
 * [bookmarks-parser](https://github.com/bookmarks-tools/bookmarks-parser) - Parses Firefox/Chrome HTML bookmarks files
 
 ### Structured Formats : JavaScript Object
+
 * [chompjs](https://github.com/Nykakin/chompjs) - Parsing JavaScript objects into Python dictionaries
+
+## Structured Formats : Email
+
+* [flanker](https://github.com/mailgun/flanker) - A email address and Mime parsing library.
+* [Talon](https://github.com/mailgun/talon) - Mailgun library to extract message quotations and signatures.
 
 ## Serialization
 
@@ -341,13 +347,6 @@ Libraries for asynchronous networking programming.
 * [minigun-requests](https://github.com/umihico/minigun-requests) - Web scraping API to outsource tons of GET & xpath to cloud computing
 * [pythonista-chromeless](https://github.com/umihico/pythonista-chromeless) - AWS lambda which execute given python code on selenium
 
-## Email
-
-Libraries for parsing email.
-
-* [flanker](https://github.com/mailgun/flanker) - A email address and Mime parsing library.
-* [Talon](https://github.com/mailgun/talon) - Mailgun library to extract message quotations and signatures.
-
 ## URL and Network Address
 
 Libraries for parsing/modifying URLs, network addresses, domain names.
@@ -394,7 +393,7 @@ Tools to automate multiple actions on a website.
 * [photon](https://github.com/s0md3v/Photon) - Incredibly fast crawler designed for OSINT
 * [extractnet](https://github.com/currentsapi/extractnet) - Machine Learning based content and metadata extraction in Python 3
 
-## Web Automation :: Account Creation
+## Web Automation : Account Creation
 
 * [ninjemail](https://github.com/david96182/ninjemail) - Python library for automated email account creation for different providers.
 
