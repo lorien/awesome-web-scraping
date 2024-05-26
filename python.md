@@ -16,7 +16,6 @@ This list contains python libraries related to web scraping and data processing
 * [Job Queue](#job-queue)
 * [Message Queue](#message-queue)
 * [Cloud Computing](#cloud-computing)
-* [Email](#email)
 * [URL and Network Address](#url-and-network-address)
 * [Web Automation](#web-automation)
 * [Asynchronous](#asynchronous)
