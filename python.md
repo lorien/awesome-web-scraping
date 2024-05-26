@@ -254,7 +254,7 @@ Libraries for parsing and manipulating specific text formats.
 
 * [chompjs](https://github.com/Nykakin/chompjs) - Parsing JavaScript objects into Python dictionaries
 
-## Structured Formats : Email
+### Structured Formats : Email
 
 * [flanker](https://github.com/mailgun/flanker) - A email address and Mime parsing library.
 * [Talon](https://github.com/mailgun/talon) - Mailgun library to extract message quotations and signatures.
@@ -370,7 +370,7 @@ Libraries for parsing/modifying URLs, network addresses, domain names.
 
 Tools to automate multiple actions on a website.
 
-## Web Automation :: Content Extraction
+### Web Automation :: Content Extraction
 
 * [newspaper](https://github.com/codelucas/newspaper) - News extraction, article extraction and content curation in Python.
 * [python-goose](https://github.com/grangier/python-goose) - HTML Content/Article Extractor.
@@ -392,7 +392,7 @@ Tools to automate multiple actions on a website.
 * [photon](https://github.com/s0md3v/Photon) - Incredibly fast crawler designed for OSINT
 * [extractnet](https://github.com/currentsapi/extractnet) - Machine Learning based content and metadata extraction in Python 3
 
-## Web Automation : Account Creation
+### Web Automation : Account Creation
 
 * [ninjemail](https://github.com/david96182/ninjemail) - Python library for automated email account creation for different providers.
 
