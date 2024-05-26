@@ -11,14 +11,14 @@ This list contains python libraries related to web scraping and data processing
 * [Structured Formats](#structured-formats)
 * [Serialization](#serialization)
 * [Natural Language Processing](#natural-language-processing)
-* [Browser automation](#browser-automation)
+* [Browser Automation](#browser-automation)
 * [Multiprocessing](#multiprocessing)
 * [Job Queue](#job-queue)
 * [Message Queue](#message-queue)
 * [Cloud Computing](#cloud-computing)
 * [Email](#email)
 * [URL and Network Address](#url-and-network-address)
-* [Web Content Extraction](#web-content-extraction)
+* [Web Automation](#web-automation)
 * [Asynchronous](#asynchronous)
 * [WebSocket](#websocket)
 * [DNS Resolving](#dns-resolving)
@@ -368,10 +368,11 @@ Libraries for parsing/modifying URLs, network addresses, domain names.
 * [tldextract](https://github.com/john-kurkowski/tldextract) - Accurately separate the TLD from the registered domain and subdomains of a URL, using the Public Suffix List.
 * [find_domains](https://github.com/rushter/find_domains) - a library to search for domain names in text data
 
-## Web Content Extraction
+## Web Automation
 
-Libraries for extracting web contents.
+Tools to automate multiple actions on a website.
 
+## Web Automation :: Content Extraction
 * [newspaper](https://github.com/codelucas/newspaper) - News extraction, article extraction and content curation in Python.
 * [python-goose](https://github.com/grangier/python-goose) - HTML Content/Article Extractor.
 * [scrapely](https://github.com/scrapy/scrapely) - Library for extracting structured data from HTML pages. Given some example web pages and the data to be extracted, scrapely constructs a parser for all similar pages.
