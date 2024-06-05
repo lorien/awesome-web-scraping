@@ -16,6 +16,7 @@ Lists of packages, services and manuals related to web scraping.
 ## Captcha Solving Services
 
 * [https://2captcha.com](https://2captcha.com/?from=3019071)
+* [Crawlbase](https://crawlbase.com/)
 
 ## Proxy Server Marketplaces
 
