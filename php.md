@@ -64,6 +64,7 @@ This list contains PHP libraries related to web scraping and data processing
   * [Urlify](https://github.com/jbroadway/urlify) - A PHP port of Django's URLify.js.
   * [Slugify](https://github.com/cocur/slugify) - A library to convert strings to slugs.
 * User-agent
+  * [AgentZero](https://github.com/hexydec/agentzero) - A library for extracting information from User-Agent strings very fast.
   * [Device Detector](https://github.com/piwik/device-detector) - Another library for parsing user agent strings.
   * [Mobile-Detect](https://github.com/serbanghita/Mobile-Detect) - A lightweight PHP class for detecting mobile devices (including tablets).
   * [UA Parser](https://github.com/tobie/ua-parser/tree/master/php) - A library for parsing user agent strings.
