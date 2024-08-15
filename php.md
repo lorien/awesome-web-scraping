@@ -66,7 +66,7 @@ This list contains PHP libraries related to web scraping and data processing
 * User-agent
   * [Device Detector](https://github.com/piwik/device-detector) - Another library for parsing user agent strings.
   * [Mobile-Detect](https://github.com/serbanghita/Mobile-Detect) - A lightweight PHP class for detecting mobile devices (including tablets).
-  * [UA Parser](https://github.com/tobie/ua-parser/tree/master/php) - A library for parsing user agent strings.
+  * [UA Parser](https://github.com/ua-parser/uap-php) - A library for parsing user agent strings.
 * Unites of measure
   * [ByteUnits](https://github.com/gabrielelana/byte-units) - A library to parse, format and convert byte units in binary and metric systems.
   * [PHP Units of Measure](https://github.com/triplepoint/php-units-of-measure) - A library for converting between units of measure.
