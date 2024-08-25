@@ -304,8 +304,8 @@ Libraries for working with human languages.
 
 ### Browser Automation : Frameworks
 
-* [botasaurus](https://github.com/omkarcloud/botasaurus) - all-in-one web scraping framework that enables you to build awesome scrapers in less time, less code, and with more fun
-* [crawlee](https://github.com/apify/crawlee-python) - Crawlee—A web scraping and browser automation library for Python to build reliable crawlers
+* [botasaurus](https://github.com/omkarcloud/botasaurus) - all-in-one web scraping framework
+* [crawlee](https://github.com/apify/crawlee-python) - A web scraping and browser automation library for Python to build reliable crawlers
 
 ### Browser Automation : Tools
 
