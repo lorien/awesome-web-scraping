@@ -290,7 +290,7 @@ Libraries for working with human languages.
 
 ## Browser Automation
 
-### Browser Automation : Browsers
+### Browser Automation : Drivers
 
 * [selenium](http://selenium-python.readthedocs.io/) - automating real browsers (Chrome, Firefox, Opera, IE)
 * [Ghost.py](http://carrerasrodrigo.github.io/Ghost.py/) - wrapper of QtWebKit (requires PyQT)
@@ -301,6 +301,9 @@ Libraries for working with human languages.
 * [pyppeteer](https://github.com/miyakogi/pyppeteer) - Headless chrome/chromium automation library (unofficial port of puppeteer)
 * [Playwright](https://github.com/microsoft/playwright-python) - Playwright is a Python library to automate Chromium, Firefox and WebKit browsers with a single API
 * [seleniumbase](https://github.com/seleniumbase/SeleniumBase) - Python framework for Web/UI testing + RPA. 🤖 🏰 Fast, easy, and reliable.
+
+### Browser Automation : Frameworks
+
 * [botasaurus](https://github.com/omkarcloud/botasaurus) - all-in-one web scraping framework that enables you to build awesome scrapers in less time, less code, and with more fun
 * [crawlee](https://github.com/apify/crawlee-python) - Crawlee—A web scraping and browser automation library for Python to build reliable crawlers
 
