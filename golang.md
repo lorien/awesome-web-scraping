@@ -39,6 +39,7 @@ This list contains Golang libraries related to web scraping and data processing
   * [colly](https://github.com/gocolly/colly) - Fast and elegant scraping framework
   * [dataflow kit](https://github.com/slotix/dataflowkit) - Dataflow Kit - extract structured data from web sites.
   * [flyscrape](https://github.com/philippta/flyscrape) - flyscrape is a standalone and scriptable web scraper.
+  * [goscrapy](https://github.com/tech-engine/goscrapy) - Scrapy inspired webscraping framework.
 * Other
   * [ferret](https://github.com/MontFerret/ferret) - A web scraping tool with a declarative query language.
 
