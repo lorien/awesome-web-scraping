@@ -42,6 +42,7 @@ This list contains Golang libraries related to web scraping and data processing
   * [goscrapy](https://github.com/tech-engine/goscrapy) - Scrapy inspired webscraping framework.
 * Other
   * [ferret](https://github.com/MontFerret/ferret) - A web scraping tool with a declarative query language.
+  * [pipet](https://github.com/bjesus/pipet) - A swiss-army tool for scraping and extracting data using selectors, JavaScript and unix pipes
 
 ## HTML/XML Parsing
 
