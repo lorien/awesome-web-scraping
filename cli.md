@@ -13,4 +13,4 @@ EMPTY CONTENT
 
 ## Web Scraping
 
-EMPTY CONTENT
+* [pipet](https://github.com/bjesus/pipet) - A swiss-army tool for scraping and extracting data using selectors, JavaScript and unix pipes
