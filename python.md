@@ -393,7 +393,7 @@ Tools to automate multiple actions on a website.
 * [WikiTeam](https://github.com/WikiTeam/wikiteam) - Tools for downloading and preserving wikis.
 * [linkchecker](https://github.com/wummel/linkchecker) - check links in web documents or full websites
 * [python-sitemap](https://github.com/c4software/python-sitemap) - Mini website crawler to make sitemap from a website.
-* [trafilatura](https://github.com/adbar/trafilatura) - Fast extraction of main text and comments along with structure, conversion to TXT, CSV & XML.
+* [trafilatura](https://github.com/adbar/trafilatura) - Gather text and metadata on the Web: Crawling, scraping, extraction, output as CSV, JSON, HTML, MD, TXT, XML.
 * [advertools](https://github.com/eliasdabbas/advertools) - A customizable crawler to analyze SEO and content of pages and websites.
 * [photon](https://github.com/s0md3v/Photon) - Incredibly fast crawler designed for OSINT
 * [extractnet](https://github.com/currentsapi/extractnet) - Machine Learning based content and metadata extraction in Python 3
