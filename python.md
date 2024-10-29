@@ -361,6 +361,7 @@ Libraries for parsing/modifying URLs, network addresses, domain names.
 * [furl](https://github.com/gruns/furl) - A small Python library that makes manipulating URLs simple.
 * [purl](https://github.com/codeinthehole/purl) - A simple, immutable URL class with a clean API for interrogation and manipulation.
 * [urllib.parse](https://docs.python.org/3/library/urllib.parse.html) - interface to break URL strings up in components (addressing scheme, network location, path etc.), to combine the components back into a URL string, and to convert a “relative URL” to an absolute URL.
+* [courlan](https://github.com/adbar/courlan) - Clean, filter and sample URLs to optimize data collection: Deduplication, spam, content and language filters
 
 ### URL and Network Address : Network Address
 
