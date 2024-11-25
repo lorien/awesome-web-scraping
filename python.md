@@ -361,6 +361,7 @@ Libraries for parsing/modifying URLs, network addresses, domain names.
 * [furl](https://github.com/gruns/furl) - A small Python library that makes manipulating URLs simple.
 * [purl](https://github.com/codeinthehole/purl) - A simple, immutable URL class with a clean API for interrogation and manipulation.
 * [urllib.parse](https://docs.python.org/3/library/urllib.parse.html) - interface to break URL strings up in components (addressing scheme, network location, path etc.), to combine the components back into a URL string, and to convert a “relative URL” to an absolute URL.
+* [courlan](https://github.com/adbar/courlan) - Clean, filter and sample URLs to optimize data collection: Deduplication, spam, content and language filters
 
 ### URL and Network Address : Network Address
 
@@ -393,7 +394,7 @@ Tools to automate multiple actions on a website.
 * [WikiTeam](https://github.com/WikiTeam/wikiteam) - Tools for downloading and preserving wikis.
 * [linkchecker](https://github.com/wummel/linkchecker) - check links in web documents or full websites
 * [python-sitemap](https://github.com/c4software/python-sitemap) - Mini website crawler to make sitemap from a website.
-* [trafilatura](https://github.com/adbar/trafilatura) - Fast extraction of main text and comments along with structure, conversion to TXT, CSV & XML.
+* [trafilatura](https://github.com/adbar/trafilatura) - Gather text and metadata on the Web: Crawling, scraping, extraction, output as CSV, JSON, HTML, MD, TXT, XML.
 * [advertools](https://github.com/eliasdabbas/advertools) - A customizable crawler to analyze SEO and content of pages and websites.
 * [photon](https://github.com/s0md3v/Photon) - Incredibly fast crawler designed for OSINT
 * [extractnet](https://github.com/currentsapi/extractnet) - Machine Learning based content and metadata extraction in Python 3
