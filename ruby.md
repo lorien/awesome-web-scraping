@@ -61,6 +61,7 @@ This list contains ruby libraries related to web scraping and data processing
 * [Ox](https://github.com/ohler55/ox) - A fast XML parser and Object marshaller.
 * [ROXML](https://github.com/Empact/roxml) - Custom mapping and bidirectional marshalling between Ruby and XML using annotation-style class methods, via Nokogiri or LibXML.
 * [equivalent-xml](https://github.com/mbklein/equivalent-xml) - Easy tests of equivalency of XML documents for Nokogiri::XML
+* [nokolexbor](https://github.com/serpapi/nokolexbor) - Nokolexbor is a drop-in replacement for Nokogiri. It's 4.7x faster at parsing HTML and up to 1352x faster at CSS selectors.
 
 ## Text Processing
 
