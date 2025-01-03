@@ -311,6 +311,7 @@ Libraries for working with human languages.
 ### Browser Automation : Tools
 
 * [xvfbwrapper](https://github.com/cgoldberg/xvfbwrapper) - Python wrapper for running a display inside X virtual framebuffer (Xvfb)
+* [hyperbrowser](https://github.com/hyperbrowserai/python-sdk) - A browser automation tool that allows you to automate web browsing and web scraping tasks.
 
 ## Multiprocessing
 
