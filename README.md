@@ -14,6 +14,7 @@ Lists of packages, services and manuals related to web scraping.
 * [dhamaniasad / HeadlessBrowsers](https://github.com/dhamaniasad/HeadlessBrowsers) - list of (almost) all headless web browsers in existence
 * [DNS over HTTPS providers](https://github.com/curl/curl/wiki/DNS-over-HTTPS) - list of DNS over HTTPs providers
 * [Awesome Pastebins](https://github.com/lorien/awesome-pastebins) - list of pastebin sites
+* [Web Crawler Spring Boot](https://github.com/crawlbase/deep-web-crawler-spring-boot) - web crawler spring boot
 
 ## Captcha Solving Services
 
