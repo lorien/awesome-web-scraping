@@ -24,6 +24,12 @@ Lists of packages, services and manuals related to web scraping.
 * https://www.blackhatworld.com/forums/proxies-for-sale.112/
 * https://forum.antichat.com/forums/147/
 
+## IP Information
+
+* [IPQuery](https://ipquery.io) - API for getting ip information such as longitude, latitude, proxy details, and risk score.
+* [Ipify](https://api.ipify.org) - API for getting current ip address.
+* [IPAPI](https://ipapi.is) - Paid api for geolocation data.
+
 ## Telegram Discussion Groups
 * [@grablab](https://t.me/grablab) - talks in English
 * [@grablab_ru](https://t.me/grablab_ru) - talks in Russian
