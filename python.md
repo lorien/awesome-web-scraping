@@ -44,11 +44,13 @@ This list contains python libraries related to web scraping and data processing
 * [Unirest for Python](https://github.com/Mashape/unirest-python) - Unirest is a set of lightweight HTTP libraries available in multiple languages
 * [hyper](https://github.com/Lukasa/hyper) - HTTP/2 Client for Python
 * [PySocks](https://github.com/Anorov/PySocks) - Updated and actively maintained version of SocksiPy, with bug fixes and extra features. Acts as a drop-in replacement to the socket module.
+* [curl cffi](https://github.com/lexiforest/curl_cffi) - curl-impersonate fork via cffi
 
 ### Network : Asynchronous
 
 * [treq](https://github.com/dreid/treq) - requests like API (twisted based)
 * [aiohttp](https://github.com/KeepSafe/aiohttp) - http client/server for asyncio (PEP-3156)
+* [httpx](https://github.com/projectdiscovery/httpx) - fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library
 
 ### Network : Low Level
 
@@ -70,6 +72,7 @@ This list contains python libraries related to web scraping and data processing
 * [frontera](https://github.com/scrapinghub/frontera) - A scalable frontier for web crawlers
 * [dude](https://github.com/roniemartinez/dude) - A simple framework for writing web scrapers using decorators.
 * [ScrapegrphAI](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Web scraping framework that uses AI for extracting data
+* [Crawl4AI](https://github.com/unclecode/crawl4ai) - web crawler and scraper
 
 ### Web Scraping : Tools
 
@@ -79,6 +82,7 @@ This list contains python libraries related to web scraping and data processing
 * [ScrapydWeb](https://github.com/my8100/scrapydweb) - A full-featured web UI for Scrapyd cluster management, which supports Scrapy Log Analysis & Visualization, Auto Packaging, Timer Tasks, Email Notice and so on.
 * [Starbelly](https://github.com/HyperionGray/starbelly) - Starbelly is a user-friendly and highly configurable web crawler front end.
 * [Gerapy](https://github.com/Gerapy/Gerapy) - Distributed Crawler Management Framework Based on Scrapy, Scrapyd, Django and Vue.js
+* [crawler-buddy](https://github.com/rumca-js/crawler-buddy) - Crawling server, provides crawl information via JSON interface
 
 ### Web Scraping : Bypass Protection
 
@@ -94,6 +98,7 @@ This list contains python libraries related to web scraping and data processing
 * [BeautifulSoup](http://www.crummy.com/software/BeautifulSoup/bs4/doc/) - slow HTML/XMl processing library, written in pure python
 * [html5lib](https://github.com/html5lib/html5lib-python) - builds DOM of HTML/XML document according to [WHATWG spec](url=http://www.whatwg.org/). That spec is used in all modern browsers.
 * [feedparser](https://github.com/kurtmckee/feedparser) - parsing of RSS/ATOM feeds.
+* [brutefeedparser](https://github.com/rumca-js/brutefeedparser) - parsing of RSS/ATOM feeds.
 * [MarkupSafe](https://github.com/mitsuhiko/markupsafe) - Implements a XML/HTML/XHTML Markup safe string for Python.
 * [xmltodict](https://github.com/martinblech/xmltodict) - Working with XML feel like you are working with JSON.
 * [xhtml2pdf](https://github.com/chrisglass/xhtml2pdf) - HTML/CSS to PDF converter.
