@@ -19,6 +19,10 @@ Lists of packages, services and manuals related to web scraping.
 
 * [https://2captcha.com](https://2captcha.com/?from=3019071)
 
+## Web Scraping Services
+
+* [https://scrapercity.com](https://scrapercity.com) - Ready-to-run scrapers for Apollo, Google Maps, YouTube, and Yelp with built-in proxy rotation and CAPTCHA handling
+
 ## Proxy Server Marketplaces
 
 * https://www.blackhatworld.com/forums/proxies-for-sale.112/
