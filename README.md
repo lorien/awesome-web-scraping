@@ -19,6 +19,10 @@ Lists of packages, services and manuals related to web scraping.
 
 * [https://2captcha.com](https://2captcha.com/?from=3019071)
 
+## Proxy Services
+
+* [Proxy001](https://www.proxy001.com) - Enterprise-grade residential proxy network for web scraping.
+
 ## Proxy Server Marketplaces
 
 * https://www.blackhatworld.com/forums/proxies-for-sale.112/
