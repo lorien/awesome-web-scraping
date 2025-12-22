@@ -51,6 +51,7 @@ This list contains python libraries related to web scraping and data processing
 * [treq](https://github.com/dreid/treq) - requests like API (twisted based)
 * [aiohttp](https://github.com/KeepSafe/aiohttp) - http client/server for asyncio (PEP-3156)
 * [httpx](https://github.com/projectdiscovery/httpx) - fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library
+* [python-proxy-headers](https://github.com/proxymesh/python-proxy-headers) - extensions for popular libraries to better handle proxy headers
 
 ### Network : Low Level
 
