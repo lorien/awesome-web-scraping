@@ -87,6 +87,7 @@ This list contains python libraries related to web scraping and data processing
 ### Web Scraping : Bypass Protection
 
 * [cloudscraper](https://github.com/venomous/cloudscraper) - A Python module to bypass Cloudflare's anti-bot page.
+* [AgentAuth](https://github.com/jacobgadek/agent-auth) - Sync local Chrome sessions to scrapers for automatic authentication (bypasses login/2FA).
 
 ## HTML/XML
 
