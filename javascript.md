@@ -37,6 +37,7 @@ This list contains JavaScript libraries related to web scraping and data process
 * [needle](https://github.com/tomas/needle) - Nimble, streamable HTTP client for Node.js. With proxy, iconv, cookie, deflate & multipart support
 
 ## Web-Scraping Frameworks
+* [domharvest](https://github.com/domharvest/domharvest-playwright) - Declarative data extraction from web pages using Playwright with retry and rate limiting.
 * [webparsy](https://github.com/joseconstela/webparsy) - NodeJS lib and cli for scraping websites using Puppeteer and YAML
 * [node-crawler](https://github.com/sylvinus/node-crawler) - Web Crawler/Spider for NodeJS + server-side jQuery
 * [node-simplecrawler](https://github.com/cgiffard/node-simplecrawler) - Flexible event driven crawler for node
@@ -76,7 +77,7 @@ This list contains JavaScript libraries related to web scraping and data process
   * [color](https://github.com/harthur/color) - JavaScript color conversion and manipulation library.
   * [TinyColor](https://github.com/bgrins/TinyColor) - Fast, small color manipulation and conversion for JavaScript.
 * User Agent
-  * [UAParser.js](https://github.com/faisalman/ua-parser-js) - Lightweight JavaScript-based User-Agent string parser. Supports browser & node.js environment. 
+  * [UAParser.js](https://github.com/faisalman/ua-parser-js) - Lightweight JavaScript-based User-Agent string parser. Supports browser & node.js environment.
 * Semantic Version
   * [node-semver](https://github.com/npm/node-semver) - The semver parser for node
 
