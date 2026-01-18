@@ -41,6 +41,7 @@ This list contains JavaScript libraries related to web scraping and data process
 * [node-crawler](https://github.com/sylvinus/node-crawler) - Web Crawler/Spider for NodeJS + server-side jQuery
 * [node-simplecrawler](https://github.com/cgiffard/node-simplecrawler) - Flexible event driven crawler for node
 * [Crawlee](https://github.com/apify/crawlee) - Node.js and TypeScript library that crawls with Cheerio, JSDOM, Playwright and Puppeteer while enhancing them with anti-blocking features, queue, storages and more.
+* [Apify Store](https://apify.com/store) - Marketplace of 10,000+ ready-made web scrapers and automation tools with cloud execution, API access and MCP support for AI agents.
 * [Ayakashi](https://github.com/ayakashi-io/ayakashi) - The next generation web scraping framework. Features all the necessary tools to create reliable and maintainable scraping and automation systems.
 * [pjscrape](https://github.com/nrabinowitz/pjscrape) - A web-scraping framework written in Javascript, using PhantomJS and jQuery
 
