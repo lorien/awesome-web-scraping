@@ -15,6 +15,38 @@ Lists of packages, services and manuals related to web scraping.
 * [DNS over HTTPS providers](https://github.com/curl/curl/wiki/DNS-over-HTTPS) - list of DNS over HTTPs providers
 * [Awesome Pastebins](https://github.com/lorien/awesome-pastebins) - list of pastebin sites
 
+## Pre-built Scrapers (Apify Store)
+
+Ready-to-use web scraping actors on Apify. No coding required - just configure and run.
+
+### Jobs & Careers
+* [RemoteOK Scraper](https://apify.com/muscular_quadruplet/remoteok-scraper) - Remote job listings
+* [Greenhouse Scraper](https://apify.com/muscular_quadruplet/greenhouse-scraper) - ATS job boards
+* [Arbeitnow Scraper](https://apify.com/muscular_quadruplet/arbeitnow-scraper) - European jobs
+* [Remotive Scraper](https://apify.com/muscular_quadruplet/remotive-scraper) - Remote tech jobs
+
+### News & Social
+* [Hacker News Scraper](https://apify.com/muscular_quadruplet/hackernews-scraper) - Tech news & discussions
+* [Reddit Scraper](https://apify.com/muscular_quadruplet/reddit-scraper) - Subreddit posts
+* [Dev.to Scraper](https://apify.com/muscular_quadruplet/devto-scraper) - Developer articles
+* [Product Hunt Scraper](https://apify.com/muscular_quadruplet/producthunt-scraper) - Product launches
+* [Google News Scraper](https://apify.com/muscular_quadruplet/google-news-scraper) - News articles
+
+### Developer Tools
+* [GitHub Scraper](https://apify.com/muscular_quadruplet/github-scraper) - Repository data
+* [Stack Overflow Scraper](https://apify.com/muscular_quadruplet/stackoverflow-scraper) - Q&A threads
+* [NPM Scraper](https://apify.com/muscular_quadruplet/npm-scraper) - Package information
+
+### Business & Services
+* [CoinGecko Scraper](https://apify.com/muscular_quadruplet/coingecko-scraper) - Crypto prices
+* [GoodRx Scraper](https://apify.com/muscular_quadruplet/goodrx-drug-price-scraper) - Drug prices
+* [Eventbrite Scraper](https://apify.com/muscular_quadruplet/eventbrite-event-scraper) - Events
+* [Rover Scraper](https://apify.com/muscular_quadruplet/rover-pet-services-scraper) - Pet services
+* [Bark Scraper](https://apify.com/muscular_quadruplet/bark-service-scraper) - Service providers
+* [Glassdoor Scraper](https://apify.com/muscular_quadruplet/glassdoor-company-scraper) - Company reviews
+
+> All actors are MCP-compatible for AI agent integration (Claude, Cursor, n8n).
+
 ## Captcha Solving Services
 
 * [https://2captcha.com](https://2captcha.com/?from=3019071)
