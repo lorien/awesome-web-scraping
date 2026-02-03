@@ -44,6 +44,7 @@ This list contains JavaScript libraries related to web scraping and data process
 * [Ayakashi](https://github.com/ayakashi-io/ayakashi) - The next generation web scraping framework. Features all the necessary tools to create reliable and maintainable scraping and automation systems.
 * [pjscrape](https://github.com/nrabinowitz/pjscrape) - A web-scraping framework written in Javascript, using PhantomJS and jQuery
 
+* [CrawlKit](https://crawlkit.sh) - Web scraping and data extraction API with dedicated endpoints for social media (Instagram, LinkedIn, YouTube) and app stores. Returns LLM-ready markdown or structured JSON.
 ## HTML/XML Parsing
 * General
   * [parse5](https://github.com/inikulin/parse5) - WHATWG HTML5 specification-compliant, fast and ready for production HTML parsing/serialization toolset for Node and io.js
