@@ -91,6 +91,7 @@ Nothing yet here.
 ### URL
 
 - [WHATWG / URL](https://url.spec.whatwg.org/)
+- [Scrappe-Tout](https://github.com/isSpicyCode/scrappe-tout) - Fast HTML to Markdown scraper with Playwright. Perfect for RAG and documentation archiving.
 
 ### XMLHttpRequest
 
