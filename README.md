@@ -13,7 +13,12 @@ Lists of packages, services and manuals related to web scraping.
 * [Web Scraping Manuals](https://github.com/lorien/awesome-web-scraping/blob/master/manuals.md) - list of articles and books teaching web scraping
 * [dhamaniasad / HeadlessBrowsers](https://github.com/dhamaniasad/HeadlessBrowsers) - list of (almost) all headless web browsers in existence
 * [DNS over HTTPS providers](https://github.com/curl/curl/wiki/DNS-over-HTTPS) - list of DNS over HTTPs providers
+* [Website Analysis Tools](#website-analysis-tools) - tools for analyzing and scanning websites
 * [Awesome Pastebins](https://github.com/lorien/awesome-pastebins) - list of pastebin sites
+
+## Website Analysis Tools
+
+* [PageGuard](https://pageguard.qiudeqiu.workers.dev) - Free website health scanner providing automated SEO audit, performance analysis, accessibility compliance (WCAG 2.1), and AI-powered action plans. No login required, instant scan (~30 seconds). Open source: https://github.com/sleepyxpad-jpg/pageguard
 
 ## Captcha Solving Services
 
