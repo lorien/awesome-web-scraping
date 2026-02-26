@@ -18,7 +18,7 @@ Lists of packages, services and manuals related to web scraping.
 
 ## Website Analysis Tools
 
-* [PageGuard](https://pageguard.qiudeqiu.workers.dev) - Free website health scanner providing automated SEO audit, performance analysis, accessibility compliance (WCAG 2.1), and AI-powered action plans. No login required, instant scan (~30 seconds). Open source: https://github.com/sleepyxpad-jpg/pageguard
+* [PageGuard](https://pageguard.org) - Free website health scanner providing automated SEO audit, performance analysis, accessibility compliance (WCAG 2.1), and AI-powered action plans. No login required, instant scan (~30 seconds). Open source: https://github.com/sleepyxpad-jpg/pageguard
 
 ## Captcha Solving Services
 
