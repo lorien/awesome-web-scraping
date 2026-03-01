@@ -41,6 +41,7 @@ This list contains ruby libraries related to web scraping and data processing
 * [Spyke](https://github.com/balvig/spyke) - Interact with REST services in an ActiveRecord-like manner.
 * [Typhoeus](https://github.com/typhoeus/typhoeus) - Typhoeus wraps libcurl in order to make fast and reliable requests.
 * [Mechanize](https://github.com/sparklemotion/mechanize) - Mechanize is a ruby library that makes automated web interaction easy.
+* [wreq](https://github.com/SearchApi/wreq-ruby) - An HTTP client with real browser TLS/HTTP2 fingerprinting, emulating Chrome, Firefox, Safari, Edge, and Opera signatures via BoringSSL.
 
 ## Web-Scraping Frameworks
 
