@@ -4,6 +4,7 @@ Lists of packages, services and manuals related to web scraping.
 
 ## Topics
 
+* [AnchorBrowser](https://anchorbrowser.io) - Cloud browser platform for AI agents via WebSocket/CDP with anti-detection built in
 * [Python](https://github.com/lorien/web-scraping/blob/master/python.md) - Python packages
 * [PHP](https://github.com/lorien/web-scraping/blob/master/php.md) - PHP packages
 * [Ruby](https://github.com/lorien/web-scraping/blob/master/ruby.md) - Ruby packages
