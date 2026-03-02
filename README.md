@@ -4,6 +4,7 @@ Lists of packages, services and manuals related to web scraping.
 
 ## Topics
 
+* [anchorbrowser/AnchorBrowser-SDK-Typescript](https://github.com/anchorbrowser/AnchorBrowser-SDK-Typescript) - Cloud browser platform for AI agents with built-in stealth and CAPTCHA solving.
 * [Python](https://github.com/lorien/web-scraping/blob/master/python.md) - Python packages
 * [PHP](https://github.com/lorien/web-scraping/blob/master/php.md) - PHP packages
 * [Ruby](https://github.com/lorien/web-scraping/blob/master/ruby.md) - Ruby packages
