@@ -27,6 +27,7 @@ This list contains JavaScript libraries related to web scraping and data process
 * [request](https://github.com/request/request) - Simplified HTTP request client.
 * [socks5-http-client](https://github.com/mattcg/socks5-http-client) - SOCKS v5 HTTP client implementation in JavaScript for Node.js
 * [rest](https://github.com/cujojs/rest) - RESTful HTTP client for JavaScript
+* [Spectrawl](https://github.com/FayAndXan/spectrawl) - Unified web layer for AI agents. Search (8 engines), stealth browse (Camoufox + Playwright), cookie auth, act on 24 platforms. Self-hosted, MIT.
 * [wreck](https://github.com/hapijs/wreck) - HTTP Client Utilities
 * [got](https://github.com/sindresorhus/got) - Simplified HTTP requests
 * [node-fetch](https://github.com/bitinn/node-fetch) - A light-weight module that brings window.fetch to Node.js
