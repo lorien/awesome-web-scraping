@@ -43,6 +43,7 @@ This list contains JavaScript libraries related to web scraping and data process
 * [Crawlee](https://github.com/apify/crawlee) - Node.js and TypeScript library that crawls with Cheerio, JSDOM, Playwright and Puppeteer while enhancing them with anti-blocking features, queue, storages and more.
 * [Ayakashi](https://github.com/ayakashi-io/ayakashi) - The next generation web scraping framework. Features all the necessary tools to create reliable and maintainable scraping and automation systems.
 * [pjscrape](https://github.com/nrabinowitz/pjscrape) - A web-scraping framework written in Javascript, using PhantomJS and jQuery
+* [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) - X (Twitter) data extraction with 40+ endpoints covering tweet search, user lookup, follower extraction, engagement metrics, trending topics and webhooks.
 
 ## HTML/XML Parsing
 * General
