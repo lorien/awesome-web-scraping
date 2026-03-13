@@ -15,6 +15,12 @@ Lists of packages, services and manuals related to web scraping.
 * [DNS over HTTPS providers](https://github.com/curl/curl/wiki/DNS-over-HTTPS) - list of DNS over HTTPs providers
 * [Awesome Pastebins](https://github.com/lorien/awesome-pastebins) - list of pastebin sites
 
+## Web Scraping Actors & Hosted Scrapers
+
+Ready-to-use hosted scrapers available as cloud actors or services.
+
+* [YellowPages Scraper](https://apify.com/pink_comic/yellowpages-scraper) - Scrapes business listings from YellowPages.com with Cloudflare bypass. Extracts names, phones, emails, addresses, ratings, and hours.
+
 ## Captcha Solving Services
 
 * [https://2captcha.com](https://2captcha.com/?from=3019071)
