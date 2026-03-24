@@ -308,6 +308,7 @@ Libraries for working with human languages.
 * [pyppeteer](https://github.com/miyakogi/pyppeteer) - Headless chrome/chromium automation library (unofficial port of puppeteer)
 * [Playwright](https://github.com/microsoft/playwright-python) - Playwright is a Python library to automate Chromium, Firefox and WebKit browsers with a single API
 * [seleniumbase](https://github.com/seleniumbase/SeleniumBase) - Python framework for Web/UI testing + RPA. 🤖 🏰 Fast, easy, and reliable.
+* [patchright-cli](https://github.com/AhaiMk01/patchright-cli) - Anti-detect browser automation CLI using Patchright (undetected Playwright fork). Bypasses Akamai, Cloudflare and other anti-bot systems.
 
 ### Browser Automation : Frameworks
 
