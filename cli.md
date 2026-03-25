@@ -14,6 +14,7 @@ EMPTY CONTENT
 
 ## Web Scraping
 
+* [cdpilot](https://github.com/mehmetnadir/cdpilot) - Zero-dependency browser automation CLI with 40+ commands. Uses existing browser via Chrome DevTools Protocol. Built-in MCP server for AI agents.
 * [pipet](https://github.com/bjesus/pipet) - A swiss-army tool for scraping and extracting data using selectors, JavaScript and unix pipes
 * [trafilatura](https://github.com/adbar/trafilatura) - Gather text and metadata on the Web: Crawling, scraping, extraction, output as CSV, JSON, HTML, MD, TXT, XML
 
