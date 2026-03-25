@@ -14,6 +14,7 @@ EMPTY CONTENT
 
 ## Web Scraping
 
+* [crw](https://github.com/us/crw) - Open-source web scraper for AI agents. Single Rust binary, MCP server, Firecrawl-compatible API
 * [pipet](https://github.com/bjesus/pipet) - A swiss-army tool for scraping and extracting data using selectors, JavaScript and unix pipes
 * [trafilatura](https://github.com/adbar/trafilatura) - Gather text and metadata on the Web: Crawling, scraping, extraction, output as CSV, JSON, HTML, MD, TXT, XML
 
