@@ -182,6 +182,7 @@ This list contains JavaScript libraries related to web scraping and data process
 
 *Libraries for extracting web contents.*
 
+* [plasmate](https://github.com/plasmate-labs/plasmate) - Browser engine that outputs structured semantic content instead of raw HTML. 10-16x fewer tokens. Rust core with Python/Node/CLI interfaces.
 * [node-read](https://github.com/bndr/node-read) - Get Readable Content from any page. Based on Arc90's readability project using cheerio engine.
 * [node-ytdl-core](https://github.com/fent/node-ytdl-core) - Youtube video downloader in javascript
 * [ImageResolver](https://github.com/mauricesvay/ImageResolver) - Does its best to determine the main image on a URL without loading all images.

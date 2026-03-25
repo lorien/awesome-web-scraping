@@ -76,6 +76,7 @@ This list contains python libraries related to web scraping and data processing
 
 ### Web Scraping : Tools
 
+* [plasmate](https://github.com/plasmate-labs/plasmate) - Browser engine that outputs structured semantic content instead of raw HTML. 10-16x fewer tokens. Rust core with Python/Node/CLI interfaces.
 * [portia](https://github.com/scrapinghub/portia) - Visual scraping for Scrapy.
 * [restkit](https://github.com/benoitc/restkit) - HTTP resource kit for Python. It allows you to easily access to HTTP resource and build objects around it.
 * [requests-html](https://github.com/kennethreitz/requests-html) - Pythonic HTML Parsing for Humans.
