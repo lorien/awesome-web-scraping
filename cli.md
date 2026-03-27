@@ -16,6 +16,7 @@ EMPTY CONTENT
 
 * [pipet](https://github.com/bjesus/pipet) - A swiss-army tool for scraping and extracting data using selectors, JavaScript and unix pipes
 * [trafilatura](https://github.com/adbar/trafilatura) - Gather text and metadata on the Web: Crawling, scraping, extraction, output as CSV, JSON, HTML, MD, TXT, XML
+* [webclaw](https://github.com/0xMassi/webclaw) - Fast web content extraction for LLMs. Rust CLI with TLS fingerprinting, markdown/JSON output, and MCP server for AI agents
 
 ## URLs
 
