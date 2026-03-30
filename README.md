@@ -15,6 +15,16 @@ Lists of packages, services and manuals related to web scraping.
 * [DNS over HTTPS providers](https://github.com/curl/curl/wiki/DNS-over-HTTPS) - list of DNS over HTTPs providers
 * [Awesome Pastebins](https://github.com/lorien/awesome-pastebins) - list of pastebin sites
 
+## Hosted Scraping Services
+
+Ready-to-use scrapers hosted on Apify's platform — no infrastructure required.
+
+* [LinkedIn Employee Scraper](https://apify.com/george.the.developer/linkedin-employee-scraper) - Extract employee data from LinkedIn company pages
+* [YouTube Transcript Scraper](https://apify.com/george.the.developer/youtube-transcript-scraper) - Get full transcripts from YouTube videos in structured JSON
+* [Google Scholar Scraper](https://apify.com/george.the.developer/google-scholar-scraper) - Scrape academic papers, citations, and author profiles from Google Scholar
+* [Email Validator API](https://apify.com/george.the.developer/email-validator-api) - Validate email deliverability and MX records via standby API
+* [Domain WHOIS Lookup](https://apify.com/george.the.developer/domain-whois-lookup) - Full WHOIS data including registrar, dates, and nameservers via standby API
+
 ## Captcha Solving Services
 
 * [https://2captcha.com](https://2captcha.com/?from=3019071)
