@@ -24,6 +24,10 @@ Lists of packages, services and manuals related to web scraping.
 * https://www.blackhatworld.com/forums/proxies-for-sale.112/
 * https://forum.antichat.com/forums/147/
 
+## Proxy Services
+
+* [IPLoop](https://iploop.io) - Residential proxy network with 2M+ IPs in 195 countries. Python, Node.js, and Java SDKs with built-in TLS fingerprinting and anti-detection. [PyPI](https://pypi.org/project/iploop-sdk/) / [npm](https://www.npmjs.com/package/iploop)
+
 ## Telegram Discussion Groups
 * [@grablab](https://t.me/grablab) - talks in English
 * [@grablab_ru](https://t.me/grablab_ru) - talks in Russian
