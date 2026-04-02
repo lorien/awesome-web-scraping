@@ -437,6 +437,7 @@ Libraries for working with WebSocket.
 * [ProxyBroker](https://github.com/constverum/Proxybroker) - Proxy [Finder | Checker | Server]. HTTP(S) & SOCKS
 * [shadowsocks](https://github.com/shadowsocks/shadowsocks) - A fast tunnel proxy that helps you bypass firewalls (TCP & UDP support, User management API, TCP Fast Open, Workers and graceful restart, Destination IP blacklist)
 * [tproxy](https://github.com/benoitc/tproxy) - tproxy is a simple TCP routing proxy (layer 7) built on Gevent that lets you configure the routine logic in Python
+* [iploop-sdk](https://pypi.org/project/iploop-sdk/) - Python SDK for IPLoop residential proxy network. 2M+ IPs across 195 countries with built-in TLS fingerprinting, anti-detection, and 66 site-specific presets
 
 ## Whois
 
