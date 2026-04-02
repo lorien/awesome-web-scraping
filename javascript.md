@@ -204,6 +204,7 @@ This list contains JavaScript libraries related to web scraping and data process
 ## Proxy Server
   * [toxy](https://github.com/h2non/toxy) - Hackable HTTP proxy to simulate server failure scenarios and unexpected network conditions
   * [proxy-chain](https://github.com/apifytech/proxy-chain) - Node.js implementation of a proxy server (think Squid) with support for SSL, authentication and upstream proxy chaining
+  * [iploop](https://www.npmjs.com/package/iploop) - Node.js SDK for IPLoop residential proxy network. 2M+ IPs across 195 countries with geo-targeting and session management
 
 ## Data Structure
 * [immutable](https://github.com/facebook/immutable-js) - Immutable persistent data collections for Javascript which increase efficiency and simplicity.
