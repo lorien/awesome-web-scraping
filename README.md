@@ -2,6 +2,7 @@
 
 Lists of packages, services and manuals related to web scraping.
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts including automated web scraping orchestration, data extraction, and multi-agent browser coordination. MIT licensed.
 ## Topics
 
 * [Python](https://github.com/lorien/web-scraping/blob/master/python.md) - Python packages
