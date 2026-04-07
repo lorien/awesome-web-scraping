@@ -59,6 +59,7 @@ This list contains python libraries related to web scraping and data processing
 * [tlslite-ng](https://github.com/tomato42/tlslite-ng) - TLS implementation in pure python
 * [scapy](https://github.com/secdev/scapy) - powerful Python-based interactive packet manipulation program and library
 * [impacket](https://github.com/SecureAuthCorp/impacket/) - low-level programmatic access to the packets of network protocols
+* [rekit](https://github.com/b-erdem/rekit) - reverse engineering toolkit for mobile APIs with TLS fingerprint testing, bot protection detection (Cloudflare, DataDome, Akamai, PerimeterX, Incapsula), and API client generation from captured traffic
 
 ## Web Scraping
 
