@@ -16,6 +16,7 @@ EMPTY CONTENT
 
 * [pipet](https://github.com/bjesus/pipet) - A swiss-army tool for scraping and extracting data using selectors, JavaScript and unix pipes
 * [trafilatura](https://github.com/adbar/trafilatura) - Gather text and metadata on the Web: Crawling, scraping, extraction, output as CSV, JSON, HTML, MD, TXT, XML
+* [Uni-CLI](https://github.com/olo-dot-io/Uni-CLI) - Universal CLI for AI agents. 67 sites with structured data extraction via raw CDP (fetch, intercept, evaluate, snapshot). Self-repairing YAML adapters, 13-layer anti-detection stealth, auto-JSON output.
 
 ## URLs
 
