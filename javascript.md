@@ -141,6 +141,7 @@ This list contains JavaScript libraries related to web scraping and data process
 * [puppeteer-recorder](https://github.com/checkly/puppeteer-recorder) - Puppeteer recorder is a Chrome extension that records your browser interactions and generates a Puppeteer script.
 * [wendigo](https://github.com/angrykoala/wendigo) - Test-oriented headless browser, built on top of Puppeteer.
 * [Playwright](https://github.com/microsoft/playwright) - Node.js library to automate Chromium, Firefox and WebKit with a single API
+* [Uni-CLI](https://github.com/olo-dot-io/Uni-CLI) - Universal CLI for AI agents. 67 sites with structured data extraction via raw CDP (fetch, intercept, evaluate, snapshot). Self-repairing YAML adapters, 13-layer anti-detection stealth, auto-JSON output.
 
 ## Multiprocessing
   * [nexpect](https://github.com/nodejitsu/nexpect) - spawn and control child processes in node.js with ease
