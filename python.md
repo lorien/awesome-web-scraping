@@ -44,13 +44,13 @@ This list contains python libraries related to web scraping and data processing
 * [Unirest for Python](https://github.com/Mashape/unirest-python) - Unirest is a set of lightweight HTTP libraries available in multiple languages
 * [hyper](https://github.com/Lukasa/hyper) - HTTP/2 Client for Python
 * [PySocks](https://github.com/Anorov/PySocks) - Updated and actively maintained version of SocksiPy, with bug fixes and extra features. Acts as a drop-in replacement to the socket module.
-* [curl cffi](https://github.com/lexiforest/curl_cffi) - curl-impersonate fork via cffi
 
 ### Network : Asynchronous
 
 * [treq](https://github.com/dreid/treq) - requests like API (twisted based)
 * [aiohttp](https://github.com/KeepSafe/aiohttp) - http client/server for asyncio (PEP-3156)
-* [httpx](https://github.com/projectdiscovery/httpx) - fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library
+* [httpx](https://github.com/encode/httpx) - A fully featured HTTP client with sync and async APIs, and HTTP/2 support.
+* [niquests](https://github.com/jawah/niquests) - A drop-in replacement for Requests with HTTP/2 and HTTP/3 support.
 
 ### Network : Low Level
 
@@ -88,6 +88,8 @@ This list contains python libraries related to web scraping and data processing
 ### Web Scraping : Bypass Protection
 
 * [cloudscraper](https://github.com/venomous/cloudscraper) - A Python module to bypass Cloudflare's anti-bot page.
+* [curl cffi](https://github.com/lexiforest/curl_cffi) - curl-impersonate fork via cffi
+* [tls-client](https://github.com/FlorianREGAZ/Python-Tls-Client) - HTTP client with configurable TLS fingerprinting to mimic real browser handshakes.
 
 ## HTML/XML
 
@@ -308,15 +310,20 @@ Libraries for working with human languages.
 * [pyppeteer](https://github.com/miyakogi/pyppeteer) - Headless chrome/chromium automation library (unofficial port of puppeteer)
 * [Playwright](https://github.com/microsoft/playwright-python) - Playwright is a Python library to automate Chromium, Firefox and WebKit browsers with a single API
 * [seleniumbase](https://github.com/seleniumbase/SeleniumBase) - Python framework for Web/UI testing + RPA. 🤖 🏰 Fast, easy, and reliable.
+* [undetected-chromedriver](https://github.com/ultrafunkamsterdam/undetected-chromedriver) - Optimized Selenium Chromedriver patch to bypass anti-bot solutions.
+* [playwright-stealth](https://github.com/AtuboDad/playwright_stealth) - A playwright plugin to prevent detection as a bot.
+* [selenium-stealth](https://github.com/diprajpatra/selenium-stealth) - A Python package to prevent detection of Selenium by making it mimic a real Chrome browser.
 
 ### Browser Automation : Frameworks
 
 * [botasaurus](https://github.com/omkarcloud/botasaurus) - all-in-one web scraping framework
 * [crawlee](https://github.com/apify/crawlee-python) - A web scraping and browser automation library for Python to build reliable crawlers
+* [botright](https://github.com/Vinyzu/botright) - Playwright-based browser automation with built-in fingerprint spoofing and captcha solving.
 
 ### Browser Automation : Tools
 
 * [xvfbwrapper](https://github.com/cgoldberg/xvfbwrapper) - Python wrapper for running a display inside X virtual framebuffer (Xvfb)
+* [camoufox](https://github.com/daijro/camoufox) - Firefox-based anti-detect browser with fingerprint spoofing compiled at the C++ level, accessible via a Python interface.
 
 ## Multiprocessing
 
@@ -337,6 +344,7 @@ Libraries for asynchronous networking programming.
 * [eventlet](http://eventlet.net/) - Asynchronous framework with WSGI support.
 * [Tomorrow](https://github.com/madisonmay/Tomorrow) - Magic decorator syntax for asynchronous code.
 * [grequests](https://github.com/kennethreitz/grequests) - Make asynchronous HTTP Requests easily.
+* [aiosqlite](https://github.com/omnilib/aiosqlite) - Async interface for SQLite databases.
 
 ## Job Queue
 
