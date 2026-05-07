@@ -73,6 +73,7 @@ This list contains python libraries related to web scraping and data processing
 * [dude](https://github.com/roniemartinez/dude) - A simple framework for writing web scrapers using decorators.
 * [ScrapegrphAI](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Web scraping framework that uses AI for extracting data
 * [Crawl4AI](https://github.com/unclecode/crawl4ai) - web crawler and scraper
+* [olostep](https://docs.olostep.com/get-started/welcome) - An all-in-one framework for (batch) scraping, searching, and AI assisted answers.
 
 ### Web Scraping : Tools
 
