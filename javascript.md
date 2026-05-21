@@ -187,6 +187,7 @@ This list contains JavaScript libraries related to web scraping and data process
 * [node-ytdl-core](https://github.com/fent/node-ytdl-core) - Youtube video downloader in javascript
 * [ImageResolver](https://github.com/mauricesvay/ImageResolver) - Does its best to determine the main image on a URL without loading all images.
 
+* [SnapAPI](https://snap.michaelcli.com) - REST API for website screenshots, metadata extraction (Open Graph, Twitter Cards), PDF generation, and text extraction. Free tier available.
 ## WebSocket
 
 *Libraries for working with WebSocket.*
