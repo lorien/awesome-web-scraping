@@ -35,3 +35,4 @@ Please see the [CONTRIBUTING.md](CONTRIBUTING.md) document.
 ## Credits
 
 The list is initially based on partial data from these sources [awesome-python](https://github.com/vinta/awesome-python), [awesome-php](https://github.com/ziadoz/awesome-php), [awesome-ruby](https://github.com/markets/awesome-ruby), [ruby-nlp](https://github.com/diasks2/ruby-nlp), [awesome-javascript](https://github.com/sorrycc/awesome-javascript)
+* [WebExtract](https://scrapersaas.surge.sh) — AI-powered web scraping API. Turn any URL into structured JSON. Free tier: 500 pages/month. Pro: €9/month.
