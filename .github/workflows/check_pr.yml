@@ -1,7 +1,7 @@
 name: Reject PRs containing restricted words
 
 on:
-  pull_request:
+  pull_request_target:
     types: [opened, synchronize, edited]
 
 permissions:
@@ -12,7 +12,6 @@ jobs:
   check:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
       - uses: lorien/pr-policy-checker@main
         with:
           restricted-words: "ai,mcp,apify"
