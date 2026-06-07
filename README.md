@@ -21,6 +21,7 @@ List of packages, services, and manuals related to web scraping.
 
 ## Proxy Server Marketplaces
 
+* [Geonode](https://geonode.com) — Rotating residential and datacenter proxies with REST API access.
 * https://www.blackhatworld.com/forums/proxies-for-sale.112/
 * https://forum.antichat.com/forums/147/
 
