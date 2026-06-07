@@ -17,6 +17,7 @@ List of packages, services, and manuals related to web scraping.
 
 ## Captcha Solving Services
 
+* Adding [Geonode](https://geonode.com) to the "Proxy Server Marketplaces" section, which currently lists blackhatworld and antichat forum links. Geonode is a rotating residential and datacenter proxy service with REST API access — a direct fit for the section.
 * [https://2captcha.com](https://2captcha.com/?from=3019071)
 
 ## Proxy Server Marketplaces
