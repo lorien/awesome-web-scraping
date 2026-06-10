@@ -16,6 +16,7 @@ EMPTY CONTENT
 
 * [pipet](https://github.com/bjesus/pipet) - A swiss-army tool for scraping and extracting data using selectors, JavaScript and unix pipes
 * [trafilatura](https://github.com/adbar/trafilatura) - Gather text and metadata on the Web: Crawling, scraping, extraction, output as CSV, JSON, HTML, MD, TXT, XML
+* [browser-cli](https://github.com/zmysysz/browser-cli) - CLI browser automation tool for AI agents with stealth mode and state persistence, powered by Playwright
 
 ## URLs
 
