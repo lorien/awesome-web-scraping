@@ -14,7 +14,7 @@ List of packages, services, and manuals related to web scraping.
 * [dhamaniasad / HeadlessBrowsers](https://github.com/dhamaniasad/HeadlessBrowsers) - list of (almost) all headless web browsers in existence
 * [DNS over HTTPS providers](https://github.com/curl/curl/wiki/DNS-over-HTTPS) - list of DNS over HTTPS providers
 * [Awesome Pastebins](https://github.com/lorien/awesome-pastebins) - list of pastebin sites
-
+* [ProxyVero](https://www.proxyvero.com) - A free live benchmark index and dynamic bandwidth cost simulator for web scraping proxies.
 ## Captcha Solving Services
 
 * [https://2captcha.com](https://2captcha.com/?from=3019071)
