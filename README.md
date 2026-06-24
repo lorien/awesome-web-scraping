@@ -21,6 +21,7 @@ List of packages, services, and manuals related to web scraping.
 
 ## Proxy Server Marketplaces
 
+* [HProxy](https://hproxy.com) - Residential, mobile, ISP and datacenter proxies, plus a free proxy list (HTTP/HTTPS/SOCKS4/SOCKS5)
 * https://www.blackhatworld.com/forums/proxies-for-sale.112/
 * https://forum.antichat.com/forums/147/
 
