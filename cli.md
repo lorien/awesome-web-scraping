@@ -10,7 +10,7 @@ This list contains network and data processing tools with command line interface
 
 ## Network
 
-EMPTY CONTENT
+* [ProxyForge](https://proxyforge.dev) - Free desktop tool that auto-discovers, tests, and rotates free proxies every 6 hours. Live-tested JSON endpoint at /curated.json for direct integration with scrapers (Scrapy, Playwright, requests, curl).
 
 ## Web Scraping
 
