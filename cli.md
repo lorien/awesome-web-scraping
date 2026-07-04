@@ -16,6 +16,7 @@ EMPTY CONTENT
 
 * [pipet](https://github.com/bjesus/pipet) - A swiss-army tool for scraping and extracting data using selectors, JavaScript and unix pipes
 * [trafilatura](https://github.com/adbar/trafilatura) - Gather text and metadata on the Web: Crawling, scraping, extraction, output as CSV, JSON, HTML, MD, TXT, XML
+* [docpull](https://github.com/raintree-technology/docpull) - Public static/server-rendered web extraction CLI that writes clean Markdown, NDJSON, SQLite, and local archives.
 
 ## URLs
 
