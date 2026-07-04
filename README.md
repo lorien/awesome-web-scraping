@@ -23,6 +23,7 @@ List of packages, services, and manuals related to web scraping.
 
 * https://www.blackhatworld.com/forums/proxies-for-sale.112/
 * https://forum.antichat.com/forums/147/
+* [proxy-dns-leak-check](https://github.com/SotaProxy/proxy-dns-leak-check) - CLI tool to detect DNS leaks when routing traffic through proxies
 
 ## Telegram Discussion Groups
 * [@grablab](https://t.me/grablab) - talks in English
