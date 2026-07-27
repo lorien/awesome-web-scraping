@@ -19,6 +19,7 @@ List of packages, services, and manuals related to web scraping.
 
 * [https://2captcha.com](https://2captcha.com/?from=3019071)
 
+- [UnblockAPI](https://unblockapi.com) - API for AI agents and web scrapers: captcha solving (40+ types including reCAPTCHA, hCaptcha, Turnstile), headless browser rendering, screenshots, temp email, SMS verification. Flat pricing from $0.05/call, 5 free calls.
 ## Proxy Server Marketplaces
 
 * https://www.blackhatworld.com/forums/proxies-for-sale.112/
