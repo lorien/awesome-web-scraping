@@ -10,7 +10,7 @@ This list contains network and data processing tools with command line interface
 
 ## Network
 
-* [ProxyForge](https://proxyforge.dev) - Free desktop tool that auto-discovers, tests, and rotates free proxies every 6 hours. Live-tested JSON endpoint at /curated.json for direct integration with scrapers (Scrapy, Playwright, requests, curl).
+* [ProxyForge](https://proxyforge.dev) - Free desktop tool that auto-discovers, live-tests, and rotates free proxies every 6 hours, segmented by country / protocol (HTTP, HTTPS, SOCKS4, SOCKS5) / anonymity tier. Works with Scrapy, Playwright, requests, curl.
 
 ## Web Scraping
 
