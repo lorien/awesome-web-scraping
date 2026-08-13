@@ -27,6 +27,7 @@ List of packages, services, and manuals related to web scraping.
 ## Telegram Discussion Groups
 * [@grablab](https://t.me/grablab) - talks in English
 * [@grablab_ru](https://t.me/grablab_ru) - talks in Russian
+- [n8n JSON Feed to Telegram](https://github.com/DeusAcc/n8n-json-feed-to-telegram) - Free n8n workflow that polls a JSON endpoint and alerts on Telegram only for new entries.
 
 ## How to Contribute to This List
 
