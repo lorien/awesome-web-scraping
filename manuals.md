@@ -73,6 +73,7 @@ Nothing yet here.
 ### TLS
 
 * [High Performance Browser Networking / Transport Layer Security (TLS)](https://hpbn.co/transport-layer-security-tls/)
+* [Scraping Reachability 2026](https://github.com/mtedj/scraping-reachability-2026) - measured study of how the TLS fingerprint, the IP pool and browser-issued tokens decide access to 24 public sites
 
 ### WebSocket
 
