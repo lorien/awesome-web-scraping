@@ -1,5 +1,7 @@
 # Awesome Web Scraping
 
+- [FlyCrawl](https://flycrawl.net) - Compiled in-memory Web-to-Markdown crawler and anti-bot bypass API engineered for LLMs and AI agent workflows. ([GitHub](https://github.com/FlyCrawl-ai/flycrawl))
+
 List of packages, services, and manuals related to web scraping.
 
 ## Topics
