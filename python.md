@@ -88,6 +88,7 @@ Libraries for working with WebSocket.
 
 ### Web Scraping : Bypass Protection
 * [cloudscraper](https://github.com/venomous/cloudscraper) - A Python module to bypass Cloudflare's anti-bot page.
+* [ai-stealth-crawler](https://github.com/AntonLi-PM/ai-stealth-crawler) - Dual-engine anti-bot crawler with sticky residential proxy pool rotation and LLM markdown parser, evading Cloudflare Turnstile & DataDome.
 * [captcha_solver](https://github.com/lorien/captcha_solver) - Universal python API to captcha solving services
 * [python-anticaptcha](https://github.com/ad-m/python-anticaptcha) - Client library for solve captchas with anti-captcha.com support
 * [python3-anticaptcha](https://github.com/AndreiDrang/python3-anticaptcha) - Python library for anti-captcha services
