@@ -18,6 +18,7 @@ List of packages, services, and manuals related to web scraping.
 ## Captcha Solving Services
 
 * [https://2captcha.com](https://2captcha.com/?from=3019071)
+* [Peak](https://peak.fo) - API to solve Cloudflare Turnstile and the interstitial "5 second" challenge; pay only for successful solves
 
 ## Proxy Server Marketplaces
 
