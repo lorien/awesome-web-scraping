@@ -16,6 +16,7 @@ EMPTY CONTENT
 
 * [pipet](https://github.com/bjesus/pipet) - A swiss-army tool for scraping and extracting data using selectors, JavaScript and unix pipes
 * [trafilatura](https://github.com/adbar/trafilatura) - Gather text and metadata on the Web: Crawling, scraping, extraction, output as CSV, JSON, HTML, MD, TXT, XML
+* [geokit-cli](https://github.com/gstar-byte/geokit-cli) - CLI for Generative Engine Optimization (GEO), AI crawler testing, and llms.txt validation. Companion to [GEOKit](https://geokit.site).
 
 ## URLs
 
