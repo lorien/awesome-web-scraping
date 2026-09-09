@@ -216,6 +216,7 @@ This list contains JavaScript libraries related to web scraping and data process
 
 * [toxy](https://github.com/h2non/toxy) - Hackable HTTP proxy to simulate server failure scenarios and unexpected network conditions
 * [proxy-chain](https://github.com/apifytech/proxy-chain) - Node.js implementation of a proxy server (think Squid) with support for SSL, authentication and upstream proxy chaining
+* [proxlane](https://github.com/proxlane/proxlane) - Self-hosted gateway in front of scraping APIs (ScraperAPI, ScrapingBee, Scrapfly, Bright Data) with automatic failover and block-page detection
 
 ## Other JavaScript Lists
 
