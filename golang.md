@@ -62,6 +62,7 @@ This list contains Golang libraries related to web scraping and data processing
 ## Browser Automation
 
 * [chromedp](https://github.com/chromedp/chromedp) - A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol
+* [Stagehand](https://github.com/browserbase/stagehand) - A quick and token-efficient browser driver, exposing utils to extract data and perform self-healing actions on web pages using natural language.
 
 ## Text Processing
 

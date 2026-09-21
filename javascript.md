@@ -85,6 +85,7 @@ This list contains JavaScript libraries related to web scraping and data process
 * [wendigo](https://github.com/angrykoala/wendigo) - Test-oriented headless browser, built on top of Puppeteer.
 * [Playwright](https://github.com/microsoft/playwright) - Node.js library to automate Chromium, Firefox and WebKit with a single API
 * [Figranium](https://github.com/figranium/figranium) - Dockerized browser automation platform built on Playwright that lets you visually build and run browser tasks using modular action blocks and execute them via API
+* [Stagehand](https://github.com/browserbase/stagehand) - Same API as Playwright with 2x time quicker execution (embedded as extension, batching support) and 80% less token usage.
 
 ## Text Processing
 
