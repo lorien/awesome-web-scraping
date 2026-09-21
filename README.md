@@ -20,7 +20,9 @@ List of packages, services, and manuals related to web scraping.
 
 * [https://2captcha.com](https://2captcha.com/?from=3019071)
 
-## Proxy Server Marketplaces
+## Proxy Services & Marketplaces
+
+* [PXM2](https://pxm2.io/) - Dedicated 4G/5G rotating mobile proxies with raw carrier IPs and instant rotation API for anti-detection and web scraping.
 
 * https://www.blackhatworld.com/forums/proxies-for-sale.112/
 * https://forum.antichat.com/forums/147/
