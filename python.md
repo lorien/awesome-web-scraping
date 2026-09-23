@@ -85,6 +85,7 @@ Libraries for working with WebSocket.
 * [Gerapy](https://github.com/Gerapy/Gerapy) - Distributed Crawler Management Framework Based on Scrapy, Scrapyd, Django and Vue.js
 * [crawler-buddy](https://github.com/rumca-js/crawler-buddy) - Crawling server, provides crawl information via JSON interface
 * [python-proxy-headers](https://github.com/proxymesh/python-proxy-headers) - extensions for popular libraries to better handle proxy headers
+* [scrapy-proxlane](https://github.com/proxlane/scrapy-proxlane) - Scrapy downloader middleware that routes requests through a self-hosted gateway in front of ScraperAPI, ScrapingBee, Scrapfly, Bright Data and Firecrawl, with failover and block-page detection
 
 ### Web Scraping : Bypass Protection
 * [cloudscraper](https://github.com/venomous/cloudscraper) - A Python module to bypass Cloudflare's anti-bot page.
