@@ -93,6 +93,7 @@ Libraries for working with WebSocket.
 * [python3-anticaptcha](https://github.com/AndreiDrang/python3-anticaptcha) - Python library for anti-captcha services
 * [unicaps](https://github.com/sergey-scat/unicaps) - a unified Python API for CAPTCHA solving services
 * [capmonstercloud-client](https://github.com/CapMonsterCloud/capmonster-python-captcha-solver) - Asynchronous Python library for CAPTCHA solving via CapMonster Cloud API
+* [nonecap](https://github.com/nonecap/nonecap-py) - Python client (sync and async) for the NoneCap hCaptcha solver API
 
 ## HTML/XML Parsing
 
