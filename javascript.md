@@ -51,6 +51,7 @@ This list contains JavaScript libraries related to web scraping and data process
 
 ### Web Scraping : Bypass Protection
 * [capmonster-nodejs-captcha-solver](https://github.com/CapMonsterCloud/capmonster-nodejs-captcha-solver) - Node.js library for automating CAPTCHA solving with CapMonster Cloud API
+* [nonecap](https://github.com/nonecap/nonecap-js) - TypeScript client for the NoneCap hCaptcha solver API (Node.js, Bun, Deno)
 
 ## HTML/XML Parsing
 
