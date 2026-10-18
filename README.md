@@ -12,6 +12,7 @@ List of packages, services, and manuals related to web scraping.
 * [Command Line Tools](https://github.com/lorien/web-scraping/blob/master/cli.md) - tools with a command line interface
 * [Web-Scraping Manuals](https://github.com/lorien/awesome-web-scraping/blob/master/manuals.md) - list of articles and books teaching web scraping
 * [dhamaniasad / HeadlessBrowsers](https://github.com/dhamaniasad/HeadlessBrowsers) - list of (almost) all headless web browsers in existence
+* [Headless Browser & Scraping API Cost Calculator](https://sectoroneventures.github.io/infrabench/headless-scraper-benchmark.html) - interactive monthly cost and speed calculator for headless Chrome scrapers and proxy APIs
 * [DNS over HTTPS providers](https://github.com/curl/curl/wiki/DNS-over-HTTPS) - list of DNS over HTTPS providers
 * [Awesome Pastebins](https://github.com/lorien/awesome-pastebins) - list of pastebin sites
 * [Awesome Tunneling](https://github.com/anderspitman/awesome-tunneling) - List of tunneling software and services. Focus on self-hosting.
