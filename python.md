@@ -165,6 +165,7 @@ Libraries for working with WebSocket.
 
 ### Browser Automation : Tools
 * [xvfbwrapper](https://github.com/cgoldberg/xvfbwrapper) - Python wrapper for running a display inside X virtual framebuffer (Xvfb)
+* [shadow-dom-booking-scraper](https://github.com/mohamd764/shadow-dom-booking-scraper) - Playwright scraper that reads booking-widget slots from open shadow DOM into a deduplicated CSV, with robots.txt checks and an offline demo.
 
 ## Text Processing
 
