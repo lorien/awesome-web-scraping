@@ -15,6 +15,7 @@ List of packages, services, and manuals related to web scraping.
 * [DNS over HTTPS providers](https://github.com/curl/curl/wiki/DNS-over-HTTPS) - list of DNS over HTTPS providers
 * [Awesome Pastebins](https://github.com/lorien/awesome-pastebins) - list of pastebin sites
 * [Awesome Tunneling](https://github.com/anderspitman/awesome-tunneling) - List of tunneling software and services. Focus on self-hosting.
+* - [IIX Lab](https://ii-x.com/) — browser-based data cleaning tools for scraped output: CSV/JSON conversion, dedupe, CSV diff, plus a product page extraction API.
 
 ## Captcha Solving Services
 
