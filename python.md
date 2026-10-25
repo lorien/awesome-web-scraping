@@ -357,6 +357,7 @@ event loops.*
 ## Proxy Tools
 * [scylla](https://github.com/imWildCat/scylla) - Intelligent proxy pool for Humans
 * [ProxyBroker](https://github.com/constverum/Proxybroker) - Proxy [Finder | Checker | Server]. HTTP(S) & SOCKS
+* [check-proxy-tax](https://github.com/600me/check-proxy-tax) - Zero-dependency CLI (PyPI & Node.js) auditing effective proxy cost, usable request ratio, and anti-bot latency.
 
 ## Proxy Server
 * [shadowsocks](https://github.com/shadowsocks/shadowsocks) - A fast tunnel proxy that helps you bypass firewalls (TCP & UDP support, User management API, TCP Fast Open, Workers and graceful restart, Destination IP blacklist)
