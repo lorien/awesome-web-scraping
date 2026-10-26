@@ -49,9 +49,6 @@ This list contains JavaScript libraries related to web scraping and data process
 * [Ayakashi](https://github.com/ayakashi-io/ayakashi) - The next generation web scraping framework. Features all the necessary tools to create reliable and maintainable scraping and automation systems.
 * [pjscrape](https://github.com/nrabinowitz/pjscrape) - A web-scraping framework written in Javascript, using PhantomJS and jQuery
 
-### Web Scraping : Bypass Protection
-* [capmonster-nodejs-captcha-solver](https://github.com/CapMonsterCloud/capmonster-nodejs-captcha-solver) - Node.js library for automating CAPTCHA solving with CapMonster Cloud API
-
 ## HTML/XML Parsing
 
 ### HTML/XML Parsing : General
