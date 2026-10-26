@@ -34,3 +34,5 @@ The following content is restricted in this repo:
   software
 * Anything related to automation with an AI agent or the Model Context
   Protocol (MCP)
+* Official SDK/clients to captcha solving services (only universal multi-backend
+  client are accepted)
