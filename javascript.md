@@ -68,6 +68,7 @@ This list contains JavaScript libraries related to web scraping and data process
 * [node-read](https://github.com/bndr/node-read) - Get Readable Content from any page. Based on Arc90's readability project using cheerio engine.
 * [node-ytdl-core](https://github.com/fent/node-ytdl-core) - Youtube video downloader in javascript
 * [ImageResolver](https://github.com/mauricesvay/ImageResolver) - Does its best to determine the main image on a URL without loading all images.
+* [magpie-html](https://github.com/Anonyfox/magpie-html) - Extracts article text, page metadata and RSS/Atom/JSON feeds from HTML, in Node.js and the browser.
 
 ## Browser Automation
 
