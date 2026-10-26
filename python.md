@@ -88,6 +88,7 @@ Libraries for working with WebSocket.
 * [python-proxy-headers](https://github.com/proxymesh/python-proxy-headers) - extensions for popular libraries to better handle proxy headers 
 
 ### Web Scraping : Bypass Protection
+* [unicaptcha](https://github.com/lorien/unicaptcha) - Universal Python interface to multiple captcha solving services
 * [cloudscraper](https://github.com/venomous/cloudscraper) - A Python module to bypass Cloudflare's anti-bot page.
 * [captcha_solver](https://github.com/lorien/captcha_solver) - Universal python API to captcha solving services
 * [python-anticaptcha](https://github.com/ad-m/python-anticaptcha) - Client library for solve captchas with anti-captcha.com support
