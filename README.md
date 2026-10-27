@@ -26,8 +26,7 @@ List of packages, services, and manuals related to web scraping.
 * https://forum.antichat.com/forums/147/
 
 ## Telegram Discussion Groups
-* [@grablab](https://t.me/grablab) - talks in English
-* [@grablab_ru](https://t.me/grablab_ru) - talks in Russian
+* [@grablab_ru](https://t.me/grablab_ru) - web-scraping talks in Russian
 
 ## How to Contribute to This List
 
