@@ -160,6 +160,7 @@ Libraries for working with WebSocket.
 * [Playwright](https://github.com/microsoft/playwright-python) - Playwright is a Python library to automate Chromium, Firefox and WebKit browsers with a single API
 * [seleniumbase](https://github.com/seleniumbase/SeleniumBase) - Python framework for Web/UI testing + RPA. 🤖 🏰 Fast, easy, and reliable.
 * [wavexis](https://github.com/MathiasPaulenko/wavexis) - async browser automation library with dual backend (CDP for Chrome/Edge, BiDi for Firefox). No driver needed for CDP. Stealth mode, network interception, a11y snapshots.
+* [nokk](https://github.com/koloss777/nokk) - Headless browser engine with Chrome's TLS, HTTP/2 and JavaScript fingerprint that passes Cloudflare challenges without Chromium; Python and Node launchers, CDP for Playwright and Puppeteer
 
 ### Browser Automation : Frameworks
 * [botasaurus](https://github.com/omkarcloud/botasaurus) - all-in-one web scraping framework
