@@ -16,6 +16,7 @@ EMPTY CONTENT
 
 * [pipet](https://github.com/bjesus/pipet) - A swiss-army tool for scraping and extracting data using selectors, JavaScript and unix pipes
 * [trafilatura](https://github.com/adbar/trafilatura) - Gather text and metadata on the Web: Crawling, scraping, extraction, output as CSV, JSON, HTML, MD, TXT, XML
+* [diting](https://github.com/yinnho/diting) - A browser engine for AI agents: single Rust binary with built-in V8 (no Chromium), HTTP API that fetches JS-rendered pages to markdown, takes deterministic screenshots, renders HTML to video, and runs recorded interaction flows
 * [Wayback-Archive](https://github.com/GeiserX/Wayback-Archive) - Download a whole website from the Wayback Machine and rewrite its links for offline viewing
 
 ## URLs
