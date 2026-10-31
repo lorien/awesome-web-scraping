@@ -161,6 +161,7 @@ Libraries for working with WebSocket.
 * [seleniumbase](https://github.com/seleniumbase/SeleniumBase) - Python framework for Web/UI testing + RPA. 🤖 🏰 Fast, easy, and reliable.
 * [wavexis](https://github.com/MathiasPaulenko/wavexis) - async browser automation library with dual backend (CDP for Chrome/Edge, BiDi for Firefox). No driver needed for CDP. Stealth mode, network interception, a11y snapshots.
 * [nokk](https://github.com/koloss777/nokk) - Headless browser engine with Chrome's TLS, HTTP/2 and JavaScript fingerprint that passes Cloudflare challenges without Chromium; Python and Node launchers, CDP for Playwright and Puppeteer
+* [clearcote](https://github.com/clearcotelabs/clearcote-browser) - Playwright drop-in that launches a Chromium build with its fingerprint protection patched into the engine
 
 ### Browser Automation : Frameworks
 * [botasaurus](https://github.com/omkarcloud/botasaurus) - all-in-one web scraping framework
