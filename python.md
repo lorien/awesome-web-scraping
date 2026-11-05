@@ -357,6 +357,7 @@ event loops.*
 
 ## Account Management
 * [ninjemail](https://github.com/david96182/ninjemail) - Python library for automated email account creation for different providers.
+* [maily-client](https://github.com/stormsia/maily) - Async Python client for temporary email with 40+ rotating domains, automatic OTP extraction, and multi-provider failover.
 
 ## Proxy Tools
 * [scylla](https://github.com/imWildCat/scylla) - Intelligent proxy pool for Humans
