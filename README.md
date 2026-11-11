@@ -35,3 +35,5 @@ Please see the [CONTRIBUTING.md](CONTRIBUTING.md) document.
 ## Credits
 
 The list is initially based on partial data from these sources [awesome-python](https://github.com/vinta/awesome-python), [awesome-php](https://github.com/ziadoz/awesome-php), [awesome-ruby](https://github.com/markets/awesome-ruby), [ruby-nlp](https://github.com/diasks2/ruby-nlp), [awesome-javascript](https://github.com/sorrycc/awesome-javascript)
+
+* [AI & Proxy Pool Cost Calculator](https://github.com/alekseev04051988-blip/ai-cost-calculator) - Interactive web calculator to estimate monthly costs for IPv6/IPv4 scraping proxy pools and cloud GPU instances.
