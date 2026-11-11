@@ -85,7 +85,8 @@ Libraries for working with WebSocket.
 * [Starbelly](https://github.com/HyperionGray/starbelly) - Starbelly is a user-friendly and highly configurable web crawler front end.
 * [Gerapy](https://github.com/Gerapy/Gerapy) - Distributed Crawler Management Framework Based on Scrapy, Scrapyd, Django and Vue.js
 * [crawler-buddy](https://github.com/rumca-js/crawler-buddy) - Crawling server, provides crawl information via JSON interface
-* [python-proxy-headers](https://github.com/proxymesh/python-proxy-headers) - extensions for popular libraries to better handle proxy headers 
+* [python-proxy-headers](https://github.com/proxymesh/python-proxy-headers) - extensions for popular libraries to better handle proxy headers
+* [b2b-mcp-apify-scrapers-hub](https://github.com/deepakshe/b2b-mcp-apify-scrapers-hub) - Python web scraping suite for domain intelligence, contact extraction, and e-commerce catalogs. 
 
 ### Web Scraping : Bypass Protection
 * [unicaptcha](https://github.com/lorien/unicaptcha) - Universal Python interface to multiple captcha solving services
