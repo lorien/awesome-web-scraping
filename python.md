@@ -86,6 +86,7 @@ Libraries for working with WebSocket.
 * [Gerapy](https://github.com/Gerapy/Gerapy) - Distributed Crawler Management Framework Based on Scrapy, Scrapyd, Django and Vue.js
 * [crawler-buddy](https://github.com/rumca-js/crawler-buddy) - Crawling server, provides crawl information via JSON interface
 * [python-proxy-headers](https://github.com/proxymesh/python-proxy-headers) - extensions for popular libraries to better handle proxy headers 
+* [google-maps-scraper-kit](https://github.com/Mahanaicoach/google-maps-scraper-kit) - Google Maps business scraper with email and social profile extraction to CSV, no API key.
 
 ### Web Scraping : Bypass Protection
 * [unicaptcha](https://github.com/lorien/unicaptcha) - Universal Python interface to multiple captcha solving services
