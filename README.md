@@ -28,6 +28,9 @@ List of packages, services, and manuals related to web scraping.
 ## Telegram Discussion Groups
 * [@grablab_ru](https://t.me/grablab_ru) - web-scraping talks in Russian
 
+## Structured Vertical Directories & MCP
+* [No Stairs Please](https://nostairsplease.com/) - Directory and read-only MCP server (`https://nostairsplease.com/mcp`) of small live-music venues across all 50 US states.
+
 ## How to Contribute to This List
 
 Please see the [CONTRIBUTING.md](CONTRIBUTING.md) document.
