@@ -86,6 +86,8 @@ Libraries for working with WebSocket.
 * [Gerapy](https://github.com/Gerapy/Gerapy) - Distributed Crawler Management Framework Based on Scrapy, Scrapyd, Django and Vue.js
 * [crawler-buddy](https://github.com/rumca-js/crawler-buddy) - Crawling server, provides crawl information via JSON interface
 * [python-proxy-headers](https://github.com/proxymesh/python-proxy-headers) - extensions for popular libraries to better handle proxy headers 
+* [google-play-reviews-scraper](https://github.com/datamill-top/google-play-reviews-scraper) - Google Play reviews and app metadata; reviewer names are hashed at collection time, no personal data is stored.
+* [app-store-reviews-scraper](https://github.com/datamill-top/app-store-reviews-scraper) - Apple App Store reviews and app metadata; reviewer identities are never collected.
 
 ### Web Scraping : Bypass Protection
 * [unicaptcha](https://github.com/lorien/unicaptcha) - Universal Python interface to multiple captcha solving services
