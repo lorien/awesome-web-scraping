@@ -18,6 +18,7 @@ EMPTY CONTENT
 * [trafilatura](https://github.com/adbar/trafilatura) - Gather text and metadata on the Web: Crawling, scraping, extraction, output as CSV, JSON, HTML, MD, TXT, XML
 * [Wayback-Archive](https://github.com/GeiserX/Wayback-Archive) - Download a whole website from the Wayback Machine and rewrite its links for offline viewing
 * [tme-s](https://github.com/axmaier/tme-s) - Read public Telegram channels from the t.me/s/ web preview as JSON lines, without an API key, phone number or account
+* [spider_cli](https://github.com/spider-rs/spider/tree/main/spider_cli) - Command line web crawler written in Rust that crawls a site and downloads or prints its pages
 
 ## URLs
 
