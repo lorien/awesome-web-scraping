@@ -30,6 +30,7 @@ This list contains JavaScript libraries related to web scraping and data process
 * [urllib](https://github.com/node-modules/urllib) - Request HTTP(s) URLs in a complex world
 * [needle](https://github.com/tomas/needle) - Nimble, streamable HTTP client for Node.js. With proxy, iconv, cookie, deflate & multipart support
 * [node-wreq](https://github.com/StopMakingThatBigFace/node-wreq) - Node.js (ESM/CJS) HTTP client with native TLS/HTTP2 browser impersonation, JA3/JA4 control and WebSocket support.
+* [browsersmith](https://github.com/jverneuer/browsersmith) - Browser-identical HTTP client for Node.js: byte-accurate TLS (JA3/JA4), HTTP/2 and header-order fingerprints of Chrome, Firefox and Safari, with SOCKS5 proxy and cookie support
 
 ### Network : WebSocket
 * [websocket.io](https://github.com/LearnBoost/websocket.io) - WebSocket.IO is an abstraction of the websocket server previously used by Socket.IO. It has the broadest support for websocket protocol/specifications and an API that allows for interoperability with higher-level frameworks such as Engine, Socket.IO's realtime core.
