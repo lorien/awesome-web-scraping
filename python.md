@@ -147,6 +147,7 @@ Libraries for working with WebSocket.
 * [visura-api](https://github.com/zornade/visura-api) - REST API for automated Italian cadastral property record extraction from the SISTER portal, using Playwright for browser automation with SPID authentication.
 * [amazon-orders](https://github.com/alexdlaird/amazon-orders) - A Python library (and CLI) for Amazon order history; line items, prices, and receipts.
 * [ytscrape](https://github.com/vsmutok/ytscrape) - Fast, lightweight, pure-HTTP Python library for scraping YouTube search, video & channel metadata, comments, and transcripts (sync & async).
+* [google-maps-scraper-kit](https://github.com/Mahanaicoach/google-maps-scraper-kit) - Google Maps business scraper with email and social profile extraction to CSV, no API key.
 
 ## Browser Automation
 
