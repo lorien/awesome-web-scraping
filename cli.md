@@ -18,6 +18,7 @@ EMPTY CONTENT
 * [trafilatura](https://github.com/adbar/trafilatura) - Gather text and metadata on the Web: Crawling, scraping, extraction, output as CSV, JSON, HTML, MD, TXT, XML
 * [Wayback-Archive](https://github.com/GeiserX/Wayback-Archive) - Download a whole website from the Wayback Machine and rewrite its links for offline viewing
 * [tme-s](https://github.com/axmaier/tme-s) - Read public Telegram channels from the t.me/s/ web preview as JSON lines, without an API key, phone number or account
+* [SpyWeb](https://github.com/spyweb-app/spyweb) - Self-hosted scraping/monitoring engine with Lua hooks, scheduler, dedupe, embedded storage, dashboard/API server, Lua test runner, browser automation (CDP), and a ~8MB cross-platform self-contained binary
 
 ## URLs
 
