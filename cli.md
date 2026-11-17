@@ -19,6 +19,7 @@ EMPTY CONTENT
 * [Wayback-Archive](https://github.com/GeiserX/Wayback-Archive) - Download a whole website from the Wayback Machine and rewrite its links for offline viewing
 * [tme-s](https://github.com/axmaier/tme-s) - Read public Telegram channels from the t.me/s/ web preview as JSON lines, without an API key, phone number or account
 * [spider_cli](https://github.com/spider-rs/spider/tree/main/spider_cli) - Command line web crawler written in Rust that crawls a site and downloads or prints its pages
+* [SpyWeb](https://github.com/spyweb-app/spyweb) - Self-hosted scraping/monitoring engine with Lua hooks, scheduler, dedupe, embedded storage, dashboard/API server, Lua test runner, browser automation (CDP), and a ~8MB cross-platform self-contained binary
 
 ## URLs
 

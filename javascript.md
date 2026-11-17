@@ -70,6 +70,7 @@ This list contains JavaScript libraries related to web scraping and data process
 * [node-ytdl-core](https://github.com/fent/node-ytdl-core) - Youtube video downloader in javascript
 * [ImageResolver](https://github.com/mauricesvay/ImageResolver) - Does its best to determine the main image on a URL without loading all images.
 * [magpie-html](https://github.com/Anonyfox/magpie-html) - Extracts article text, page metadata and RSS/Atom/JSON feeds from HTML, in Node.js and the browser.
+* [linkpeek](https://github.com/thegruber/linkpeek) - Extracts Open Graph, Twitter Card and JSON-LD link-preview metadata from a URL by streaming only the document head.
 
 ## Browser Automation
 
@@ -77,7 +78,6 @@ This list contains JavaScript libraries related to web scraping and data process
 * [slimerjs](https://github.com/laurentj/slimerjs) - A PhantomJS-like tool running Gecko.
 * [casperjs](https://github.com/n1k0/casperjs) - Navigation scripting & testing utility for PhantomJS and SlimerJS.
 * [zombie](https://github.com/assaf/zombie) - Insanely fast, full-stack, headless browser testing using node.js.
-* [nightmare](https://github.com/segmentio/nightmare) - Nightmare is a high level wrapper for PhantomJS that lets you automate browser tasks
 * [puppeteer](https://github.com/GoogleChrome/puppeteer) - Puppeteer is a Node library which provides a high-level API to control headless Chrome or Chromium over the DevTools Protocol. It can also be configured to use full (non-headless) Chrome or Chromium.
 * [headless-chrome-crawler](https://github.com/yujiosaka/headless-chrome-crawler) - Distributed crawler powered by Headless Chrome
 * [puppeteer-recorder](https://github.com/checkly/puppeteer-recorder) - Puppeteer recorder is a Chrome extension that records your browser interactions and generates a Puppeteer script.
