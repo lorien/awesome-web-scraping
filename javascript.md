@@ -69,6 +69,7 @@ This list contains JavaScript libraries related to web scraping and data process
 * [node-ytdl-core](https://github.com/fent/node-ytdl-core) - Youtube video downloader in javascript
 * [ImageResolver](https://github.com/mauricesvay/ImageResolver) - Does its best to determine the main image on a URL without loading all images.
 * [magpie-html](https://github.com/Anonyfox/magpie-html) - Extracts article text, page metadata and RSS/Atom/JSON feeds from HTML, in Node.js and the browser.
+* [linkpeek](https://github.com/thegruber/linkpeek) - Extracts Open Graph, Twitter Card and JSON-LD link-preview metadata from a URL by streaming only the document head.
 
 ## Browser Automation
 
