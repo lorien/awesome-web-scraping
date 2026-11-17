@@ -126,7 +126,6 @@ Libraries for working with WebSocket.
 ## Content Extraction
 * [micawber](https://github.com/coleifer/micawber) - A small library for extracting rich content from URLs.
 * [newspaper](https://github.com/codelucas/newspaper) - News extraction, article extraction and content curation in Python.
-* [python-goose](https://github.com/grangier/python-goose) - HTML Content/Article Extractor.
 * [scrapely](https://github.com/scrapy/scrapely) - Library for extracting structured data from HTML pages. Given some example web pages and the data to be extracted, scrapely constructs a parser for all similar pages.
 * [htmldate](https://github.com/adbar/htmldate) - Find creation date using common structural patterns or text-based heuristics.
 * [lassie](https://github.com/michaelhelmick/lassie) - Web Content Retrieval for Humans.
