@@ -148,6 +148,7 @@ Libraries for working with WebSocket.
 * [amazon-orders](https://github.com/alexdlaird/amazon-orders) - A Python library (and CLI) for Amazon order history; line items, prices, and receipts.
 * [ytscrape](https://github.com/vsmutok/ytscrape) - Fast, lightweight, pure-HTTP Python library for scraping YouTube search, video & channel metadata, comments, and transcripts (sync & async).
 * [google-maps-scraper-kit](https://github.com/Mahanaicoach/google-maps-scraper-kit) - Google Maps business scraper with email and social profile extraction to CSV, no API key.
+* [scrapewright](https://github.com/Ozymandias-Owens-2/scrapewright) - Synthesizes a CSS-selector recipe for a site once with an LLM, caches it, then replays it with BeautifulSoup at no further model cost.
 
 ## Browser Automation
 
