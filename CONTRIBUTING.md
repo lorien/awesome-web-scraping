@@ -4,6 +4,18 @@ To add a new project to the awesome-web-scraping repo, you have to create a
 pull request. The full contribution workflow is documented in
 `spec/docs/contribution.md`.
 
+## Restricted Content
+
+The following content is restricted in this repo:
+
+* Projects whose GitHub repo is younger than a month
+* Web service / website / remote API - anything that is not standalone
+  software
+* Anything related to automation with an AI agent or the Model Context
+  Protocol (MCP) or the Large Language Model (LLM).
+* Official SDK/clients to captcha solving services (only universal multi-backend
+  client are accepted)
+
 ## How to Create a Pull Request
 
 * Fork and clone the awesome-web-scraping repo
@@ -24,15 +36,3 @@ pull request. The full contribution workflow is documented in
   pre-commit hook with `git config core.hooksPath .githooks`
 * Create a pull request. Specify what you have changed/added in the pull
   request's description.
-
-## Restricted Content
-
-The following content is restricted in this repo:
-
-* Projects whose GitHub repo is younger than a month
-* Web service / website / remote API - anything that is not standalone
-  software
-* Anything related to automation with an AI agent or the Model Context
-  Protocol (MCP)
-* Official SDK/clients to captcha solving services (only universal multi-backend
-  client are accepted)
