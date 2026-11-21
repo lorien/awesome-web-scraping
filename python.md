@@ -1,7 +1,4 @@
 # Python Web Scraping
-
-This list contains python libraries related to web scraping and data processing
-
 ## Contents
 
 * [Network](#network)
@@ -170,6 +167,7 @@ Libraries for working with WebSocket.
 
 ### Browser Automation : Tools
 * [xvfbwrapper](https://github.com/cgoldberg/xvfbwrapper) - Python wrapper for running a display inside X virtual framebuffer (Xvfb)
+* [StealthScrape Config Gen](https://github.com/gellodoon/stealthscrape-generator) - Client-side boilerplate generator for randomized undetected-chromedriver and Selenium stealth configurations
 
 ## Text Processing
 
