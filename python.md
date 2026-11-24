@@ -378,5 +378,3 @@ event loops.*
 
 ## Other Python Lists
 * [awesome-python](https://github.com/vinta/awesome-python) - general purpose curated list of awesome Python packages
-* [pycrumbs](https://github.com/kirang89/pycrumbs) - a collection of useful Python bits
-* [pythonidae](https://github.com/svaksha/pythonidae) - curated resources for scientific programming in Python
