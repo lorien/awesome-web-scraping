@@ -14,6 +14,7 @@ This list contains JavaScript libraries related to web scraping and data process
    * [Job Queue](#job-queue)
    * [Concurrency](#concurrency)
    * [URL and Network Address](#url-and-network-address)
+   * [Proxy Tools](#proxy-tools)
    * [Proxy Server](#proxy-server)
    * [Other JavaScript Lists](#other-javascript-lists)
 
@@ -210,6 +211,9 @@ This list contains JavaScript libraries related to web scraping and data process
 ### URL and Network Address : Network Address
 * [node-ip](https://github.com/indutny/node-ip) - IP address tools for node.js
 * [ip-address](https://github.com/beaugunderson/ip-address) - A library for parsing and manipulating IPv6 (and v4) addresses in JavaScript
+
+## Proxy Tools
+* [proxy-benchmark](https://github.com/proxycrown/proxy-benchmark) - Scripted 20-target harness that measures how datacenter, ISP, residential and mobile exits are treated, shipping the raw verdicts and a recompute script
 
 ## Proxy Server
 
