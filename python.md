@@ -38,6 +38,7 @@ This list contains python libraries related to web scraping and data processing
 * [Unirest for Python](https://github.com/Mashape/unirest-python) - Unirest is a set of lightweight HTTP libraries available in multiple languages
 * [hyper](https://github.com/Lukasa/hyper) - HTTP/2 Client for Python
 * [PySocks](https://github.com/Anorov/PySocks) - Updated and actively maintained version of SocksiPy, with bug fixes and extra features. Acts as a drop-in replacement to the socket module.
+* [open-ratelimit-registry](https://github.com/Burakceliks/open-ratelimit-registry) - Zero-dependency Python/JS parsers and YAML registry for HTTP API rate-limit headers, `429` retry rules, and proactive worker throttling.
 * [curl cffi](https://github.com/lexiforest/curl_cffi) - curl-impersonate fork via cffi
 * [gakido](https://github.com/HappyHackingSpace/gakido) - The hungry ghost, HTTP client focused on browser impersonation; reproduces real browser TLS (JA3/JA4) and HTTP/2 fingerprints via an optional Go + uTLS backend. 96 browser profiles, sync and async.
 
