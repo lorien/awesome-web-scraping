@@ -71,3 +71,7 @@ consistent across languages.
 - Every project appears exactly once: if two categories fit, pick the one
   matching the dominant use case and mention the secondary role in the
   entry description.
+- A project built for one specific website, or a small named set of websites,
+  is filed in `site-specific-scrapers.md` and nowhere else. The canonical
+  category tree does not apply to that file; it groups entries into per-site
+  sections, with `## Other Sites` as the catch-all.

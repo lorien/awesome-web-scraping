@@ -28,6 +28,8 @@ Each language and domain has its own list file. Target files by language:
 - `javascript.md` — JavaScript / Node.js packages
 - `golang.md` — Go packages
 - `java.md` — Java packages
+- `site-specific-scrapers.md` — scrapers built for one specific website or a
+  small named set of websites, in any language
 - `cli.md` — command-line tools
 - `manuals.md` — articles and books teaching web scraping
 
@@ -40,6 +42,10 @@ An entry is a single markdown list item:
 Rules:
 
 - The description is brief, factual, and one line.
+- A project built for one specific website, or a small named set of websites,
+  belongs in `site-specific-scrapers.md`, not in a language list. Move the
+  entry there and prefix the description with the implementation language,
+  e.g. ` - (Python) description`.
 - The entry is appended to the end of the relevant list; it is never
   inserted into the middle of an existing list.
 - Section headings and the table of contents follow `conventions.md`.

@@ -34,6 +34,20 @@ Rules:
 - The description is brief and confined to one line.
 - The description is factual, not promotional.
 
+## Site-Specific Scrapers List
+
+`site-specific-scrapers.md` gathers projects built for one specific website or
+a small named set of websites, regardless of the implementation language.
+
+- A site-specific project is listed only there. It is removed from its language
+  list; the entry is not duplicated in both files.
+- The description begins with the implementation language in parentheses, e.g.
+  `* [name](url) - (Python) description`.
+- The file groups entries into per-site sections, currently `## Video
+  Platforms` and `## Other Sites`. A new entry is appended to the matching
+  section; `## Other Sites` is the catch-all for projects without a dedicated
+  section yet.
+
 ## Ordering
 
 - New entries are appended to the end of the relevant list.

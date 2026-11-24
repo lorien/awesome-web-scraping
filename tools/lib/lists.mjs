@@ -5,6 +5,7 @@ export const RESOURCE_LISTS = [
   "javascript.md",
   "golang.md",
   "java.md",
+  "site-specific-scrapers.md",
   "cli.md",
   "manuals.md",
   "README.md",

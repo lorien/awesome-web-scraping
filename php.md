@@ -52,7 +52,6 @@ This list contains PHP libraries related to web scraping and data processing
 * [Essence](https://github.com/felixgirault/essence) - A library for extracting web media.
 * [Embera](https://github.com/mpratt/Embera) - An Oembed consumer library.
 * [Embed](https://github.com/oscarotero/Embed) - An awesome library for getting useful information from a webpage.
-* [Youtube-Downloader](https://github.com/jeckman/YouTube-Downloader) - PHP script for downloading videos from youtube; also parsing youtube feed into RSS enclosures for podcatchers
 
 ## Browser Automation
 

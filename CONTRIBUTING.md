@@ -23,6 +23,10 @@ The following content is restricted in this repo:
 * Choose the relevant language list for your entry: `python.md`, `php.md`,
   `ruby.md`, `javascript.md`, `golang.md`, `java.md`, `cli.md`, or
   `manuals.md`
+* A project built for one specific website, or a small named set of websites,
+  goes to `site-specific-scrapers.md` instead and is moved out of the language
+  list; prefix its description with the implementation language, e.g.
+  `* [project-name](https://example.com) - (Python) description of software`
 * Add a new section only if needed; align it with the canonical category
   tree in `spec/docs/categories.md`:
     * Add a section description

@@ -135,8 +135,6 @@ Libraries for working with WebSocket.
 * [python-readability](https://github.com/buriy/python-readability) - Fast Python port of arc90's readability tool.
 * [sumy](https://github.com/miso-belica/sumy) - A module for automatic summarization of text documents and HTML pages.
 * [Haul](https://github.com/vinta/Haul) - An Extensible Image Crawler.
-* [you-get](http://www.soimort.org/you-get/) - A YouTube/Youku/Niconico video downloader written in Python 3.
-* [youtube-dl](http://rg3.github.io/youtube-dl/) - A small command-line program to download videos from YouTube.
 * [WikiTeam](https://github.com/WikiTeam/wikiteam) - Tools for downloading and preserving wikis.
 * [linkchecker](https://github.com/wummel/linkchecker) - check links in web documents or full websites
 * [python-sitemap](https://github.com/c4software/python-sitemap) - Mini website crawler to make sitemap from a website.
@@ -144,10 +142,6 @@ Libraries for working with WebSocket.
 * [advertools](https://github.com/eliasdabbas/advertools) - A customizable crawler to analyze SEO and content of pages and websites.
 * [photon](https://github.com/s0md3v/Photon) - Incredibly fast crawler designed for OSINT
 * [extractnet](https://github.com/currentsapi/extractnet) - Machine Learning based content and metadata extraction in Python 3
-* [visura-api](https://github.com/zornade/visura-api) - REST API for automated Italian cadastral property record extraction from the SISTER portal, using Playwright for browser automation with SPID authentication.
-* [amazon-orders](https://github.com/alexdlaird/amazon-orders) - A Python library (and CLI) for Amazon order history; line items, prices, and receipts.
-* [ytscrape](https://github.com/vsmutok/ytscrape) - Fast, lightweight, pure-HTTP Python library for scraping YouTube search, video & channel metadata, comments, and transcripts (sync & async).
-* [google-maps-scraper-kit](https://github.com/Mahanaicoach/google-maps-scraper-kit) - Google Maps business scraper with email and social profile extraction to CSV, no API key.
 
 ## Browser Automation
 

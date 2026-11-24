@@ -5,7 +5,9 @@
 `awesome-web-scraping` is a curated "awesome list" of web-scraping resources:
 software packages, services, and manuals. Each resource is listed as a single
 markdown list entry with a link, a brief one-line description, and nothing more.
-The list is organized by programming language and tool category.
+The list is organized by programming language and tool category. A separate
+list gathers projects built for one specific website or a small named set of
+websites, regardless of the language they are written in.
 
 ## Content Policy
 
@@ -37,6 +39,8 @@ of the relevant list; they are never inserted into the middle of a list.
 - `javascript.md` — JavaScript / Node.js packages
 - `golang.md` — Go packages
 - `java.md` — Java packages
+- `site-specific-scrapers.md` — Scrapers built for one specific website or a
+  small named set of websites, in any language
 - `cli.md` — Command-line tools
 - `manuals.md` — Articles and books teaching web scraping
 - `CONTRIBUTING.md` — Contribution rules
@@ -51,4 +55,7 @@ of the relevant list; they are never inserted into the middle of a list.
   contents, and sections.
 - The Python list is the largest and most granular; other language lists follow
   the same general structure with fewer, flatter sections.
+- A project built for one specific website, or a small named set of websites,
+  is listed only in `site-specific-scrapers.md`; it is moved there rather than
+  duplicated in the language lists.
 - Each file ends with a section linking to related curated lists for that language.
