@@ -213,7 +213,7 @@ This list contains JavaScript libraries related to web scraping and data process
 * [ip-address](https://github.com/beaugunderson/ip-address) - A library for parsing and manipulating IPv6 (and v4) addresses in JavaScript
 
 ## Proxy Tools
-* [proxy-benchmark](https://github.com/proxycrown/proxy-benchmark) - Scripted 20-target harness that measures how datacenter, ISP, residential and mobile exits are treated, shipping the raw verdicts and a recompute script
+* [proxy-benchmark](https://github.com/proxycrown/proxycrown/tree/main/benchmark) - Scripted 20-target harness that measures how datacenter, ISP, residential and mobile exits are treated, shipping the raw verdicts and a recompute script
 
 ## Proxy Server
 
