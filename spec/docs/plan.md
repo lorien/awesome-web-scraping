@@ -9,6 +9,9 @@ explicitly planned feature or a decision flagged during earlier work.
   currently run only through the pre-commit hook.
 - Link checking via `npm run check:links` stays manual-only by decision; it
   is not wired into CI.
+- The helpers in `tools/` have no automated tests; `npm run check` covers
+  markdown only. The empty-body handling in `tools/lib/gh.mjs` (204 and other
+  bodyless responses) is verified by hand with a stubbed `fetch`.
 
 ## Content Decisions
 
