@@ -32,7 +32,3 @@ List of packages, services, and manuals related to web scraping.
 ## How to Contribute to This List
 
 Please see the [CONTRIBUTING.md](CONTRIBUTING.md) document.
-
-## Credits
-
-The list is initially based on partial data from these sources [awesome-python](https://github.com/vinta/awesome-python), [awesome-php](https://github.com/ziadoz/awesome-php), [awesome-ruby](https://github.com/markets/awesome-ruby), [ruby-nlp](https://github.com/diasks2/ruby-nlp), [awesome-javascript](https://github.com/sorrycc/awesome-javascript)
