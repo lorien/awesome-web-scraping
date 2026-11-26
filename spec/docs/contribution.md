@@ -75,5 +75,7 @@ reporting-only and does not block contributions.
 - Create the pull request against the default branch.
 - Describe what was added or changed in the pull request body.
 - CI runs on the pull request: `check_repo_age.yml` comments if any proposed
-  GitHub repo is younger than a month; such projects are not accepted (see
-  Restricted Content in `CONTRIBUTING.md`).
+  GitHub repo is younger than two months, and closes the pull request; such
+  projects are not accepted (see Restricted Content in `CONTRIBUTING.md`).
+  The pull request is never reopened automatically: remove the entry or wait
+  until the repo is old enough, then reopen it, and the check runs again.

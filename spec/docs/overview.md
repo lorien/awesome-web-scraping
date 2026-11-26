@@ -44,8 +44,8 @@ of the relevant list; they are never inserted into the middle of a list.
 - `cli.md` — Command-line tools
 - `manuals.md` — Articles and books teaching web scraping
 - `CONTRIBUTING.md` — Contribution rules
-- `.github/workflows/check_repo_age.yml` — CI workflow that comments on PRs
-  when a proposed GitHub repo is younger than a month
+- `.github/workflows/check_repo_age.yml` — CI workflow that comments on and
+  closes PRs when a proposed GitHub repo is younger than two months
 - `.gitignore` — Ignores editor artifacts
 
 ## How the List Is Organized

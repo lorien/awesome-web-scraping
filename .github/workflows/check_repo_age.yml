@@ -2,7 +2,7 @@ name: Check PR links for young repos
 
 on:
   pull_request_target:
-    types: [opened, synchronize]
+    types: [opened, synchronize, reopened]
 
 permissions:
   pull-requests: write
@@ -24,4 +24,4 @@ jobs:
           GITHUB_REPOSITORY_OWNER: ${{ github.repository_owner }}
           GITHUB_REPOSITORY_NAME: ${{ github.event.repository.name }}
           PR_NUMBER: ${{ github.event.pull_request.number }}
-          MIN_AGE_DAYS: "30"
+          MIN_AGE_DAYS: "60"

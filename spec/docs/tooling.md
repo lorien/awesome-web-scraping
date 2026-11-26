@@ -82,14 +82,19 @@ runs in `.github/workflows/check_repo_age.yml` on pull requests and:
 - Fetches the PR diff via the GitHub API and collects `github.com/owner/repo`
   links from newly added resource-list lines.
 - Looks up each repo's creation date and flags any younger than
-  `MIN_AGE_DAYS` (default 30).
+  `MIN_AGE_DAYS` (default 60, that is two months).
 - Posts a warning comment on the PR (marker `<!-- repo-age-check -->`) and
   updates or removes it on later pushes so the thread stays current.
+- Closes the pull request, since the rule is that such projects are not
+  accepted. It never reopens a PR: the author removes the entry or waits
+  until the repo is old enough and reopens it, and the `reopened` event runs
+  the check again.
 
 It requires a GitHub token and network access, so it only runs in CI; run it
 locally with the environment variables `GITHUB_TOKEN`,
 `GITHUB_REPOSITORY_OWNER`, `GITHUB_REPOSITORY_NAME`, `PR_NUMBER`, and
-optionally `MIN_AGE_DAYS`.
+optionally `MIN_AGE_DAYS`. Add `--dry-run` to print the comment and the close
+it would perform without writing anything.
 
 ## Repo Content Check (CI)
 

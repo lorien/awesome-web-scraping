@@ -29,6 +29,11 @@ explicitly planned feature or a decision flagged during earlier work.
 - `site-specific-scrapers.md` is split into per-site sections, starting with
   `## Video Platforms` and `## Other Sites`. Carve further per-site sections
   out of `## Other Sites` as groups reach a few entries.
+- The repo age minimum is two months and the CI check closes a PR that adds a
+  younger repo. The rule applies to new contributions only; shipped entries
+  are not re-validated, so `axmaier/tme-s` (54 days) and
+  `lx1112/career-site-jobs-crawler` (33 days) remain listed. Audit them if the
+  rule should apply retroactively.
 - Add a check that flags a site-specific project added to a language list
   instead of `site-specific-scrapers.md`; currently only manual review catches
   it.

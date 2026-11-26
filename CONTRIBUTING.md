@@ -8,7 +8,7 @@ pull request. The full contribution workflow is documented in
 
 The following content is restricted in this repo:
 
-* Projects whose GitHub repo is younger than a month
+* Projects whose GitHub repo is younger than two months (60 days)
 * Web service / website / remote API - anything that is not standalone
   software
 * Anything related to automation with an AI agent or the Model Context
