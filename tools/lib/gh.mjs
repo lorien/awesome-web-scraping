@@ -21,7 +21,8 @@ export async function gh(path, { method = "GET", body, raw = false } = {}) {
     const text = await res.text()
     throw new Error(`GitHub API ${method} ${path} -> ${res.status}: ${text.slice(0, 300)}`)
   }
-  return raw ? res.text() : res.json()
+  if (raw) return res.text()
+  return res.status === 204 ? null : res.json()
 }
 
 export async function ghAll(path) {
