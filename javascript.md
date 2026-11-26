@@ -51,9 +51,6 @@ This list contains JavaScript libraries related to web scraping and data process
 * [pjscrape](https://github.com/nrabinowitz/pjscrape) - A web-scraping framework written in Javascript, using PhantomJS and jQuery
 * [spider-nodejs](https://github.com/spider-rs/spider-nodejs) - Node.js bindings to the Rust spider crawler for crawling sites and collecting pages concurrently
 
-### Web Scraping : Tools
-* [career-site-jobs-crawler](https://github.com/lx1112/career-site-jobs-crawler) - Crawls the public job-board APIs of Greenhouse, Lever, Ashby, Workable, SmartRecruiters, Recruitee and Workday for a directory of about 20,000 company boards built from Common Crawl, writing all open jobs to JSON Lines; prunes dead boards, paces per-system rate limits
-
 ## HTML/XML Parsing
 
 ### HTML/XML Parsing : General

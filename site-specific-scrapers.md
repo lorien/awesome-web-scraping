@@ -23,3 +23,4 @@ named set of websites, regardless of the implementation language.
 * [google-maps-scraper-kit](https://github.com/Mahanaicoach/google-maps-scraper-kit) - (Python) Google Maps business scraper with email and social profile extraction to CSV, no API key.
 * [Wayback-Archive](https://github.com/GeiserX/Wayback-Archive) - (Python) Download a whole website from the Wayback Machine and rewrite its links for offline viewing
 * [tme-s](https://github.com/axmaier/tme-s) - (Python) Read public Telegram channels from the t.me/s/ web preview as JSON lines, without an API key, phone number or account
+* [career-site-jobs-crawler](https://github.com/lx1112/career-site-jobs-crawler) - (JavaScript) Crawls the public job-board APIs of Greenhouse, Lever, Ashby, Workable, SmartRecruiters, Recruitee and Workday for a directory of about 20,000 company boards built from Common Crawl
