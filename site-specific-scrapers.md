@@ -24,3 +24,4 @@ named set of websites, regardless of the implementation language.
 * [Wayback-Archive](https://github.com/GeiserX/Wayback-Archive) - (Python) Download a whole website from the Wayback Machine and rewrite its links for offline viewing
 * [tme-s](https://github.com/axmaier/tme-s) - (Python) Read public Telegram channels from the t.me/s/ web preview as JSON lines, without an API key, phone number or account
 * [career-site-jobs-crawler](https://github.com/lx1112/career-site-jobs-crawler) - (JavaScript) Crawls the public job-board APIs of Greenhouse, Lever, Ashby, Workable, SmartRecruiters, Recruitee and Workday for a directory of about 20,000 company boards built from Common Crawl
+* [2scraper](https://github.com/2scraper) - (Python) 65 single-site scrapers (one repo per site), shared CLI and output contract (JSON/CSV + run metadata, common exit codes), measured anti-bot conditions per site.
